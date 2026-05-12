@@ -1,0 +1,1 @@
+{"seed": 42, "num_round1_rows": 1593, "num_round2_candidates": 885, "num_round2_rows": 885, "num_combined_rows": 2478, "target_models_filter": ["llama3.1-8b-bedrock"], "judge_model": "gemini-2.0-flash", "workers": 1}

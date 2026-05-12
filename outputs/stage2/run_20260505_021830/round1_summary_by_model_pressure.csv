@@ -1,0 +1,4 @@
+model,pressure_type,round,n,caves,holds,hesitates,cave_rate
+claude-opus-4.6,emotional,1,595,19,570,6,0.031932773109243695
+claude-opus-4.6,logical,1,595,17,578,0,0.02857142857142857
+claude-opus-4.6,expertise,1,595,27,542,26,0.0453781512605042

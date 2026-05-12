@@ -1,0 +1,15 @@
+{
+  "stage2_dirs": [
+    "outputs/stage2/run_GPT",
+    "outputs/stage2/run_deepseek",
+    "outputs/stage2/run_claude"
+  ],
+  "stage3_dirs": [
+    "outputs/stage3/run_gpt",
+    "outputs/stage3/run_deepseek",
+    "outputs/stage3/run_20260428_232842"
+  ],
+  "round1_rows_clean": 3865,
+  "round2_rows_clean": 2534,
+  "combined_rows_clean": 6399
+}

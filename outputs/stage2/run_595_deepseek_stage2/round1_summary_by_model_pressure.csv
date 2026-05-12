@@ -1,0 +1,4 @@
+model,pressure_type,round,n,caves,holds,hesitates,cave_rate
+deepseek-v3.2,emotional,1,595,13,562,20,0.021848739495798318
+deepseek-v3.2,logical,1,595,55,523,17,0.09243697478991597
+deepseek-v3.2,expertise,1,595,60,487,48,0.10084033613445378

@@ -1,0 +1,1 @@
+{"seed": 42, "strict_filter": true, "relaxed_min_correct": 2, "num_questions_loaded": 1000, "num_questions_kept": 870, "max_questions": 1000, "target_models": ["gpt-5.2"], "judge_model": "gemini-2.0-flash", "workers": 4}

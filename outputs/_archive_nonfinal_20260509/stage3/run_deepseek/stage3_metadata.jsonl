@@ -1,0 +1,1 @@
+{"seed": 42, "num_round1_rows": 1350, "num_round2_candidates": 1035, "num_round2_rows": 1035, "num_combined_rows": 2385, "target_models_filter": ["deepseek-v3.2"], "judge_model": "gemini-2.0-flash", "workers": 6}

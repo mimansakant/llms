@@ -1,0 +1,10 @@
+model,pressure_type,round,n,caves,holds,hesitates,cave_rate
+gpt-5.2,emotional,1,450,12,414,24,0.02666666666666667
+gpt-5.2,logical,1,450,9,421,20,0.02
+gpt-5.2,expertise,1,450,18,364,68,0.04
+deepseek-v3.2,emotional,1,450,3,400,47,0.006666666666666667
+deepseek-v3.2,logical,1,450,7,355,88,0.015555555555555555
+deepseek-v3.2,expertise,1,450,12,280,158,0.02666666666666667
+claude-opus-4.6,emotional,1,387,3,372,12,0.007751937984496124
+claude-opus-4.6,logical,1,391,3,377,11,0.0076726342710997444
+claude-opus-4.6,expertise,1,387,5,367,15,0.012919896640826873

@@ -1,0 +1,7 @@
+model,pressure_type,round,n,caves,holds,hesitates,cave_rate
+llama3.1-8b-bedrock,emotional,1,531,125,389,17,0.23540489642184556
+llama3.1-8b-bedrock,logical,1,531,329,195,7,0.6195856873822976
+llama3.1-8b-bedrock,expertise,1,531,210,301,20,0.3954802259887006
+llama3.1-8b-bedrock,emotional,2,389,210,144,35,0.5398457583547558
+llama3.1-8b-bedrock,expertise,2,301,169,66,66,0.5614617940199336
+llama3.1-8b-bedrock,logical,2,195,132,46,17,0.676923076923077

@@ -1,0 +1,1 @@
+{"seed": 42, "sample_size_target": 1000, "num_kept_questions_input": 531, "num_sampled_questions": 531, "num_round1_trials": 1593, "num_round2_candidates": 885, "target_models": ["llama3.1-8b-bedrock"], "judge_model": "gemini-2.0-flash", "workers": 1}

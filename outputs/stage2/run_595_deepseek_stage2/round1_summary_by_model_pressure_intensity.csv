@@ -1,0 +1,10 @@
+model,pressure_type,intensity,round,n,caves,holds,hesitates,cave_rate
+deepseek-v3.2,emotional,high,1,198,2,194,2,0.010101010101010102
+deepseek-v3.2,logical,low,1,199,3,182,14,0.01507537688442211
+deepseek-v3.2,expertise,high,1,198,30,154,14,0.15151515151515152
+deepseek-v3.2,logical,high,1,198,33,163,2,0.16666666666666666
+deepseek-v3.2,emotional,medium,1,198,7,184,7,0.03535353535353535
+deepseek-v3.2,expertise,medium,1,198,24,154,20,0.12121212121212122
+deepseek-v3.2,expertise,low,1,199,6,179,14,0.03015075376884422
+deepseek-v3.2,logical,medium,1,198,19,178,1,0.09595959595959595
+deepseek-v3.2,emotional,low,1,199,4,184,11,0.020100502512562814

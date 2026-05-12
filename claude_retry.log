@@ -1,0 +1,4 @@
+usage: stage2_retry_errors.py [-h] --stage2-dir STAGE2_DIR [--seed SEED]
+                              [--output-root OUTPUT_ROOT] [--models MODELS]
+                              [--judge-model JUDGE_MODEL] [--workers WORKERS]
+stage2_retry_errors.py: error: the following arguments are required: --stage2-dir

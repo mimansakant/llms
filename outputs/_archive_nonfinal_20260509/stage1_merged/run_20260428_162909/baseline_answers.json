@@ -1,0 +1,5002 @@
+{
+  "abstract_algebra-test-27": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "abstract_algebra-test-35": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "abstract_algebra-test-53": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "abstract_algebra-test-58": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "abstract_algebra-test-6": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "abstract_algebra-test-9": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "abstract_algebra-test-90": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "abstract_algebra-test-96": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "anatomy-test-107": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "anatomy-test-17": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "anatomy-test-28": {
+    "deepseek-v3.2": "C",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "anatomy-test-52": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "anatomy-test-58": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "anatomy-test-6": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "anatomy-test-66": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "anatomy-test-88": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "astronomy-test-109": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "astronomy-test-6": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "astronomy-test-82": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "astronomy-test-84": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "astronomy-test-85": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "astronomy-test-98": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "business_ethics-test-0": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "business_ethics-test-13": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "business_ethics-test-19": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "business_ethics-test-22": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "business_ethics-test-33": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "business_ethics-test-47": {
+    "deepseek-v3.2": "A",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "business_ethics-test-54": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "business_ethics-test-57": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "business_ethics-test-65": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "business_ethics-test-83": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "business_ethics-test-88": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "clinical_knowledge-test-1": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "clinical_knowledge-test-103": {
+    "deepseek-v3.2": "B",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "clinical_knowledge-test-139": {
+    "deepseek-v3.2": "B",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "clinical_knowledge-test-147": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "clinical_knowledge-test-164": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "clinical_knowledge-test-166": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "clinical_knowledge-test-172": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "clinical_knowledge-test-185": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "clinical_knowledge-test-198": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "clinical_knowledge-test-21": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "clinical_knowledge-test-224": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "clinical_knowledge-test-235": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "clinical_knowledge-test-240": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "clinical_knowledge-test-263": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "clinical_knowledge-test-27": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "clinical_knowledge-test-33": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "clinical_knowledge-test-38": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "college_biology-test-101": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "college_biology-test-135": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "college_biology-test-19": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "college_biology-test-5": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "college_biology-test-69": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "college_biology-test-70": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "college_biology-test-71": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "college_biology-test-76": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "college_biology-test-80": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "college_chemistry-test-20": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "college_chemistry-test-35": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "college_chemistry-test-40": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "college_chemistry-test-53": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "college_chemistry-test-62": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "college_chemistry-test-64": {
+    "deepseek-v3.2": "C",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "college_chemistry-test-68": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "college_chemistry-test-97": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "college_computer_science-test-2": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "college_computer_science-test-24": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "college_computer_science-test-44": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "college_computer_science-test-53": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "college_computer_science-test-56": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "college_computer_science-test-88": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "college_mathematics-test-17": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "college_mathematics-test-26": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "college_mathematics-test-28": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "college_mathematics-test-31": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "college_mathematics-test-33": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "college_mathematics-test-37": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "college_mathematics-test-41": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "college_mathematics-test-43": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "college_mathematics-test-50": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "college_mathematics-test-64": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "college_mathematics-test-67": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "college_mathematics-test-73": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "college_mathematics-test-8": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "college_mathematics-test-92": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "college_mathematics-test-97": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "college_medicine-test-111": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "college_medicine-test-116": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "college_medicine-test-124": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "college_medicine-test-145": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "college_medicine-test-147": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "college_medicine-test-36": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "college_medicine-test-39": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "college_medicine-test-4": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "college_medicine-test-49": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "college_medicine-test-73": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "college_medicine-test-94": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "college_medicine-test-95": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "college_physics-test-20": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "college_physics-test-33": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "college_physics-test-34": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "college_physics-test-50": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "college_physics-test-55": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "college_physics-test-6": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "computer_security-test-18": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "computer_security-test-41": {
+    "deepseek-v3.2": "B",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "computer_security-test-48": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "computer_security-test-57": {
+    "deepseek-v3.2": "B",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "computer_security-test-59": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "computer_security-test-64": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "computer_security-test-74": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "conceptual_physics-test-103": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "conceptual_physics-test-108": {
+    "deepseek-v3.2": "C",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "conceptual_physics-test-113": {
+    "deepseek-v3.2": "B",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "conceptual_physics-test-126": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "conceptual_physics-test-13": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "conceptual_physics-test-158": {
+    "deepseek-v3.2": "C",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "conceptual_physics-test-17": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "conceptual_physics-test-172": {
+    "deepseek-v3.2": "B",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "conceptual_physics-test-175": {
+    "deepseek-v3.2": "A",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "conceptual_physics-test-182": {
+    "deepseek-v3.2": "B",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "conceptual_physics-test-200": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "conceptual_physics-test-205": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "conceptual_physics-test-219": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "conceptual_physics-test-225": {
+    "deepseek-v3.2": "B",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "conceptual_physics-test-33": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "conceptual_physics-test-41": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "conceptual_physics-test-67": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "conceptual_physics-test-83": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "conceptual_physics-test-98": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "econometrics-test-18": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "econometrics-test-21": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "econometrics-test-26": {
+    "deepseek-v3.2": "B",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "econometrics-test-68": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "econometrics-test-70": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "econometrics-test-83": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "econometrics-test-85": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "econometrics-test-88": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "electrical_engineering-test-121": {
+    "deepseek-v3.2": "A",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "electrical_engineering-test-125": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "electrical_engineering-test-140": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "electrical_engineering-test-44": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "electrical_engineering-test-62": {
+    "deepseek-v3.2": "B",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "electrical_engineering-test-63": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "electrical_engineering-test-68": {
+    "deepseek-v3.2": "C",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "elementary_mathematics-test-102": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "elementary_mathematics-test-105": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "elementary_mathematics-test-119": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "elementary_mathematics-test-135": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "elementary_mathematics-test-158": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "elementary_mathematics-test-20": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "elementary_mathematics-test-201": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "elementary_mathematics-test-202": {
+    "deepseek-v3.2": "A",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "elementary_mathematics-test-221": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "elementary_mathematics-test-222": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "elementary_mathematics-test-23": {
+    "deepseek-v3.2": "C",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "elementary_mathematics-test-231": {
+    "deepseek-v3.2": "C",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "elementary_mathematics-test-26": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "elementary_mathematics-test-275": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "elementary_mathematics-test-3": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "elementary_mathematics-test-349": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "elementary_mathematics-test-352": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "elementary_mathematics-test-361": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "elementary_mathematics-test-377": {
+    "deepseek-v3.2": "B",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "elementary_mathematics-test-38": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "elementary_mathematics-test-78": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "elementary_mathematics-test-79": {
+    "deepseek-v3.2": "A",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "formal_logic-test-103": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "formal_logic-test-104": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "formal_logic-test-28": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "formal_logic-test-53": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "formal_logic-test-60": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "formal_logic-test-61": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "formal_logic-test-63": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "formal_logic-test-89": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "formal_logic-test-93": {
+    "deepseek-v3.2": "A",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "global_facts-test-10": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "global_facts-test-15": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "global_facts-test-22": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "global_facts-test-38": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "global_facts-test-39": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "global_facts-test-46": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "global_facts-test-52": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "global_facts-test-77": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "global_facts-test-78": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "global_facts-test-93": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "global_facts-test-95": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_biology-test-111": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_biology-test-134": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_biology-test-14": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_biology-test-182": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_biology-test-212": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_biology-test-216": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_biology-test-231": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_biology-test-256": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_biology-test-258": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_biology-test-269": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_biology-test-28": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_biology-test-308": {
+    "deepseek-v3.2": "B",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_biology-test-35": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_biology-test-36": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_biology-test-55": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_biology-test-8": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_biology-test-80": {
+    "deepseek-v3.2": "C",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_chemistry-test-0": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_chemistry-test-132": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_chemistry-test-135": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_chemistry-test-137": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_chemistry-test-140": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_chemistry-test-151": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_chemistry-test-160": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_chemistry-test-164": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_chemistry-test-171": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_chemistry-test-185": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_chemistry-test-27": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_chemistry-test-65": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_computer_science-test-3": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_computer_science-test-46": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_computer_science-test-67": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_computer_science-test-75": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_computer_science-test-76": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_computer_science-test-80": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_computer_science-test-84": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_computer_science-test-87": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_european_history-test-106": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_european_history-test-13": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_european_history-test-150": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_european_history-test-159": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_european_history-test-161": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_european_history-test-53": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_european_history-test-64": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_geography-test-119": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_geography-test-124": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_geography-test-135": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_geography-test-138": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_geography-test-146": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_geography-test-148": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_geography-test-151": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_geography-test-161": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_geography-test-164": {
+    "deepseek-v3.2": "A",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_geography-test-166": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_geography-test-197": {
+    "deepseek-v3.2": "B",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_geography-test-20": {
+    "deepseek-v3.2": "C",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_geography-test-23": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_geography-test-28": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_geography-test-3": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_geography-test-36": {
+    "deepseek-v3.2": "C",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_geography-test-45": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_geography-test-54": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_geography-test-55": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_geography-test-58": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_geography-test-63": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_geography-test-80": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_geography-test-9": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_government_and_politics-test-105": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_government_and_politics-test-107": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_government_and_politics-test-12": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_government_and_politics-test-125": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_government_and_politics-test-143": {
+    "deepseek-v3.2": "A",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_government_and_politics-test-166": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_government_and_politics-test-169": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_government_and_politics-test-28": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_government_and_politics-test-35": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_government_and_politics-test-36": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_government_and_politics-test-7": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_government_and_politics-test-83": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_government_and_politics-test-88": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_macroeconomics-test-10": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_macroeconomics-test-108": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_macroeconomics-test-116": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_macroeconomics-test-140": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_macroeconomics-test-143": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_macroeconomics-test-15": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_macroeconomics-test-157": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_macroeconomics-test-159": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_macroeconomics-test-164": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_macroeconomics-test-172": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_macroeconomics-test-173": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_macroeconomics-test-174": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_macroeconomics-test-184": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_macroeconomics-test-195": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_macroeconomics-test-202": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_macroeconomics-test-212": {
+    "deepseek-v3.2": "C",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_macroeconomics-test-213": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_macroeconomics-test-223": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_macroeconomics-test-227": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_macroeconomics-test-235": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_macroeconomics-test-244": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_macroeconomics-test-250": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_macroeconomics-test-254": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_macroeconomics-test-276": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_macroeconomics-test-281": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_macroeconomics-test-295": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_macroeconomics-test-3": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_macroeconomics-test-335": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_macroeconomics-test-34": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_macroeconomics-test-360": {
+    "deepseek-v3.2": "A",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_macroeconomics-test-40": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_macroeconomics-test-61": {
+    "deepseek-v3.2": "C",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_macroeconomics-test-70": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_macroeconomics-test-72": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_macroeconomics-test-81": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_macroeconomics-test-85": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_macroeconomics-test-99": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_mathematics-test-105": {
+    "deepseek-v3.2": "A",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_mathematics-test-111": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_mathematics-test-114": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_mathematics-test-117": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_mathematics-test-121": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_mathematics-test-123": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_mathematics-test-143": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_mathematics-test-146": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_mathematics-test-158": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_mathematics-test-169": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_mathematics-test-18": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_mathematics-test-194": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_mathematics-test-197": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_mathematics-test-223": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_mathematics-test-234": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_mathematics-test-243": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_mathematics-test-34": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_mathematics-test-4": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_mathematics-test-44": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_mathematics-test-51": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_mathematics-test-63": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_mathematics-test-76": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_mathematics-test-87": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_mathematics-test-97": {
+    "deepseek-v3.2": "B",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_microeconomics-test-1": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_microeconomics-test-118": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_microeconomics-test-151": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_microeconomics-test-171": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_microeconomics-test-175": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_microeconomics-test-183": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_microeconomics-test-202": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_microeconomics-test-28": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_microeconomics-test-35": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_microeconomics-test-45": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_microeconomics-test-54": {
+    "deepseek-v3.2": "A",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_microeconomics-test-56": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_microeconomics-test-59": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_microeconomics-test-60": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_microeconomics-test-64": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_microeconomics-test-65": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_microeconomics-test-66": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_microeconomics-test-71": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_microeconomics-test-75": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_microeconomics-test-8": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_microeconomics-test-83": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_physics-test-108": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_physics-test-125": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_physics-test-5": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_physics-test-67": {
+    "deepseek-v3.2": "C",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_physics-test-72": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_psychology-test-113": {
+    "deepseek-v3.2": "C",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_psychology-test-151": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_psychology-test-163": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_psychology-test-18": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_psychology-test-180": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_psychology-test-198": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_psychology-test-2": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_psychology-test-209": {
+    "deepseek-v3.2": "A",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_psychology-test-220": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_psychology-test-224": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_psychology-test-251": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_psychology-test-252": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_psychology-test-256": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_psychology-test-260": {
+    "deepseek-v3.2": "A",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_psychology-test-268": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_psychology-test-28": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_psychology-test-281": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_psychology-test-293": {
+    "deepseek-v3.2": "B",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_psychology-test-296": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_psychology-test-311": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_psychology-test-33": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_psychology-test-351": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_psychology-test-392": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_psychology-test-393": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_psychology-test-423": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_psychology-test-426": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_psychology-test-43": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_psychology-test-438": {
+    "deepseek-v3.2": "A",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_psychology-test-457": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_psychology-test-468": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_psychology-test-476": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_psychology-test-491": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_psychology-test-5": {
+    "deepseek-v3.2": "A",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_psychology-test-522": {
+    "deepseek-v3.2": "C",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_psychology-test-526": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_psychology-test-534": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_psychology-test-538": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_psychology-test-54": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_psychology-test-69": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_psychology-test-91": {
+    "deepseek-v3.2": "B",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_statistics-test-10": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_statistics-test-107": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_statistics-test-127": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_statistics-test-141": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_statistics-test-142": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_statistics-test-144": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_statistics-test-158": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_statistics-test-185": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_statistics-test-203": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_statistics-test-32": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_statistics-test-59": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_statistics-test-70": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_statistics-test-75": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_statistics-test-79": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_statistics-test-82": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_statistics-test-97": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_us_history-test-105": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_us_history-test-115": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_us_history-test-146": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_us_history-test-15": {
+    "deepseek-v3.2": "C",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_us_history-test-156": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_us_history-test-165": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_us_history-test-172": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_us_history-test-40": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_us_history-test-70": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_us_history-test-80": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_us_history-test-85": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_world_history-test-10": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_world_history-test-115": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_world_history-test-122": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_world_history-test-125": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_world_history-test-191": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_world_history-test-197": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "high_school_world_history-test-202": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_world_history-test-213": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_world_history-test-219": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "high_school_world_history-test-29": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "high_school_world_history-test-73": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_world_history-test-78": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_world_history-test-82": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "high_school_world_history-test-95": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "human_aging-test-112": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "human_aging-test-120": {
+    "deepseek-v3.2": "B",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "human_aging-test-122": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "human_aging-test-127": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "human_aging-test-135": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "human_aging-test-138": {
+    "deepseek-v3.2": "A",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "human_aging-test-143": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "human_aging-test-163": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "human_aging-test-178": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "human_aging-test-186": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "human_aging-test-202": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "human_aging-test-215": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "human_aging-test-222": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "human_aging-test-29": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "human_aging-test-37": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "human_aging-test-60": {
+    "deepseek-v3.2": "B",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "human_sexuality-test-59": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "human_sexuality-test-69": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "human_sexuality-test-77": {
+    "deepseek-v3.2": "B",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "human_sexuality-test-84": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "international_law-test-100": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "international_law-test-104": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "international_law-test-105": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "international_law-test-12": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "international_law-test-39": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "international_law-test-41": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "international_law-test-55": {
+    "deepseek-v3.2": "B",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "international_law-test-85": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "international_law-test-94": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "jurisprudence-test-105": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "jurisprudence-test-28": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "jurisprudence-test-32": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "jurisprudence-test-51": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "jurisprudence-test-6": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "jurisprudence-test-60": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "jurisprudence-test-8": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "jurisprudence-test-89": {
+    "deepseek-v3.2": "C",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "jurisprudence-test-94": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "logical_fallacies-test-118": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "logical_fallacies-test-125": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "logical_fallacies-test-140": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "logical_fallacies-test-19": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "logical_fallacies-test-6": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "logical_fallacies-test-63": {
+    "deepseek-v3.2": "C",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "logical_fallacies-test-73": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "logical_fallacies-test-83": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "machine_learning-test-104": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "machine_learning-test-30": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "machine_learning-test-33": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "machine_learning-test-38": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "machine_learning-test-47": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "machine_learning-test-48": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "machine_learning-test-53": {
+    "deepseek-v3.2": "C",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "machine_learning-test-71": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "machine_learning-test-77": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "machine_learning-test-81": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "machine_learning-test-89": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "machine_learning-test-95": {
+    "deepseek-v3.2": "A",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "machine_learning-test-97": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "management-test-18": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "management-test-44": {
+    "deepseek-v3.2": "A",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "management-test-60": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "management-test-71": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "management-test-72": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "management-test-75": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "management-test-94": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "management-test-96": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "marketing-test-12": {
+    "deepseek-v3.2": "A",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "marketing-test-127": {
+    "deepseek-v3.2": "C",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "marketing-test-129": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "marketing-test-156": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "marketing-test-16": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "marketing-test-188": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "marketing-test-189": {
+    "deepseek-v3.2": "B",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "marketing-test-194": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "marketing-test-201": {
+    "deepseek-v3.2": "C",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "marketing-test-210": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "marketing-test-52": {
+    "deepseek-v3.2": "B",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "marketing-test-69": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "marketing-test-73": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "marketing-test-85": {
+    "deepseek-v3.2": "B",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "marketing-test-86": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "marketing-test-90": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "marketing-test-94": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "marketing-test-99": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "medical_genetics-test-21": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "medical_genetics-test-58": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "medical_genetics-test-66": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "medical_genetics-test-75": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "medical_genetics-test-89": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-1": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-107": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-124": {
+    "deepseek-v3.2": "C",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-13": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-133": {
+    "deepseek-v3.2": "C",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-143": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-148": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-157": {
+    "deepseek-v3.2": "B",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-180": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-189": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-195": {
+    "deepseek-v3.2": "C",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-227": {
+    "deepseek-v3.2": "C",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-228": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-229": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-232": {
+    "deepseek-v3.2": "B",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-234": {
+    "deepseek-v3.2": "B",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-235": {
+    "deepseek-v3.2": "B",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-249": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-267": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-273": {
+    "deepseek-v3.2": "A",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-284": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-321": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-327": {
+    "deepseek-v3.2": "B",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-360": {
+    "deepseek-v3.2": "B",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-365": {
+    "deepseek-v3.2": "A",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-368": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-374": {
+    "deepseek-v3.2": "B",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-393": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-400": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-403": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-416": {
+    "deepseek-v3.2": "C",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-427": {
+    "deepseek-v3.2": "C",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-430": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-44": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-49": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-502": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-537": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-555": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-569": {
+    "deepseek-v3.2": "B",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-572": {
+    "deepseek-v3.2": "B",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-578": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-589": {
+    "deepseek-v3.2": "C",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-604": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-615": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-620": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-621": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-647": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-65": {
+    "deepseek-v3.2": "A",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-657": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-70": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-701": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-714": {
+    "deepseek-v3.2": "C",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-715": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-77": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-94": {
+    "deepseek-v3.2": "A",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "moral_disputes-test-103": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "moral_disputes-test-112": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "moral_disputes-test-113": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "moral_disputes-test-12": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "moral_disputes-test-121": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "moral_disputes-test-122": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "moral_disputes-test-141": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "moral_disputes-test-150": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "moral_disputes-test-153": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "moral_disputes-test-179": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "moral_disputes-test-181": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "moral_disputes-test-208": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "moral_disputes-test-212": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "moral_disputes-test-256": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "moral_disputes-test-278": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "moral_disputes-test-297": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "moral_disputes-test-312": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "moral_disputes-test-319": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "moral_disputes-test-34": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "moral_disputes-test-71": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-132": {
+    "deepseek-v3.2": "A",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-153": {
+    "deepseek-v3.2": "C",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-156": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-176": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-188": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-189": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-214": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-215": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-238": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-27": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-272": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-273": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-284": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-295": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-304": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-305": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-308": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-317": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-321": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-322": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-324": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-336": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-343": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-35": {
+    "deepseek-v3.2": "B",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-370": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-377": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-387": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-415": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-422": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-425": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-434": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-463": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-464": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-494": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-5": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-503": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-52": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-525": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-531": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-539": {
+    "deepseek-v3.2": "B",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-551": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-562": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-570": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-573": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-583": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-592": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-593": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-612": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-619": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-644": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-660": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-676": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-682": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-684": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-711": {
+    "deepseek-v3.2": "A",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-727": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-733": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-747": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-759": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-779": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-782": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-811": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-820": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-823": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-842": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "nutrition-test-104": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "nutrition-test-135": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "nutrition-test-152": {
+    "deepseek-v3.2": "B",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "nutrition-test-154": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "nutrition-test-161": {
+    "deepseek-v3.2": "A",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "nutrition-test-163": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "nutrition-test-169": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "nutrition-test-23": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "nutrition-test-230": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "nutrition-test-233": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "nutrition-test-24": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "nutrition-test-246": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "nutrition-test-25": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "nutrition-test-266": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "nutrition-test-289": {
+    "deepseek-v3.2": "A",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "nutrition-test-292": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "nutrition-test-299": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "nutrition-test-32": {
+    "deepseek-v3.2": "C",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "nutrition-test-38": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "nutrition-test-51": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "nutrition-test-73": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "nutrition-test-77": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "nutrition-test-81": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "nutrition-test-94": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "philosophy-test-123": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "philosophy-test-149": {
+    "deepseek-v3.2": "A",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "philosophy-test-169": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "philosophy-test-177": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "philosophy-test-195": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "philosophy-test-212": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "philosophy-test-218": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "philosophy-test-224": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "philosophy-test-225": {
+    "deepseek-v3.2": "C",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "philosophy-test-235": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "philosophy-test-26": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "philosophy-test-263": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "philosophy-test-266": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "philosophy-test-285": {
+    "deepseek-v3.2": "A",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "philosophy-test-301": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "philosophy-test-307": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "philosophy-test-35": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "philosophy-test-41": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "philosophy-test-49": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "philosophy-test-53": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "philosophy-test-57": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "philosophy-test-60": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "philosophy-test-99": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "prehistory-test-108": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "prehistory-test-12": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "prehistory-test-120": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "prehistory-test-122": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "prehistory-test-143": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "prehistory-test-152": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "prehistory-test-154": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "prehistory-test-170": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "prehistory-test-184": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "prehistory-test-219": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "prehistory-test-243": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "prehistory-test-251": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "prehistory-test-255": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "prehistory-test-274": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "prehistory-test-293": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "prehistory-test-314": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "prehistory-test-59": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "prehistory-test-66": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_accounting-test-119": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_accounting-test-127": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "professional_accounting-test-136": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_accounting-test-152": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_accounting-test-161": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "professional_accounting-test-181": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_accounting-test-183": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_accounting-test-21": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_accounting-test-226": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_accounting-test-233": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_accounting-test-238": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_accounting-test-260": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_accounting-test-268": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_accounting-test-42": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "professional_accounting-test-43": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "professional_accounting-test-54": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_accounting-test-64": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_accounting-test-66": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_accounting-test-89": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "professional_accounting-test-98": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1031": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1049": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1059": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-107": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1083": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1100": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1103": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1126": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1131": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1138": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1139": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1153": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1156": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1160": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1161": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1166": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-117": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1177": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1199": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1220": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1233": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1300": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1305": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1314": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1315": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1324": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1328": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1337": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1346": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1360": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-139": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1391": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1405": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1412": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1423": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1426": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1435": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1436": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1444": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1504": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1513": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1518": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1525": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1532": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-16": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-163": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-165": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-178": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-182": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-20": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-203": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-207": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-213": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-231": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-237": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-245": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-251": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-26": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-263": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-295": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-296": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-306": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-311": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-316": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-327": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-329": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-337": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-341": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-344": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-349": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-356": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-373": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-392": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-401": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-431": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-438": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-456": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-466": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-47": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-496": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-502": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-514": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-518": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-53": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-538": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-543": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-568": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-579": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-585": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-622": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-632": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-635": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-643": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-671": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-683": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-684": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-690": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-738": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-75": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-764": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-770": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-778": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-781": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-791": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-792": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-807": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-829": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-83": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-857": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-858": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-859": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-867": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-895": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-912": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-930": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-942": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-95": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-957": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-966": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-981": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_medicine-test-107": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_medicine-test-114": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_medicine-test-130": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_medicine-test-137": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "professional_medicine-test-138": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_medicine-test-141": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "professional_medicine-test-152": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_medicine-test-153": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_medicine-test-155": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_medicine-test-179": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_medicine-test-181": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_medicine-test-19": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_medicine-test-192": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "professional_medicine-test-209": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_medicine-test-217": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_medicine-test-256": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_medicine-test-267": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "professional_medicine-test-40": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_medicine-test-74": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_medicine-test-82": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_medicine-test-89": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_medicine-test-92": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_psychology-test-106": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_psychology-test-110": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_psychology-test-127": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_psychology-test-151": {
+    "deepseek-v3.2": "B",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_psychology-test-153": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_psychology-test-155": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_psychology-test-175": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_psychology-test-179": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "professional_psychology-test-197": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_psychology-test-219": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_psychology-test-228": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "professional_psychology-test-233": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_psychology-test-24": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "professional_psychology-test-254": {
+    "deepseek-v3.2": "C",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_psychology-test-276": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_psychology-test-304": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "professional_psychology-test-306": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "professional_psychology-test-316": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_psychology-test-320": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "professional_psychology-test-34": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_psychology-test-344": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_psychology-test-362": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_psychology-test-381": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_psychology-test-385": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_psychology-test-397": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_psychology-test-409": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_psychology-test-418": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_psychology-test-426": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_psychology-test-436": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_psychology-test-447": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "professional_psychology-test-46": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_psychology-test-463": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_psychology-test-540": {
+    "deepseek-v3.2": "B",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_psychology-test-55": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_psychology-test-567": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_psychology-test-593": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "professional_psychology-test-605": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "professional_psychology-test-606": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "professional_psychology-test-608": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "professional_psychology-test-72": {
+    "deepseek-v3.2": "C",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "public_relations-test-22": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "public_relations-test-27": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "public_relations-test-56": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "public_relations-test-67": {
+    "deepseek-v3.2": "A",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "public_relations-test-81": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "public_relations-test-94": {
+    "deepseek-v3.2": "A",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "security_studies-test-102": {
+    "deepseek-v3.2": "C",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "security_studies-test-124": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "security_studies-test-15": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "security_studies-test-194": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "security_studies-test-210": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "security_studies-test-219": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "security_studies-test-228": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "security_studies-test-30": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "security_studies-test-38": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "security_studies-test-43": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "security_studies-test-54": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "security_studies-test-55": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "security_studies-test-59": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "security_studies-test-64": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "security_studies-test-71": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "security_studies-test-79": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "security_studies-test-82": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "sociology-test-124": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "sociology-test-173": {
+    "deepseek-v3.2": "B",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "sociology-test-184": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "sociology-test-19": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "sociology-test-39": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "sociology-test-5": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "sociology-test-60": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "sociology-test-69": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "us_foreign_policy-test-21": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "us_foreign_policy-test-25": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "us_foreign_policy-test-3": {
+    "deepseek-v3.2": "A",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "us_foreign_policy-test-41": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "us_foreign_policy-test-5": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "us_foreign_policy-test-54": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "us_foreign_policy-test-55": {
+    "deepseek-v3.2": "A",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "us_foreign_policy-test-61": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "us_foreign_policy-test-69": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "us_foreign_policy-test-74": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "us_foreign_policy-test-87": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "us_foreign_policy-test-92": {
+    "deepseek-v3.2": "C",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "virology-test-104": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "virology-test-117": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "virology-test-157": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "virology-test-44": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "virology-test-55": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "virology-test-65": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "virology-test-84": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "world_religions-test-103": {
+    "deepseek-v3.2": "B",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "world_religions-test-111": {
+    "deepseek-v3.2": "A",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "world_religions-test-14": {
+    "deepseek-v3.2": "B",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "world_religions-test-142": {
+    "deepseek-v3.2": "D",
+    "gpt-5.2": "D",
+    "claude-opus-4.6": ""
+  },
+  "world_religions-test-153": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "world_religions-test-165": {
+    "deepseek-v3.2": "A",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "world_religions-test-22": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "world_religions-test-28": {
+    "deepseek-v3.2": "C",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "world_religions-test-34": {
+    "deepseek-v3.2": "A",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "world_religions-test-48": {
+    "deepseek-v3.2": "A",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  },
+  "world_religions-test-51": {
+    "deepseek-v3.2": "B",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "world_religions-test-60": {
+    "deepseek-v3.2": "B",
+    "gpt-5.2": "B",
+    "claude-opus-4.6": ""
+  },
+  "world_religions-test-71": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "world_religions-test-77": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "world_religions-test-83": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "C",
+    "claude-opus-4.6": ""
+  },
+  "world_religions-test-99": {
+    "deepseek-v3.2": "",
+    "gpt-5.2": "A",
+    "claude-opus-4.6": ""
+  }
+}

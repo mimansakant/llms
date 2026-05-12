@@ -1,0 +1,3002 @@
+{
+  "professional_accounting-test-127": {
+    "gpt-5.2": "A"
+  },
+  "econometrics-test-18": {
+    "gpt-5.2": "D"
+  },
+  "business_ethics-test-22": {
+    "gpt-5.2": "C"
+  },
+  "professional_law-test-1518": {
+    "gpt-5.2": "D"
+  },
+  "high_school_microeconomics-test-8": {
+    "gpt-5.2": "D"
+  },
+  "high_school_macroeconomics-test-174": {
+    "gpt-5.2": "A"
+  },
+  "high_school_government_and_politics-test-12": {
+    "gpt-5.2": "B"
+  },
+  "elementary_mathematics-test-221": {
+    "gpt-5.2": "C"
+  },
+  "professional_law-test-1435": {
+    "gpt-5.2": "C"
+  },
+  "conceptual_physics-test-108": {
+    "gpt-5.2": "C"
+  },
+  "professional_law-test-456": {
+    "gpt-5.2": "D"
+  },
+  "professional_law-test-1504": {
+    "gpt-5.2": "B"
+  },
+  "moral_scenarios-test-422": {
+    "gpt-5.2": "B"
+  },
+  "college_physics-test-55": {
+    "gpt-5.2": "D"
+  },
+  "nutrition-test-266": {
+    "gpt-5.2": "D"
+  },
+  "machine_learning-test-77": {
+    "gpt-5.2": "A"
+  },
+  "clinical_knowledge-test-33": {
+    "gpt-5.2": "B"
+  },
+  "clinical_knowledge-test-1": {
+    "gpt-5.2": "D"
+  },
+  "computer_security-test-64": {
+    "gpt-5.2": "D"
+  },
+  "high_school_geography-test-135": {
+    "gpt-5.2": "B"
+  },
+  "high_school_government_and_politics-test-166": {
+    "gpt-5.2": "B"
+  },
+  "moral_disputes-test-112": {
+    "gpt-5.2": "C"
+  },
+  "philosophy-test-149": {
+    "gpt-5.2": "A"
+  },
+  "business_ethics-test-47": {
+    "gpt-5.2": "A"
+  },
+  "moral_scenarios-test-682": {
+    "gpt-5.2": "B"
+  },
+  "high_school_computer_science-test-75": {
+    "gpt-5.2": "D"
+  },
+  "professional_law-test-1100": {
+    "gpt-5.2": "B"
+  },
+  "professional_law-test-16": {
+    "gpt-5.2": "C"
+  },
+  "professional_law-test-859": {
+    "gpt-5.2": "A"
+  },
+  "moral_scenarios-test-415": {
+    "gpt-5.2": "D"
+  },
+  "machine_learning-test-38": {
+    "gpt-5.2": "B"
+  },
+  "high_school_geography-test-164": {
+    "gpt-5.2": "A"
+  },
+  "medical_genetics-test-75": {
+    "gpt-5.2": "B"
+  },
+  "nutrition-test-246": {
+    "gpt-5.2": "C"
+  },
+  "high_school_microeconomics-test-59": {
+    "gpt-5.2": "B"
+  },
+  "security_studies-test-102": {
+    "gpt-5.2": "C"
+  },
+  "anatomy-test-6": {
+    "gpt-5.2": "A"
+  },
+  "professional_medicine-test-267": {
+    "gpt-5.2": "A"
+  },
+  "security_studies-test-43": {
+    "gpt-5.2": "D"
+  },
+  "global_facts-test-46": {
+    "gpt-5.2": "A"
+  },
+  "professional_law-test-807": {
+    "gpt-5.2": "C"
+  },
+  "machine_learning-test-89": {
+    "gpt-5.2": "A"
+  },
+  "high_school_statistics-test-142": {
+    "gpt-5.2": "C"
+  },
+  "high_school_microeconomics-test-54": {
+    "gpt-5.2": "A"
+  },
+  "formal_logic-test-104": {
+    "gpt-5.2": "A"
+  },
+  "high_school_geography-test-80": {
+    "gpt-5.2": "B"
+  },
+  "professional_psychology-test-72": {
+    "gpt-5.2": "C"
+  },
+  "high_school_statistics-test-82": {
+    "gpt-5.2": "C"
+  },
+  "conceptual_physics-test-103": {
+    "gpt-5.2": "B"
+  },
+  "computer_security-test-48": {
+    "gpt-5.2": "A"
+  },
+  "human_aging-test-135": {
+    "gpt-5.2": "B"
+  },
+  "conceptual_physics-test-13": {
+    "gpt-5.2": "A"
+  },
+  "high_school_world_history-test-29": {
+    "gpt-5.2": "D"
+  },
+  "world_religions-test-14": {
+    "gpt-5.2": "B"
+  },
+  "high_school_statistics-test-203": {
+    "gpt-5.2": "D"
+  },
+  "philosophy-test-177": {
+    "gpt-5.2": "D"
+  },
+  "high_school_mathematics-test-105": {
+    "gpt-5.2": "A"
+  },
+  "security_studies-test-64": {
+    "gpt-5.2": "D"
+  },
+  "clinical_knowledge-test-224": {
+    "gpt-5.2": "B"
+  },
+  "professional_law-test-1324": {
+    "gpt-5.2": "C"
+  },
+  "miscellaneous-test-143": {
+    "gpt-5.2": "B"
+  },
+  "moral_scenarios-test-272": {
+    "gpt-5.2": "B"
+  },
+  "electrical_engineering-test-125": {
+    "gpt-5.2": "A"
+  },
+  "human_aging-test-112": {
+    "gpt-5.2": "B"
+  },
+  "college_medicine-test-95": {
+    "gpt-5.2": "D"
+  },
+  "moral_scenarios-test-531": {
+    "gpt-5.2": "B"
+  },
+  "high_school_physics-test-67": {
+    "gpt-5.2": "C"
+  },
+  "sociology-test-184": {
+    "gpt-5.2": "C"
+  },
+  "prehistory-test-274": {
+    "gpt-5.2": "B"
+  },
+  "prehistory-test-108": {
+    "gpt-5.2": "B"
+  },
+  "high_school_world_history-test-73": {
+    "gpt-5.2": "A"
+  },
+  "nutrition-test-51": {
+    "gpt-5.2": "A"
+  },
+  "high_school_chemistry-test-171": {
+    "gpt-5.2": "D"
+  },
+  "professional_law-test-912": {
+    "gpt-5.2": "B"
+  },
+  "college_mathematics-test-43": {
+    "gpt-5.2": "C"
+  },
+  "clinical_knowledge-test-263": {
+    "gpt-5.2": "D"
+  },
+  "professional_law-test-203": {
+    "gpt-5.2": "B"
+  },
+  "high_school_government_and_politics-test-88": {
+    "gpt-5.2": "C"
+  },
+  "professional_psychology-test-228": {
+    "gpt-5.2": "A"
+  },
+  "high_school_physics-test-5": {
+    "gpt-5.2": "C"
+  },
+  "college_medicine-test-111": {
+    "gpt-5.2": "B"
+  },
+  "world_religions-test-142": {
+    "gpt-5.2": "D"
+  },
+  "high_school_government_and_politics-test-169": {
+    "gpt-5.2": "B"
+  },
+  "conceptual_physics-test-83": {
+    "gpt-5.2": "A"
+  },
+  "human_aging-test-138": {
+    "gpt-5.2": "A"
+  },
+  "high_school_microeconomics-test-56": {
+    "gpt-5.2": "A"
+  },
+  "miscellaneous-test-44": {
+    "gpt-5.2": "D"
+  },
+  "professional_accounting-test-66": {
+    "gpt-5.2": "C"
+  },
+  "us_foreign_policy-test-61": {
+    "gpt-5.2": "C"
+  },
+  "high_school_world_history-test-125": {
+    "gpt-5.2": "A"
+  },
+  "global_facts-test-95": {
+    "gpt-5.2": "B"
+  },
+  "high_school_world_history-test-213": {
+    "gpt-5.2": "C"
+  },
+  "high_school_us_history-test-172": {
+    "gpt-5.2": "D"
+  },
+  "high_school_european_history-test-150": {
+    "gpt-5.2": "D"
+  },
+  "professional_law-test-349": {
+    "gpt-5.2": "D"
+  },
+  "high_school_mathematics-test-146": {
+    "gpt-5.2": "D"
+  },
+  "professional_law-test-867": {
+    "gpt-5.2": "D"
+  },
+  "professional_law-test-568": {
+    "gpt-5.2": "B"
+  },
+  "professional_accounting-test-268": {
+    "gpt-5.2": "B"
+  },
+  "college_mathematics-test-73": {
+    "gpt-5.2": "D"
+  },
+  "philosophy-test-266": {
+    "gpt-5.2": "C"
+  },
+  "professional_accounting-test-54": {
+    "gpt-5.2": "C"
+  },
+  "high_school_biology-test-134": {
+    "gpt-5.2": "B"
+  },
+  "moral_scenarios-test-238": {
+    "gpt-5.2": "A"
+  },
+  "professional_law-test-1315": {
+    "gpt-5.2": "B"
+  },
+  "high_school_macroeconomics-test-172": {
+    "gpt-5.2": "D"
+  },
+  "high_school_biology-test-8": {
+    "gpt-5.2": "A"
+  },
+  "miscellaneous-test-189": {
+    "gpt-5.2": "D"
+  },
+  "human_aging-test-127": {
+    "gpt-5.2": "C"
+  },
+  "high_school_mathematics-test-194": {
+    "gpt-5.2": "B"
+  },
+  "professional_accounting-test-136": {
+    "gpt-5.2": "C"
+  },
+  "professional_law-test-643": {
+    "gpt-5.2": "D"
+  },
+  "moral_scenarios-test-612": {
+    "gpt-5.2": "B"
+  },
+  "high_school_geography-test-151": {
+    "gpt-5.2": "D"
+  },
+  "professional_law-test-585": {
+    "gpt-5.2": "B"
+  },
+  "high_school_psychology-test-426": {
+    "gpt-5.2": "B"
+  },
+  "virology-test-104": {
+    "gpt-5.2": "B"
+  },
+  "professional_psychology-test-151": {
+    "gpt-5.2": "B"
+  },
+  "professional_psychology-test-276": {
+    "gpt-5.2": "D"
+  },
+  "college_chemistry-test-20": {
+    "gpt-5.2": "D"
+  },
+  "high_school_government_and_politics-test-107": {
+    "gpt-5.2": "D"
+  },
+  "sociology-test-60": {
+    "gpt-5.2": "B"
+  },
+  "clinical_knowledge-test-38": {
+    "gpt-5.2": "B"
+  },
+  "security_studies-test-30": {
+    "gpt-5.2": "D"
+  },
+  "high_school_psychology-test-281": {
+    "gpt-5.2": "D"
+  },
+  "jurisprudence-test-8": {
+    "gpt-5.2": "B"
+  },
+  "high_school_mathematics-test-158": {
+    "gpt-5.2": "B"
+  },
+  "college_computer_science-test-88": {
+    "gpt-5.2": "C"
+  },
+  "high_school_geography-test-9": {
+    "gpt-5.2": "D"
+  },
+  "moral_scenarios-test-779": {
+    "gpt-5.2": "A"
+  },
+  "professional_law-test-1131": {
+    "gpt-5.2": "A"
+  },
+  "high_school_psychology-test-268": {
+    "gpt-5.2": "D"
+  },
+  "high_school_geography-test-36": {
+    "gpt-5.2": "C"
+  },
+  "professional_law-test-107": {
+    "gpt-5.2": "B"
+  },
+  "moral_disputes-test-12": {
+    "gpt-5.2": "B"
+  },
+  "international_law-test-39": {
+    "gpt-5.2": "B"
+  },
+  "professional_accounting-test-183": {
+    "gpt-5.2": "C"
+  },
+  "miscellaneous-test-133": {
+    "gpt-5.2": "C"
+  },
+  "elementary_mathematics-test-275": {
+    "gpt-5.2": "A"
+  },
+  "high_school_mathematics-test-111": {
+    "gpt-5.2": "A"
+  },
+  "elementary_mathematics-test-222": {
+    "gpt-5.2": "D"
+  },
+  "high_school_macroeconomics-test-202": {
+    "gpt-5.2": "B"
+  },
+  "professional_medicine-test-40": {
+    "gpt-5.2": "C"
+  },
+  "moral_scenarios-test-684": {
+    "gpt-5.2": "D"
+  },
+  "moral_scenarios-test-317": {
+    "gpt-5.2": "D"
+  },
+  "high_school_mathematics-test-76": {
+    "gpt-5.2": "D"
+  },
+  "professional_medicine-test-74": {
+    "gpt-5.2": "D"
+  },
+  "nutrition-test-169": {
+    "gpt-5.2": "B"
+  },
+  "management-test-72": {
+    "gpt-5.2": "B"
+  },
+  "nutrition-test-152": {
+    "gpt-5.2": "B"
+  },
+  "international_law-test-100": {
+    "gpt-5.2": "A"
+  },
+  "high_school_world_history-test-78": {
+    "gpt-5.2": "A"
+  },
+  "high_school_geography-test-146": {
+    "gpt-5.2": "C"
+  },
+  "elementary_mathematics-test-201": {
+    "gpt-5.2": "C"
+  },
+  "moral_disputes-test-181": {
+    "gpt-5.2": "B"
+  },
+  "miscellaneous-test-701": {
+    "gpt-5.2": "A"
+  },
+  "computer_security-test-18": {
+    "gpt-5.2": "A"
+  },
+  "professional_medicine-test-217": {
+    "gpt-5.2": "D"
+  },
+  "college_biology-test-19": {
+    "gpt-5.2": "A"
+  },
+  "conceptual_physics-test-225": {
+    "gpt-5.2": "B"
+  },
+  "formal_logic-test-61": {
+    "gpt-5.2": "D"
+  },
+  "prehistory-test-255": {
+    "gpt-5.2": "D"
+  },
+  "global_facts-test-52": {
+    "gpt-5.2": "B"
+  },
+  "professional_psychology-test-540": {
+    "gpt-5.2": "B"
+  },
+  "professional_law-test-518": {
+    "gpt-5.2": "A"
+  },
+  "machine_learning-test-81": {
+    "gpt-5.2": "A"
+  },
+  "philosophy-test-57": {
+    "gpt-5.2": "C"
+  },
+  "college_computer_science-test-44": {
+    "gpt-5.2": "D"
+  },
+  "human_aging-test-215": {
+    "gpt-5.2": "C"
+  },
+  "human_aging-test-163": {
+    "gpt-5.2": "D"
+  },
+  "philosophy-test-49": {
+    "gpt-5.2": "D"
+  },
+  "miscellaneous-test-284": {
+    "gpt-5.2": "B"
+  },
+  "moral_scenarios-test-156": {
+    "gpt-5.2": "D"
+  },
+  "high_school_macroeconomics-test-281": {
+    "gpt-5.2": "A"
+  },
+  "moral_scenarios-test-551": {
+    "gpt-5.2": "C"
+  },
+  "anatomy-test-88": {
+    "gpt-5.2": "C"
+  },
+  "professional_law-test-514": {
+    "gpt-5.2": "D"
+  },
+  "professional_law-test-1177": {
+    "gpt-5.2": "C"
+  },
+  "econometrics-test-70": {
+    "gpt-5.2": "A"
+  },
+  "professional_law-test-538": {
+    "gpt-5.2": "A"
+  },
+  "moral_scenarios-test-284": {
+    "gpt-5.2": "B"
+  },
+  "professional_medicine-test-137": {
+    "gpt-5.2": "A"
+  },
+  "high_school_mathematics-test-143": {
+    "gpt-5.2": "A"
+  },
+  "professional_psychology-test-155": {
+    "gpt-5.2": "B"
+  },
+  "professional_accounting-test-152": {
+    "gpt-5.2": "B"
+  },
+  "high_school_statistics-test-141": {
+    "gpt-5.2": "D"
+  },
+  "econometrics-test-21": {
+    "gpt-5.2": "D"
+  },
+  "high_school_physics-test-72": {
+    "gpt-5.2": "C"
+  },
+  "marketing-test-73": {
+    "gpt-5.2": "A"
+  },
+  "global_facts-test-22": {
+    "gpt-5.2": "D"
+  },
+  "miscellaneous-test-49": {
+    "gpt-5.2": "C"
+  },
+  "abstract_algebra-test-53": {
+    "gpt-5.2": "C"
+  },
+  "professional_law-test-1199": {
+    "gpt-5.2": "B"
+  },
+  "professional_law-test-1160": {
+    "gpt-5.2": "D"
+  },
+  "high_school_mathematics-test-87": {
+    "gpt-5.2": "C"
+  },
+  "moral_disputes-test-34": {
+    "gpt-5.2": "B"
+  },
+  "professional_psychology-test-46": {
+    "gpt-5.2": "D"
+  },
+  "high_school_biology-test-258": {
+    "gpt-5.2": "C"
+  },
+  "moral_disputes-test-150": {
+    "gpt-5.2": "B"
+  },
+  "conceptual_physics-test-172": {
+    "gpt-5.2": "B"
+  },
+  "prehistory-test-219": {
+    "gpt-5.2": "A"
+  },
+  "high_school_psychology-test-2": {
+    "gpt-5.2": "D"
+  },
+  "virology-test-84": {
+    "gpt-5.2": "C"
+  },
+  "professional_accounting-test-119": {
+    "gpt-5.2": "D"
+  },
+  "philosophy-test-263": {
+    "gpt-5.2": "A"
+  },
+  "high_school_computer_science-test-76": {
+    "gpt-5.2": "C"
+  },
+  "human_aging-test-37": {
+    "gpt-5.2": "B"
+  },
+  "professional_psychology-test-55": {
+    "gpt-5.2": "C"
+  },
+  "global_facts-test-77": {
+    "gpt-5.2": "C"
+  },
+  "moral_scenarios-test-324": {
+    "gpt-5.2": "B"
+  },
+  "professional_psychology-test-320": {
+    "gpt-5.2": "A"
+  },
+  "moral_scenarios-test-176": {
+    "gpt-5.2": "D"
+  },
+  "abstract_algebra-test-9": {
+    "gpt-5.2": "C"
+  },
+  "philosophy-test-99": {
+    "gpt-5.2": "C"
+  },
+  "high_school_psychology-test-423": {
+    "gpt-5.2": "C"
+  },
+  "miscellaneous-test-621": {
+    "gpt-5.2": "D"
+  },
+  "astronomy-test-84": {
+    "gpt-5.2": "A"
+  },
+  "econometrics-test-26": {
+    "gpt-5.2": "B"
+  },
+  "high_school_world_history-test-95": {
+    "gpt-5.2": "A"
+  },
+  "us_foreign_policy-test-21": {
+    "gpt-5.2": "C"
+  },
+  "security_studies-test-59": {
+    "gpt-5.2": "A"
+  },
+  "high_school_psychology-test-151": {
+    "gpt-5.2": "B"
+  },
+  "high_school_macroeconomics-test-85": {
+    "gpt-5.2": "B"
+  },
+  "college_chemistry-test-53": {
+    "gpt-5.2": "A"
+  },
+  "high_school_macroeconomics-test-108": {
+    "gpt-5.2": "D"
+  },
+  "moral_scenarios-test-782": {
+    "gpt-5.2": "D"
+  },
+  "college_medicine-test-94": {
+    "gpt-5.2": "D"
+  },
+  "college_physics-test-34": {
+    "gpt-5.2": "D"
+  },
+  "professional_law-test-1360": {
+    "gpt-5.2": "B"
+  },
+  "miscellaneous-test-578": {
+    "gpt-5.2": "D"
+  },
+  "security_studies-test-210": {
+    "gpt-5.2": "D"
+  },
+  "college_mathematics-test-37": {
+    "gpt-5.2": "B"
+  },
+  "professional_psychology-test-24": {
+    "gpt-5.2": "A"
+  },
+  "moral_scenarios-test-214": {
+    "gpt-5.2": "A"
+  },
+  "professional_psychology-test-110": {
+    "gpt-5.2": "B"
+  },
+  "electrical_engineering-test-140": {
+    "gpt-5.2": "C"
+  },
+  "elementary_mathematics-test-38": {
+    "gpt-5.2": "C"
+  },
+  "professional_law-test-178": {
+    "gpt-5.2": "B"
+  },
+  "miscellaneous-test-403": {
+    "gpt-5.2": "D"
+  },
+  "moral_scenarios-test-494": {
+    "gpt-5.2": "B"
+  },
+  "high_school_biology-test-36": {
+    "gpt-5.2": "B"
+  },
+  "high_school_mathematics-test-114": {
+    "gpt-5.2": "B"
+  },
+  "moral_scenarios-test-132": {
+    "gpt-5.2": "A"
+  },
+  "philosophy-test-224": {
+    "gpt-5.2": "D"
+  },
+  "machine_learning-test-97": {
+    "gpt-5.2": "C"
+  },
+  "high_school_geography-test-23": {
+    "gpt-5.2": "D"
+  },
+  "moral_scenarios-test-322": {
+    "gpt-5.2": "D"
+  },
+  "professional_medicine-test-209": {
+    "gpt-5.2": "D"
+  },
+  "professional_law-test-1328": {
+    "gpt-5.2": "D"
+  },
+  "professional_law-test-671": {
+    "gpt-5.2": "C"
+  },
+  "high_school_european_history-test-13": {
+    "gpt-5.2": "C"
+  },
+  "professional_law-test-1049": {
+    "gpt-5.2": "C"
+  },
+  "high_school_psychology-test-220": {
+    "gpt-5.2": "D"
+  },
+  "international_law-test-94": {
+    "gpt-5.2": "B"
+  },
+  "professional_law-test-373": {
+    "gpt-5.2": "D"
+  },
+  "human_aging-test-29": {
+    "gpt-5.2": "D"
+  },
+  "marketing-test-127": {
+    "gpt-5.2": "C"
+  },
+  "moral_disputes-test-312": {
+    "gpt-5.2": "C"
+  },
+  "miscellaneous-test-13": {
+    "gpt-5.2": "B"
+  },
+  "electrical_engineering-test-62": {
+    "gpt-5.2": "B"
+  },
+  "high_school_macroeconomics-test-223": {
+    "gpt-5.2": "C"
+  },
+  "high_school_government_and_politics-test-36": {
+    "gpt-5.2": "C"
+  },
+  "college_computer_science-test-53": {
+    "gpt-5.2": "C"
+  },
+  "high_school_statistics-test-107": {
+    "gpt-5.2": "D"
+  },
+  "astronomy-test-109": {
+    "gpt-5.2": "B"
+  },
+  "nutrition-test-230": {
+    "gpt-5.2": "D"
+  },
+  "moral_scenarios-test-562": {
+    "gpt-5.2": "B"
+  },
+  "high_school_government_and_politics-test-125": {
+    "gpt-5.2": "A"
+  },
+  "nutrition-test-233": {
+    "gpt-5.2": "C"
+  },
+  "high_school_geography-test-161": {
+    "gpt-5.2": "D"
+  },
+  "anatomy-test-17": {
+    "gpt-5.2": "D"
+  },
+  "college_mathematics-test-67": {
+    "gpt-5.2": "D"
+  },
+  "professional_law-test-966": {
+    "gpt-5.2": "A"
+  },
+  "prehistory-test-314": {
+    "gpt-5.2": "C"
+  },
+  "college_chemistry-test-68": {
+    "gpt-5.2": "D"
+  },
+  "high_school_government_and_politics-test-105": {
+    "gpt-5.2": "C"
+  },
+  "college_mathematics-test-8": {
+    "gpt-5.2": "C"
+  },
+  "clinical_knowledge-test-27": {
+    "gpt-5.2": "A"
+  },
+  "high_school_psychology-test-526": {
+    "gpt-5.2": "A"
+  },
+  "college_mathematics-test-64": {
+    "gpt-5.2": "B"
+  },
+  "moral_disputes-test-256": {
+    "gpt-5.2": "B"
+  },
+  "high_school_macroeconomics-test-61": {
+    "gpt-5.2": "C"
+  },
+  "high_school_microeconomics-test-64": {
+    "gpt-5.2": "A"
+  },
+  "professional_law-test-329": {
+    "gpt-5.2": "D"
+  },
+  "miscellaneous-test-569": {
+    "gpt-5.2": "B"
+  },
+  "high_school_geography-test-63": {
+    "gpt-5.2": "D"
+  },
+  "moral_scenarios-test-321": {
+    "gpt-5.2": "D"
+  },
+  "elementary_mathematics-test-102": {
+    "gpt-5.2": "B"
+  },
+  "professional_law-test-1220": {
+    "gpt-5.2": "A"
+  },
+  "moral_scenarios-test-842": {
+    "gpt-5.2": "B"
+  },
+  "nutrition-test-32": {
+    "gpt-5.2": "C"
+  },
+  "miscellaneous-test-360": {
+    "gpt-5.2": "B"
+  },
+  "high_school_macroeconomics-test-143": {
+    "gpt-5.2": "D"
+  },
+  "professional_psychology-test-418": {
+    "gpt-5.2": "D"
+  },
+  "miscellaneous-test-365": {
+    "gpt-5.2": "A"
+  },
+  "security_studies-test-71": {
+    "gpt-5.2": "D"
+  },
+  "jurisprudence-test-105": {
+    "gpt-5.2": "C"
+  },
+  "high_school_chemistry-test-140": {
+    "gpt-5.2": "B"
+  },
+  "computer_security-test-74": {
+    "gpt-5.2": "B"
+  },
+  "conceptual_physics-test-17": {
+    "gpt-5.2": "B"
+  },
+  "professional_law-test-165": {
+    "gpt-5.2": "A"
+  },
+  "marketing-test-12": {
+    "gpt-5.2": "A"
+  },
+  "high_school_us_history-test-156": {
+    "gpt-5.2": "A"
+  },
+  "machine_learning-test-104": {
+    "gpt-5.2": "A"
+  },
+  "logical_fallacies-test-63": {
+    "gpt-5.2": "C"
+  },
+  "miscellaneous-test-267": {
+    "gpt-5.2": "D"
+  },
+  "professional_law-test-1314": {
+    "gpt-5.2": "B"
+  },
+  "college_biology-test-135": {
+    "gpt-5.2": "A"
+  },
+  "professional_law-test-401": {
+    "gpt-5.2": "A"
+  },
+  "professional_law-test-75": {
+    "gpt-5.2": "C"
+  },
+  "professional_accounting-test-238": {
+    "gpt-5.2": "B"
+  },
+  "conceptual_physics-test-41": {
+    "gpt-5.2": "D"
+  },
+  "college_chemistry-test-97": {
+    "gpt-5.2": "B"
+  },
+  "jurisprudence-test-32": {
+    "gpt-5.2": "A"
+  },
+  "professional_law-test-1300": {
+    "gpt-5.2": "C"
+  },
+  "high_school_statistics-test-127": {
+    "gpt-5.2": "D"
+  },
+  "public_relations-test-67": {
+    "gpt-5.2": "A"
+  },
+  "conceptual_physics-test-219": {
+    "gpt-5.2": "D"
+  },
+  "high_school_macroeconomics-test-235": {
+    "gpt-5.2": "B"
+  },
+  "high_school_chemistry-test-160": {
+    "gpt-5.2": "B"
+  },
+  "high_school_chemistry-test-137": {
+    "gpt-5.2": "A"
+  },
+  "moral_scenarios-test-273": {
+    "gpt-5.2": "D"
+  },
+  "medical_genetics-test-66": {
+    "gpt-5.2": "B"
+  },
+  "elementary_mathematics-test-231": {
+    "gpt-5.2": "C"
+  },
+  "high_school_chemistry-test-27": {
+    "gpt-5.2": "C"
+  },
+  "high_school_microeconomics-test-65": {
+    "gpt-5.2": "A"
+  },
+  "miscellaneous-test-195": {
+    "gpt-5.2": "C"
+  },
+  "high_school_macroeconomics-test-254": {
+    "gpt-5.2": "C"
+  },
+  "college_medicine-test-39": {
+    "gpt-5.2": "A"
+  },
+  "marketing-test-210": {
+    "gpt-5.2": "B"
+  },
+  "security_studies-test-79": {
+    "gpt-5.2": "D"
+  },
+  "world_religions-test-153": {
+    "gpt-5.2": "B"
+  },
+  "moral_scenarios-test-503": {
+    "gpt-5.2": "B"
+  },
+  "conceptual_physics-test-33": {
+    "gpt-5.2": "D"
+  },
+  "college_biology-test-76": {
+    "gpt-5.2": "C"
+  },
+  "professional_law-test-53": {
+    "gpt-5.2": "B"
+  },
+  "moral_scenarios-test-343": {
+    "gpt-5.2": "D"
+  },
+  "us_foreign_policy-test-92": {
+    "gpt-5.2": "C"
+  },
+  "astronomy-test-6": {
+    "gpt-5.2": "B"
+  },
+  "computer_security-test-57": {
+    "gpt-5.2": "B"
+  },
+  "professional_medicine-test-181": {
+    "gpt-5.2": "D"
+  },
+  "world_religions-test-34": {
+    "gpt-5.2": "A"
+  },
+  "high_school_macroeconomics-test-34": {
+    "gpt-5.2": "A"
+  },
+  "high_school_biology-test-55": {
+    "gpt-5.2": "D"
+  },
+  "jurisprudence-test-94": {
+    "gpt-5.2": "B"
+  },
+  "miscellaneous-test-572": {
+    "gpt-5.2": "B"
+  },
+  "miscellaneous-test-502": {
+    "gpt-5.2": "C"
+  },
+  "high_school_geography-test-55": {
+    "gpt-5.2": "C"
+  },
+  "jurisprudence-test-6": {
+    "gpt-5.2": "D"
+  },
+  "college_chemistry-test-64": {
+    "gpt-5.2": "C"
+  },
+  "high_school_biology-test-28": {
+    "gpt-5.2": "D"
+  },
+  "human_aging-test-120": {
+    "gpt-5.2": "B"
+  },
+  "abstract_algebra-test-35": {
+    "gpt-5.2": "B"
+  },
+  "human_sexuality-test-84": {
+    "gpt-5.2": "D"
+  },
+  "high_school_mathematics-test-117": {
+    "gpt-5.2": "D"
+  },
+  "professional_psychology-test-409": {
+    "gpt-5.2": "C"
+  },
+  "professional_psychology-test-426": {
+    "gpt-5.2": "C"
+  },
+  "miscellaneous-test-70": {
+    "gpt-5.2": "A"
+  },
+  "high_school_microeconomics-test-175": {
+    "gpt-5.2": "D"
+  },
+  "machine_learning-test-95": {
+    "gpt-5.2": "A"
+  },
+  "professional_law-test-781": {
+    "gpt-5.2": "B"
+  },
+  "professional_law-test-1337": {
+    "gpt-5.2": "D"
+  },
+  "professional_psychology-test-397": {
+    "gpt-5.2": "C"
+  },
+  "moral_scenarios-test-592": {
+    "gpt-5.2": "C"
+  },
+  "professional_law-test-213": {
+    "gpt-5.2": "C"
+  },
+  "professional_law-test-1139": {
+    "gpt-5.2": "B"
+  },
+  "miscellaneous-test-589": {
+    "gpt-5.2": "C"
+  },
+  "formal_logic-test-93": {
+    "gpt-5.2": "A"
+  },
+  "high_school_chemistry-test-132": {
+    "gpt-5.2": "D"
+  },
+  "high_school_physics-test-125": {
+    "gpt-5.2": "A"
+  },
+  "high_school_geography-test-119": {
+    "gpt-5.2": "C"
+  },
+  "college_chemistry-test-62": {
+    "gpt-5.2": "B"
+  },
+  "nutrition-test-81": {
+    "gpt-5.2": "B"
+  },
+  "professional_law-test-1423": {
+    "gpt-5.2": "C"
+  },
+  "moral_scenarios-test-370": {
+    "gpt-5.2": "B"
+  },
+  "college_computer_science-test-2": {
+    "gpt-5.2": "B"
+  },
+  "professional_medicine-test-89": {
+    "gpt-5.2": "D"
+  },
+  "high_school_psychology-test-251": {
+    "gpt-5.2": "B"
+  },
+  "college_chemistry-test-40": {
+    "gpt-5.2": "B"
+  },
+  "college_biology-test-69": {
+    "gpt-5.2": "B"
+  },
+  "nutrition-test-163": {
+    "gpt-5.2": "C"
+  },
+  "miscellaneous-test-427": {
+    "gpt-5.2": "C"
+  },
+  "moral_disputes-test-71": {
+    "gpt-5.2": "B"
+  },
+  "world_religions-test-99": {
+    "gpt-5.2": "D"
+  },
+  "moral_scenarios-test-188": {
+    "gpt-5.2": "C"
+  },
+  "global_facts-test-10": {
+    "gpt-5.2": "C"
+  },
+  "college_chemistry-test-35": {
+    "gpt-5.2": "B"
+  },
+  "moral_disputes-test-153": {
+    "gpt-5.2": "C"
+  },
+  "college_medicine-test-116": {
+    "gpt-5.2": "B"
+  },
+  "world_religions-test-77": {
+    "gpt-5.2": "C"
+  },
+  "high_school_chemistry-test-65": {
+    "gpt-5.2": "C"
+  },
+  "college_mathematics-test-26": {
+    "gpt-5.2": "D"
+  },
+  "philosophy-test-35": {
+    "gpt-5.2": "B"
+  },
+  "college_mathematics-test-17": {
+    "gpt-5.2": "B"
+  },
+  "professional_law-test-431": {
+    "gpt-5.2": "D"
+  },
+  "high_school_macroeconomics-test-15": {
+    "gpt-5.2": "B"
+  },
+  "jurisprudence-test-51": {
+    "gpt-5.2": "A"
+  },
+  "electrical_engineering-test-44": {
+    "gpt-5.2": "A"
+  },
+  "moral_scenarios-test-820": {
+    "gpt-5.2": "C"
+  },
+  "high_school_macroeconomics-test-195": {
+    "gpt-5.2": "D"
+  },
+  "nutrition-test-77": {
+    "gpt-5.2": "D"
+  },
+  "philosophy-test-26": {
+    "gpt-5.2": "A"
+  },
+  "clinical_knowledge-test-164": {
+    "gpt-5.2": "D"
+  },
+  "prehistory-test-122": {
+    "gpt-5.2": "D"
+  },
+  "college_medicine-test-147": {
+    "gpt-5.2": "D"
+  },
+  "machine_learning-test-33": {
+    "gpt-5.2": "D"
+  },
+  "professional_law-test-139": {
+    "gpt-5.2": "D"
+  },
+  "nutrition-test-154": {
+    "gpt-5.2": "A"
+  },
+  "moral_scenarios-test-747": {
+    "gpt-5.2": "D"
+  },
+  "moral_scenarios-test-52": {
+    "gpt-5.2": "B"
+  },
+  "high_school_psychology-test-296": {
+    "gpt-5.2": "D"
+  },
+  "high_school_mathematics-test-44": {
+    "gpt-5.2": "C"
+  },
+  "high_school_european_history-test-64": {
+    "gpt-5.2": "D"
+  },
+  "professional_law-test-341": {
+    "gpt-5.2": "B"
+  },
+  "professional_law-test-1103": {
+    "gpt-5.2": "C"
+  },
+  "high_school_psychology-test-260": {
+    "gpt-5.2": "A"
+  },
+  "high_school_macroeconomics-test-72": {
+    "gpt-5.2": "C"
+  },
+  "high_school_mathematics-test-123": {
+    "gpt-5.2": "B"
+  },
+  "international_law-test-41": {
+    "gpt-5.2": "D"
+  },
+  "elementary_mathematics-test-79": {
+    "gpt-5.2": "A"
+  },
+  "professional_accounting-test-226": {
+    "gpt-5.2": "B"
+  },
+  "high_school_psychology-test-28": {
+    "gpt-5.2": "D"
+  },
+  "miscellaneous-test-107": {
+    "gpt-5.2": "C"
+  },
+  "high_school_psychology-test-293": {
+    "gpt-5.2": "B"
+  },
+  "professional_medicine-test-153": {
+    "gpt-5.2": "D"
+  },
+  "college_mathematics-test-92": {
+    "gpt-5.2": "B"
+  },
+  "anatomy-test-52": {
+    "gpt-5.2": "B"
+  },
+  "miscellaneous-test-124": {
+    "gpt-5.2": "C"
+  },
+  "prehistory-test-152": {
+    "gpt-5.2": "A"
+  },
+  "moral_scenarios-test-711": {
+    "gpt-5.2": "A"
+  },
+  "conceptual_physics-test-67": {
+    "gpt-5.2": "D"
+  },
+  "college_medicine-test-4": {
+    "gpt-5.2": "B"
+  },
+  "moral_scenarios-test-295": {
+    "gpt-5.2": "C"
+  },
+  "high_school_geography-test-45": {
+    "gpt-5.2": "D"
+  },
+  "moral_disputes-test-121": {
+    "gpt-5.2": "B"
+  },
+  "elementary_mathematics-test-105": {
+    "gpt-5.2": "D"
+  },
+  "high_school_us_history-test-70": {
+    "gpt-5.2": "C"
+  },
+  "college_mathematics-test-31": {
+    "gpt-5.2": "B"
+  },
+  "high_school_macroeconomics-test-164": {
+    "gpt-5.2": "A"
+  },
+  "high_school_world_history-test-202": {
+    "gpt-5.2": "C"
+  },
+  "high_school_microeconomics-test-171": {
+    "gpt-5.2": "D"
+  },
+  "global_facts-test-15": {
+    "gpt-5.2": "C"
+  },
+  "marketing-test-129": {
+    "gpt-5.2": "A"
+  },
+  "us_foreign_policy-test-55": {
+    "gpt-5.2": "A"
+  },
+  "moral_scenarios-test-387": {
+    "gpt-5.2": "C"
+  },
+  "professional_law-test-895": {
+    "gpt-5.2": "A"
+  },
+  "high_school_psychology-test-69": {
+    "gpt-5.2": "A"
+  },
+  "philosophy-test-307": {
+    "gpt-5.2": "D"
+  },
+  "professional_law-test-83": {
+    "gpt-5.2": "C"
+  },
+  "moral_scenarios-test-153": {
+    "gpt-5.2": "C"
+  },
+  "anatomy-test-28": {
+    "gpt-5.2": "C"
+  },
+  "professional_law-test-311": {
+    "gpt-5.2": "D"
+  },
+  "security_studies-test-228": {
+    "gpt-5.2": "C"
+  },
+  "moral_scenarios-test-573": {
+    "gpt-5.2": "D"
+  },
+  "high_school_psychology-test-18": {
+    "gpt-5.2": "D"
+  },
+  "professional_law-test-237": {
+    "gpt-5.2": "A"
+  },
+  "conceptual_physics-test-126": {
+    "gpt-5.2": "C"
+  },
+  "elementary_mathematics-test-135": {
+    "gpt-5.2": "C"
+  },
+  "econometrics-test-85": {
+    "gpt-5.2": "D"
+  },
+  "conceptual_physics-test-182": {
+    "gpt-5.2": "B"
+  },
+  "professional_law-test-1532": {
+    "gpt-5.2": "D"
+  },
+  "formal_logic-test-103": {
+    "gpt-5.2": "D"
+  },
+  "high_school_mathematics-test-234": {
+    "gpt-5.2": "C"
+  },
+  "high_school_microeconomics-test-118": {
+    "gpt-5.2": "A"
+  },
+  "philosophy-test-195": {
+    "gpt-5.2": "B"
+  },
+  "high_school_geography-test-3": {
+    "gpt-5.2": "B"
+  },
+  "professional_law-test-1126": {
+    "gpt-5.2": "C"
+  },
+  "high_school_statistics-test-185": {
+    "gpt-5.2": "D"
+  },
+  "high_school_european_history-test-53": {
+    "gpt-5.2": "D"
+  },
+  "professional_law-test-632": {
+    "gpt-5.2": "C"
+  },
+  "professional_accounting-test-42": {
+    "gpt-5.2": "A"
+  },
+  "world_religions-test-103": {
+    "gpt-5.2": "B"
+  },
+  "high_school_mathematics-test-97": {
+    "gpt-5.2": "B"
+  },
+  "moral_disputes-test-113": {
+    "gpt-5.2": "A"
+  },
+  "miscellaneous-test-620": {
+    "gpt-5.2": "D"
+  },
+  "high_school_macroeconomics-test-276": {
+    "gpt-5.2": "D"
+  },
+  "virology-test-157": {
+    "gpt-5.2": "A"
+  },
+  "college_biology-test-80": {
+    "gpt-5.2": "C"
+  },
+  "computer_security-test-41": {
+    "gpt-5.2": "B"
+  },
+  "professional_accounting-test-43": {
+    "gpt-5.2": "A"
+  },
+  "high_school_microeconomics-test-35": {
+    "gpt-5.2": "A"
+  },
+  "clinical_knowledge-test-235": {
+    "gpt-5.2": "B"
+  },
+  "abstract_algebra-test-58": {
+    "gpt-5.2": "D"
+  },
+  "high_school_statistics-test-32": {
+    "gpt-5.2": "B"
+  },
+  "professional_psychology-test-197": {
+    "gpt-5.2": "B"
+  },
+  "elementary_mathematics-test-78": {
+    "gpt-5.2": "D"
+  },
+  "professional_accounting-test-89": {
+    "gpt-5.2": "A"
+  },
+  "high_school_mathematics-test-63": {
+    "gpt-5.2": "B"
+  },
+  "global_facts-test-78": {
+    "gpt-5.2": "B"
+  },
+  "professional_law-test-1513": {
+    "gpt-5.2": "A"
+  },
+  "marketing-test-189": {
+    "gpt-5.2": "B"
+  },
+  "moral_scenarios-test-525": {
+    "gpt-5.2": "C"
+  },
+  "professional_law-test-930": {
+    "gpt-5.2": "D"
+  },
+  "management-test-60": {
+    "gpt-5.2": "D"
+  },
+  "moral_scenarios-test-676": {
+    "gpt-5.2": "A"
+  },
+  "anatomy-test-58": {
+    "gpt-5.2": "D"
+  },
+  "college_medicine-test-36": {
+    "gpt-5.2": "D"
+  },
+  "professional_law-test-690": {
+    "gpt-5.2": "B"
+  },
+  "elementary_mathematics-test-377": {
+    "gpt-5.2": "B"
+  },
+  "moral_scenarios-test-425": {
+    "gpt-5.2": "B"
+  },
+  "clinical_knowledge-test-103": {
+    "gpt-5.2": "B"
+  },
+  "us_foreign_policy-test-69": {
+    "gpt-5.2": "D"
+  },
+  "high_school_world_history-test-197": {
+    "gpt-5.2": "B"
+  },
+  "nutrition-test-135": {
+    "gpt-5.2": "C"
+  },
+  "moral_scenarios-test-539": {
+    "gpt-5.2": "B"
+  },
+  "elementary_mathematics-test-361": {
+    "gpt-5.2": "C"
+  },
+  "management-test-94": {
+    "gpt-5.2": "C"
+  },
+  "elementary_mathematics-test-23": {
+    "gpt-5.2": "C"
+  },
+  "clinical_knowledge-test-198": {
+    "gpt-5.2": "B"
+  },
+  "high_school_psychology-test-163": {
+    "gpt-5.2": "C"
+  },
+  "high_school_world_history-test-122": {
+    "gpt-5.2": "C"
+  },
+  "professional_psychology-test-606": {
+    "gpt-5.2": "B"
+  },
+  "clinical_knowledge-test-166": {
+    "gpt-5.2": "C"
+  },
+  "high_school_world_history-test-10": {
+    "gpt-5.2": "B"
+  },
+  "high_school_european_history-test-159": {
+    "gpt-5.2": "C"
+  },
+  "professional_law-test-543": {
+    "gpt-5.2": "D"
+  },
+  "high_school_macroeconomics-test-250": {
+    "gpt-5.2": "C"
+  },
+  "professional_law-test-296": {
+    "gpt-5.2": "C"
+  },
+  "conceptual_physics-test-113": {
+    "gpt-5.2": "B"
+  },
+  "high_school_us_history-test-146": {
+    "gpt-5.2": "B"
+  },
+  "professional_psychology-test-344": {
+    "gpt-5.2": "B"
+  },
+  "moral_scenarios-test-660": {
+    "gpt-5.2": "C"
+  },
+  "prehistory-test-143": {
+    "gpt-5.2": "A"
+  },
+  "professional_medicine-test-114": {
+    "gpt-5.2": "B"
+  },
+  "formal_logic-test-89": {
+    "gpt-5.2": "A"
+  },
+  "high_school_macroeconomics-test-40": {
+    "gpt-5.2": "D"
+  },
+  "global_facts-test-93": {
+    "gpt-5.2": "A"
+  },
+  "public_relations-test-56": {
+    "gpt-5.2": "D"
+  },
+  "security_studies-test-124": {
+    "gpt-5.2": "A"
+  },
+  "high_school_biology-test-231": {
+    "gpt-5.2": "B"
+  },
+  "logical_fallacies-test-83": {
+    "gpt-5.2": "D"
+  },
+  "business_ethics-test-19": {
+    "gpt-5.2": "C"
+  },
+  "high_school_biology-test-269": {
+    "gpt-5.2": "C"
+  },
+  "professional_law-test-1436": {
+    "gpt-5.2": "C"
+  },
+  "high_school_statistics-test-10": {
+    "gpt-5.2": "A"
+  },
+  "professional_psychology-test-381": {
+    "gpt-5.2": "D"
+  },
+  "logical_fallacies-test-73": {
+    "gpt-5.2": "A"
+  },
+  "public_relations-test-94": {
+    "gpt-5.2": "A"
+  },
+  "professional_law-test-344": {
+    "gpt-5.2": "A"
+  },
+  "professional_law-test-1412": {
+    "gpt-5.2": "B"
+  },
+  "high_school_macroeconomics-test-227": {
+    "gpt-5.2": "A"
+  },
+  "global_facts-test-39": {
+    "gpt-5.2": "A"
+  },
+  "professional_psychology-test-463": {
+    "gpt-5.2": "C"
+  },
+  "professional_law-test-858": {
+    "gpt-5.2": "D"
+  },
+  "conceptual_physics-test-200": {
+    "gpt-5.2": "B"
+  },
+  "human_aging-test-178": {
+    "gpt-5.2": "A"
+  },
+  "clinical_knowledge-test-147": {
+    "gpt-5.2": "A"
+  },
+  "miscellaneous-test-327": {
+    "gpt-5.2": "B"
+  },
+  "high_school_geography-test-197": {
+    "gpt-5.2": "B"
+  },
+  "high_school_computer_science-test-87": {
+    "gpt-5.2": "A"
+  },
+  "security_studies-test-219": {
+    "gpt-5.2": "C"
+  },
+  "miscellaneous-test-157": {
+    "gpt-5.2": "B"
+  },
+  "high_school_us_history-test-80": {
+    "gpt-5.2": "C"
+  },
+  "high_school_psychology-test-113": {
+    "gpt-5.2": "C"
+  },
+  "sociology-test-39": {
+    "gpt-5.2": "D"
+  },
+  "professional_psychology-test-593": {
+    "gpt-5.2": "C"
+  },
+  "high_school_government_and_politics-test-83": {
+    "gpt-5.2": "D"
+  },
+  "high_school_government_and_politics-test-7": {
+    "gpt-5.2": "D"
+  },
+  "business_ethics-test-0": {
+    "gpt-5.2": "C"
+  },
+  "professional_law-test-182": {
+    "gpt-5.2": "D"
+  },
+  "high_school_chemistry-test-185": {
+    "gpt-5.2": "B"
+  },
+  "international_law-test-85": {
+    "gpt-5.2": "D"
+  },
+  "high_school_psychology-test-491": {
+    "gpt-5.2": "D"
+  },
+  "high_school_microeconomics-test-66": {
+    "gpt-5.2": "A"
+  },
+  "college_mathematics-test-41": {
+    "gpt-5.2": "D"
+  },
+  "professional_psychology-test-233": {
+    "gpt-5.2": "C"
+  },
+  "high_school_microeconomics-test-75": {
+    "gpt-5.2": "D"
+  },
+  "high_school_us_history-test-105": {
+    "gpt-5.2": "A"
+  },
+  "professional_accounting-test-161": {
+    "gpt-5.2": "A"
+  },
+  "moral_disputes-test-179": {
+    "gpt-5.2": "A"
+  },
+  "international_law-test-105": {
+    "gpt-5.2": "A"
+  },
+  "professional_law-test-502": {
+    "gpt-5.2": "D"
+  },
+  "virology-test-117": {
+    "gpt-5.2": "C"
+  },
+  "high_school_psychology-test-538": {
+    "gpt-5.2": "B"
+  },
+  "business_ethics-test-65": {
+    "gpt-5.2": "A"
+  },
+  "econometrics-test-83": {
+    "gpt-5.2": "D"
+  },
+  "high_school_mathematics-test-51": {
+    "gpt-5.2": "A"
+  },
+  "high_school_biology-test-256": {
+    "gpt-5.2": "D"
+  },
+  "nutrition-test-104": {
+    "gpt-5.2": "B"
+  },
+  "high_school_mathematics-test-121": {
+    "gpt-5.2": "A"
+  },
+  "clinical_knowledge-test-139": {
+    "gpt-5.2": "B"
+  },
+  "conceptual_physics-test-205": {
+    "gpt-5.2": "D"
+  },
+  "philosophy-test-60": {
+    "gpt-5.2": "B"
+  },
+  "marketing-test-69": {
+    "gpt-5.2": "D"
+  },
+  "high_school_us_history-test-15": {
+    "gpt-5.2": "C"
+  },
+  "professional_law-test-1305": {
+    "gpt-5.2": "C"
+  },
+  "professional_psychology-test-447": {
+    "gpt-5.2": "A"
+  },
+  "high_school_psychology-test-252": {
+    "gpt-5.2": "A"
+  },
+  "marketing-test-99": {
+    "gpt-5.2": "A"
+  },
+  "philosophy-test-218": {
+    "gpt-5.2": "B"
+  },
+  "moral_disputes-test-212": {
+    "gpt-5.2": "A"
+  },
+  "econometrics-test-88": {
+    "gpt-5.2": "D"
+  },
+  "human_aging-test-222": {
+    "gpt-5.2": "C"
+  },
+  "nutrition-test-38": {
+    "gpt-5.2": "D"
+  },
+  "high_school_chemistry-test-135": {
+    "gpt-5.2": "A"
+  },
+  "high_school_macroeconomics-test-335": {
+    "gpt-5.2": "A"
+  },
+  "clinical_knowledge-test-240": {
+    "gpt-5.2": "B"
+  },
+  "professional_law-test-981": {
+    "gpt-5.2": "C"
+  },
+  "marketing-test-94": {
+    "gpt-5.2": "D"
+  },
+  "abstract_algebra-test-27": {
+    "gpt-5.2": "D"
+  },
+  "moral_scenarios-test-5": {
+    "gpt-5.2": "C"
+  },
+  "security_studies-test-54": {
+    "gpt-5.2": "D"
+  },
+  "moral_scenarios-test-308": {
+    "gpt-5.2": "D"
+  },
+  "professional_law-test-622": {
+    "gpt-5.2": "D"
+  },
+  "professional_law-test-1156": {
+    "gpt-5.2": "B"
+  },
+  "professional_law-test-1525": {
+    "gpt-5.2": "D"
+  },
+  "professional_law-test-1444": {
+    "gpt-5.2": "D"
+  },
+  "professional_law-test-356": {
+    "gpt-5.2": "D"
+  },
+  "high_school_computer_science-test-46": {
+    "gpt-5.2": "C"
+  },
+  "high_school_world_history-test-115": {
+    "gpt-5.2": "A"
+  },
+  "marketing-test-16": {
+    "gpt-5.2": "D"
+  },
+  "college_mathematics-test-50": {
+    "gpt-5.2": "A"
+  },
+  "professional_law-test-251": {
+    "gpt-5.2": "C"
+  },
+  "high_school_psychology-test-522": {
+    "gpt-5.2": "C"
+  },
+  "prehistory-test-184": {
+    "gpt-5.2": "A"
+  },
+  "high_school_psychology-test-256": {
+    "gpt-5.2": "D"
+  },
+  "world_religions-test-22": {
+    "gpt-5.2": "A"
+  },
+  "electrical_engineering-test-121": {
+    "gpt-5.2": "A"
+  },
+  "professional_law-test-1161": {
+    "gpt-5.2": "B"
+  },
+  "high_school_psychology-test-33": {
+    "gpt-5.2": "D"
+  },
+  "moral_disputes-test-141": {
+    "gpt-5.2": "C"
+  },
+  "high_school_psychology-test-180": {
+    "gpt-5.2": "B"
+  },
+  "professional_law-test-295": {
+    "gpt-5.2": "D"
+  },
+  "logical_fallacies-test-19": {
+    "gpt-5.2": "D"
+  },
+  "high_school_psychology-test-457": {
+    "gpt-5.2": "D"
+  },
+  "jurisprudence-test-28": {
+    "gpt-5.2": "D"
+  },
+  "professional_law-test-792": {
+    "gpt-5.2": "A"
+  },
+  "high_school_physics-test-108": {
+    "gpt-5.2": "C"
+  },
+  "moral_scenarios-test-570": {
+    "gpt-5.2": "B"
+  },
+  "elementary_mathematics-test-20": {
+    "gpt-5.2": "C"
+  },
+  "high_school_chemistry-test-164": {
+    "gpt-5.2": "B"
+  },
+  "machine_learning-test-53": {
+    "gpt-5.2": "C"
+  },
+  "professional_law-test-263": {
+    "gpt-5.2": "C"
+  },
+  "human_aging-test-122": {
+    "gpt-5.2": "C"
+  },
+  "professional_law-test-466": {
+    "gpt-5.2": "C"
+  },
+  "professional_medicine-test-92": {
+    "gpt-5.2": "B"
+  },
+  "high_school_biology-test-182": {
+    "gpt-5.2": "C"
+  },
+  "prehistory-test-59": {
+    "gpt-5.2": "B"
+  },
+  "moral_scenarios-test-811": {
+    "gpt-5.2": "B"
+  },
+  "high_school_psychology-test-43": {
+    "gpt-5.2": "B"
+  },
+  "jurisprudence-test-89": {
+    "gpt-5.2": "C"
+  },
+  "moral_scenarios-test-464": {
+    "gpt-5.2": "D"
+  },
+  "us_foreign_policy-test-54": {
+    "gpt-5.2": "A"
+  },
+  "abstract_algebra-test-6": {
+    "gpt-5.2": "A"
+  },
+  "high_school_psychology-test-91": {
+    "gpt-5.2": "B"
+  },
+  "high_school_microeconomics-test-202": {
+    "gpt-5.2": "D"
+  },
+  "high_school_european_history-test-161": {
+    "gpt-5.2": "A"
+  },
+  "management-test-96": {
+    "gpt-5.2": "D"
+  },
+  "professional_psychology-test-436": {
+    "gpt-5.2": "B"
+  },
+  "nutrition-test-94": {
+    "gpt-5.2": "A"
+  },
+  "philosophy-test-225": {
+    "gpt-5.2": "C"
+  },
+  "professional_law-test-95": {
+    "gpt-5.2": "B"
+  },
+  "high_school_psychology-test-392": {
+    "gpt-5.2": "D"
+  },
+  "miscellaneous-test-234": {
+    "gpt-5.2": "B"
+  },
+  "marketing-test-188": {
+    "gpt-5.2": "B"
+  },
+  "marketing-test-194": {
+    "gpt-5.2": "D"
+  },
+  "professional_law-test-438": {
+    "gpt-5.2": "B"
+  },
+  "high_school_geography-test-54": {
+    "gpt-5.2": "D"
+  },
+  "moral_disputes-test-208": {
+    "gpt-5.2": "B"
+  },
+  "miscellaneous-test-368": {
+    "gpt-5.2": "D"
+  },
+  "professional_psychology-test-567": {
+    "gpt-5.2": "C"
+  },
+  "professional_psychology-test-605": {
+    "gpt-5.2": "A"
+  },
+  "professional_law-test-1426": {
+    "gpt-5.2": "C"
+  },
+  "high_school_biology-test-111": {
+    "gpt-5.2": "C"
+  },
+  "professional_law-test-163": {
+    "gpt-5.2": "D"
+  },
+  "college_physics-test-20": {
+    "gpt-5.2": "C"
+  },
+  "high_school_microeconomics-test-151": {
+    "gpt-5.2": "A"
+  },
+  "moral_disputes-test-278": {
+    "gpt-5.2": "C"
+  },
+  "professional_law-test-245": {
+    "gpt-5.2": "B"
+  },
+  "professional_accounting-test-21": {
+    "gpt-5.2": "B"
+  },
+  "prehistory-test-120": {
+    "gpt-5.2": "D"
+  },
+  "high_school_statistics-test-59": {
+    "gpt-5.2": "D"
+  },
+  "computer_security-test-59": {
+    "gpt-5.2": "D"
+  },
+  "sociology-test-5": {
+    "gpt-5.2": "B"
+  },
+  "professional_medicine-test-141": {
+    "gpt-5.2": "A"
+  },
+  "high_school_macroeconomics-test-10": {
+    "gpt-5.2": "B"
+  },
+  "professional_law-test-392": {
+    "gpt-5.2": "C"
+  },
+  "high_school_psychology-test-198": {
+    "gpt-5.2": "C"
+  },
+  "high_school_government_and_politics-test-35": {
+    "gpt-5.2": "D"
+  },
+  "security_studies-test-55": {
+    "gpt-5.2": "C"
+  },
+  "high_school_computer_science-test-80": {
+    "gpt-5.2": "A"
+  },
+  "elementary_mathematics-test-349": {
+    "gpt-5.2": "B"
+  },
+  "business_ethics-test-13": {
+    "gpt-5.2": "B"
+  },
+  "college_biology-test-5": {
+    "gpt-5.2": "A"
+  },
+  "high_school_macroeconomics-test-173": {
+    "gpt-5.2": "B"
+  },
+  "miscellaneous-test-400": {
+    "gpt-5.2": "B"
+  },
+  "philosophy-test-301": {
+    "gpt-5.2": "D"
+  },
+  "world_religions-test-51": {
+    "gpt-5.2": "B"
+  },
+  "professional_psychology-test-153": {
+    "gpt-5.2": "D"
+  },
+  "college_mathematics-test-97": {
+    "gpt-5.2": "D"
+  },
+  "miscellaneous-test-77": {
+    "gpt-5.2": "C"
+  },
+  "logical_fallacies-test-118": {
+    "gpt-5.2": "D"
+  },
+  "prehistory-test-293": {
+    "gpt-5.2": "D"
+  },
+  "nutrition-test-23": {
+    "gpt-5.2": "D"
+  },
+  "high_school_computer_science-test-3": {
+    "gpt-5.2": "C"
+  },
+  "professional_law-test-1138": {
+    "gpt-5.2": "B"
+  },
+  "professional_law-test-778": {
+    "gpt-5.2": "D"
+  },
+  "human_aging-test-202": {
+    "gpt-5.2": "C"
+  },
+  "miscellaneous-test-715": {
+    "gpt-5.2": "B"
+  },
+  "international_law-test-104": {
+    "gpt-5.2": "C"
+  },
+  "high_school_macroeconomics-test-159": {
+    "gpt-5.2": "C"
+  },
+  "elementary_mathematics-test-352": {
+    "gpt-5.2": "B"
+  },
+  "professional_law-test-117": {
+    "gpt-5.2": "C"
+  },
+  "professional_law-test-635": {
+    "gpt-5.2": "D"
+  },
+  "abstract_algebra-test-90": {
+    "gpt-5.2": "D"
+  },
+  "professional_medicine-test-138": {
+    "gpt-5.2": "D"
+  },
+  "professional_psychology-test-179": {
+    "gpt-5.2": "A"
+  },
+  "conceptual_physics-test-175": {
+    "gpt-5.2": "A"
+  },
+  "professional_psychology-test-316": {
+    "gpt-5.2": "B"
+  },
+  "management-test-18": {
+    "gpt-5.2": "C"
+  },
+  "high_school_geography-test-138": {
+    "gpt-5.2": "B"
+  },
+  "high_school_biology-test-212": {
+    "gpt-5.2": "C"
+  },
+  "security_studies-test-15": {
+    "gpt-5.2": "C"
+  },
+  "professional_law-test-770": {
+    "gpt-5.2": "B"
+  },
+  "moral_disputes-test-319": {
+    "gpt-5.2": "D"
+  },
+  "miscellaneous-test-227": {
+    "gpt-5.2": "C"
+  },
+  "college_biology-test-70": {
+    "gpt-5.2": "A"
+  },
+  "moral_scenarios-test-619": {
+    "gpt-5.2": "D"
+  },
+  "high_school_macroeconomics-test-244": {
+    "gpt-5.2": "D"
+  },
+  "world_religions-test-28": {
+    "gpt-5.2": "C"
+  },
+  "electrical_engineering-test-68": {
+    "gpt-5.2": "C"
+  },
+  "miscellaneous-test-94": {
+    "gpt-5.2": "A"
+  },
+  "elementary_mathematics-test-119": {
+    "gpt-5.2": "B"
+  },
+  "public_relations-test-81": {
+    "gpt-5.2": "B"
+  },
+  "miscellaneous-test-228": {
+    "gpt-5.2": "A"
+  },
+  "professional_law-test-306": {
+    "gpt-5.2": "C"
+  },
+  "moral_scenarios-test-189": {
+    "gpt-5.2": "A"
+  },
+  "moral_scenarios-test-644": {
+    "gpt-5.2": "B"
+  },
+  "philosophy-test-41": {
+    "gpt-5.2": "C"
+  },
+  "high_school_psychology-test-311": {
+    "gpt-5.2": "D"
+  },
+  "marketing-test-201": {
+    "gpt-5.2": "C"
+  },
+  "prehistory-test-12": {
+    "gpt-5.2": "C"
+  },
+  "security_studies-test-194": {
+    "gpt-5.2": "A"
+  },
+  "professional_law-test-1153": {
+    "gpt-5.2": "D"
+  },
+  "moral_disputes-test-103": {
+    "gpt-5.2": "D"
+  },
+  "management-test-44": {
+    "gpt-5.2": "A"
+  },
+  "us_foreign_policy-test-3": {
+    "gpt-5.2": "A"
+  },
+  "moral_scenarios-test-463": {
+    "gpt-5.2": "B"
+  },
+  "medical_genetics-test-21": {
+    "gpt-5.2": "A"
+  },
+  "global_facts-test-38": {
+    "gpt-5.2": "D"
+  },
+  "professional_medicine-test-19": {
+    "gpt-5.2": "C"
+  },
+  "miscellaneous-test-393": {
+    "gpt-5.2": "D"
+  },
+  "medical_genetics-test-89": {
+    "gpt-5.2": "C"
+  },
+  "high_school_mathematics-test-18": {
+    "gpt-5.2": "B"
+  },
+  "professional_medicine-test-152": {
+    "gpt-5.2": "D"
+  },
+  "high_school_macroeconomics-test-212": {
+    "gpt-5.2": "C"
+  },
+  "virology-test-55": {
+    "gpt-5.2": "D"
+  },
+  "professional_accounting-test-98": {
+    "gpt-5.2": "D"
+  },
+  "high_school_microeconomics-test-45": {
+    "gpt-5.2": "D"
+  },
+  "professional_psychology-test-304": {
+    "gpt-5.2": "A"
+  },
+  "moral_scenarios-test-27": {
+    "gpt-5.2": "C"
+  },
+  "miscellaneous-test-555": {
+    "gpt-5.2": "C"
+  },
+  "prehistory-test-243": {
+    "gpt-5.2": "D"
+  },
+  "high_school_macroeconomics-test-81": {
+    "gpt-5.2": "C"
+  },
+  "high_school_microeconomics-test-1": {
+    "gpt-5.2": "C"
+  },
+  "marketing-test-156": {
+    "gpt-5.2": "B"
+  },
+  "college_medicine-test-73": {
+    "gpt-5.2": "B"
+  },
+  "professional_law-test-1059": {
+    "gpt-5.2": "B"
+  },
+  "high_school_microeconomics-test-183": {
+    "gpt-5.2": "D"
+  },
+  "high_school_macroeconomics-test-3": {
+    "gpt-5.2": "C"
+  },
+  "high_school_mathematics-test-223": {
+    "gpt-5.2": "A"
+  },
+  "high_school_statistics-test-70": {
+    "gpt-5.2": "C"
+  },
+  "high_school_psychology-test-351": {
+    "gpt-5.2": "D"
+  },
+  "moral_scenarios-test-336": {
+    "gpt-5.2": "B"
+  },
+  "college_medicine-test-124": {
+    "gpt-5.2": "B"
+  },
+  "elementary_mathematics-test-202": {
+    "gpt-5.2": "A"
+  },
+  "formal_logic-test-28": {
+    "gpt-5.2": "A"
+  },
+  "high_school_government_and_politics-test-143": {
+    "gpt-5.2": "A"
+  },
+  "human_aging-test-186": {
+    "gpt-5.2": "C"
+  },
+  "professional_law-test-738": {
+    "gpt-5.2": "A"
+  },
+  "formal_logic-test-60": {
+    "gpt-5.2": "B"
+  },
+  "professional_law-test-942": {
+    "gpt-5.2": "D"
+  },
+  "high_school_geography-test-58": {
+    "gpt-5.2": "D"
+  },
+  "college_computer_science-test-56": {
+    "gpt-5.2": "C"
+  },
+  "logical_fallacies-test-125": {
+    "gpt-5.2": "B"
+  },
+  "logical_fallacies-test-6": {
+    "gpt-5.2": "A"
+  },
+  "high_school_psychology-test-534": {
+    "gpt-5.2": "D"
+  },
+  "moral_scenarios-test-377": {
+    "gpt-5.2": "C"
+  },
+  "miscellaneous-test-249": {
+    "gpt-5.2": "C"
+  },
+  "logical_fallacies-test-140": {
+    "gpt-5.2": "D"
+  },
+  "college_computer_science-test-24": {
+    "gpt-5.2": "A"
+  },
+  "high_school_european_history-test-106": {
+    "gpt-5.2": "B"
+  },
+  "us_foreign_policy-test-41": {
+    "gpt-5.2": "D"
+  },
+  "machine_learning-test-48": {
+    "gpt-5.2": "D"
+  },
+  "human_sexuality-test-69": {
+    "gpt-5.2": "C"
+  },
+  "professional_psychology-test-175": {
+    "gpt-5.2": "D"
+  },
+  "nutrition-test-161": {
+    "gpt-5.2": "A"
+  },
+  "professional_law-test-764": {
+    "gpt-5.2": "B"
+  },
+  "astronomy-test-85": {
+    "gpt-5.2": "A"
+  },
+  "world_religions-test-165": {
+    "gpt-5.2": "A"
+  },
+  "professional_psychology-test-106": {
+    "gpt-5.2": "B"
+  },
+  "nutrition-test-24": {
+    "gpt-5.2": "C"
+  },
+  "human_aging-test-143": {
+    "gpt-5.2": "B"
+  },
+  "miscellaneous-test-430": {
+    "gpt-5.2": "D"
+  },
+  "abstract_algebra-test-96": {
+    "gpt-5.2": "C"
+  },
+  "high_school_us_history-test-115": {
+    "gpt-5.2": "A"
+  },
+  "high_school_psychology-test-5": {
+    "gpt-5.2": "A"
+  },
+  "professional_medicine-test-179": {
+    "gpt-5.2": "D"
+  },
+  "human_sexuality-test-77": {
+    "gpt-5.2": "B"
+  },
+  "world_religions-test-111": {
+    "gpt-5.2": "A"
+  },
+  "us_foreign_policy-test-87": {
+    "gpt-5.2": "C"
+  },
+  "machine_learning-test-30": {
+    "gpt-5.2": "C"
+  },
+  "moral_scenarios-test-305": {
+    "gpt-5.2": "A"
+  },
+  "professional_medicine-test-82": {
+    "gpt-5.2": "C"
+  },
+  "professional_law-test-1405": {
+    "gpt-5.2": "C"
+  },
+  "moral_scenarios-test-434": {
+    "gpt-5.2": "C"
+  },
+  "philosophy-test-169": {
+    "gpt-5.2": "A"
+  },
+  "high_school_geography-test-166": {
+    "gpt-5.2": "C"
+  },
+  "miscellaneous-test-615": {
+    "gpt-5.2": "B"
+  },
+  "high_school_geography-test-148": {
+    "gpt-5.2": "C"
+  },
+  "high_school_mathematics-test-243": {
+    "gpt-5.2": "C"
+  },
+  "marketing-test-90": {
+    "gpt-5.2": "C"
+  },
+  "business_ethics-test-88": {
+    "gpt-5.2": "B"
+  },
+  "human_sexuality-test-59": {
+    "gpt-5.2": "A"
+  },
+  "high_school_statistics-test-75": {
+    "gpt-5.2": "B"
+  },
+  "professional_law-test-327": {
+    "gpt-5.2": "A"
+  },
+  "professional_law-test-496": {
+    "gpt-5.2": "B"
+  },
+  "public_relations-test-27": {
+    "gpt-5.2": "D"
+  },
+  "jurisprudence-test-60": {
+    "gpt-5.2": "A"
+  },
+  "professional_law-test-1233": {
+    "gpt-5.2": "D"
+  },
+  "high_school_biology-test-35": {
+    "gpt-5.2": "C"
+  },
+  "virology-test-65": {
+    "gpt-5.2": "A"
+  },
+  "miscellaneous-test-273": {
+    "gpt-5.2": "A"
+  },
+  "elementary_mathematics-test-26": {
+    "gpt-5.2": "D"
+  },
+  "prehistory-test-170": {
+    "gpt-5.2": "C"
+  },
+  "business_ethics-test-54": {
+    "gpt-5.2": "A"
+  },
+  "international_law-test-12": {
+    "gpt-5.2": "C"
+  },
+  "nutrition-test-289": {
+    "gpt-5.2": "A"
+  },
+  "moral_scenarios-test-733": {
+    "gpt-5.2": "D"
+  },
+  "professional_law-test-231": {
+    "gpt-5.2": "B"
+  },
+  "business_ethics-test-57": {
+    "gpt-5.2": "A"
+  },
+  "college_physics-test-6": {
+    "gpt-5.2": "D"
+  },
+  "professional_accounting-test-181": {
+    "gpt-5.2": "C"
+  },
+  "management-test-75": {
+    "gpt-5.2": "C"
+  },
+  "elementary_mathematics-test-158": {
+    "gpt-5.2": "A"
+  },
+  "miscellaneous-test-180": {
+    "gpt-5.2": "D"
+  },
+  "high_school_biology-test-308": {
+    "gpt-5.2": "B"
+  },
+  "college_biology-test-71": {
+    "gpt-5.2": "C"
+  },
+  "high_school_mathematics-test-34": {
+    "gpt-5.2": "B"
+  },
+  "high_school_psychology-test-476": {
+    "gpt-5.2": "D"
+  },
+  "high_school_geography-test-20": {
+    "gpt-5.2": "C"
+  },
+  "miscellaneous-test-65": {
+    "gpt-5.2": "A"
+  },
+  "high_school_psychology-test-468": {
+    "gpt-5.2": "D"
+  },
+  "high_school_statistics-test-97": {
+    "gpt-5.2": "B"
+  },
+  "professional_psychology-test-34": {
+    "gpt-5.2": "C"
+  },
+  "high_school_microeconomics-test-60": {
+    "gpt-5.2": "B"
+  },
+  "professional_medicine-test-155": {
+    "gpt-5.2": "D"
+  },
+  "us_foreign_policy-test-25": {
+    "gpt-5.2": "C"
+  },
+  "machine_learning-test-71": {
+    "gpt-5.2": "A"
+  },
+  "high_school_macroeconomics-test-295": {
+    "gpt-5.2": "A"
+  },
+  "us_foreign_policy-test-74": {
+    "gpt-5.2": "A"
+  },
+  "college_medicine-test-145": {
+    "gpt-5.2": "D"
+  },
+  "miscellaneous-test-321": {
+    "gpt-5.2": "D"
+  },
+  "astronomy-test-82": {
+    "gpt-5.2": "A"
+  },
+  "professional_medicine-test-107": {
+    "gpt-5.2": "B"
+  },
+  "college_biology-test-101": {
+    "gpt-5.2": "C"
+  },
+  "high_school_us_history-test-85": {
+    "gpt-5.2": "C"
+  },
+  "high_school_government_and_politics-test-28": {
+    "gpt-5.2": "D"
+  },
+  "professional_law-test-20": {
+    "gpt-5.2": "C"
+  },
+  "college_mathematics-test-28": {
+    "gpt-5.2": "B"
+  },
+  "professional_psychology-test-362": {
+    "gpt-5.2": "B"
+  },
+  "professional_law-test-47": {
+    "gpt-5.2": "B"
+  },
+  "clinical_knowledge-test-172": {
+    "gpt-5.2": "B"
+  },
+  "professional_medicine-test-192": {
+    "gpt-5.2": "A"
+  },
+  "clinical_knowledge-test-21": {
+    "gpt-5.2": "A"
+  },
+  "high_school_macroeconomics-test-213": {
+    "gpt-5.2": "C"
+  },
+  "high_school_computer_science-test-84": {
+    "gpt-5.2": "C"
+  },
+  "virology-test-44": {
+    "gpt-5.2": "B"
+  },
+  "astronomy-test-98": {
+    "gpt-5.2": "C"
+  },
+  "prehistory-test-154": {
+    "gpt-5.2": "D"
+  },
+  "formal_logic-test-53": {
+    "gpt-5.2": "D"
+  },
+  "high_school_macroeconomics-test-70": {
+    "gpt-5.2": "A"
+  },
+  "elementary_mathematics-test-3": {
+    "gpt-5.2": "B"
+  },
+  "miscellaneous-test-374": {
+    "gpt-5.2": "B"
+  },
+  "professional_law-test-337": {
+    "gpt-5.2": "A"
+  },
+  "econometrics-test-68": {
+    "gpt-5.2": "B"
+  },
+  "moral_scenarios-test-727": {
+    "gpt-5.2": "D"
+  },
+  "high_school_geography-test-124": {
+    "gpt-5.2": "B"
+  },
+  "miscellaneous-test-235": {
+    "gpt-5.2": "B"
+  },
+  "professional_law-test-829": {
+    "gpt-5.2": "C"
+  },
+  "high_school_macroeconomics-test-360": {
+    "gpt-5.2": "A"
+  },
+  "professional_psychology-test-127": {
+    "gpt-5.2": "B"
+  },
+  "high_school_world_history-test-191": {
+    "gpt-5.2": "B"
+  },
+  "high_school_biology-test-80": {
+    "gpt-5.2": "C"
+  },
+  "philosophy-test-212": {
+    "gpt-5.2": "D"
+  },
+  "philosophy-test-235": {
+    "gpt-5.2": "C"
+  },
+  "professional_psychology-test-306": {
+    "gpt-5.2": "A"
+  },
+  "sociology-test-19": {
+    "gpt-5.2": "A"
+  },
+  "high_school_biology-test-14": {
+    "gpt-5.2": "D"
+  },
+  "high_school_psychology-test-209": {
+    "gpt-5.2": "A"
+  },
+  "nutrition-test-73": {
+    "gpt-5.2": "A"
+  },
+  "business_ethics-test-33": {
+    "gpt-5.2": "A"
+  },
+  "high_school_psychology-test-224": {
+    "gpt-5.2": "C"
+  },
+  "nutrition-test-25": {
+    "gpt-5.2": "D"
+  },
+  "human_aging-test-60": {
+    "gpt-5.2": "B"
+  },
+  "international_law-test-55": {
+    "gpt-5.2": "B"
+  },
+  "professional_law-test-1083": {
+    "gpt-5.2": "A"
+  },
+  "high_school_computer_science-test-67": {
+    "gpt-5.2": "C"
+  },
+  "college_medicine-test-49": {
+    "gpt-5.2": "C"
+  },
+  "nutrition-test-292": {
+    "gpt-5.2": "C"
+  },
+  "professional_law-test-684": {
+    "gpt-5.2": "C"
+  },
+  "prehistory-test-251": {
+    "gpt-5.2": "D"
+  },
+  "high_school_macroeconomics-test-140": {
+    "gpt-5.2": "D"
+  },
+  "conceptual_physics-test-98": {
+    "gpt-5.2": "A"
+  },
+  "professional_law-test-791": {
+    "gpt-5.2": "B"
+  },
+  "professional_psychology-test-219": {
+    "gpt-5.2": "C"
+  },
+  "high_school_psychology-test-54": {
+    "gpt-5.2": "C"
+  },
+  "world_religions-test-60": {
+    "gpt-5.2": "B"
+  },
+  "professional_law-test-579": {
+    "gpt-5.2": "D"
+  },
+  "philosophy-test-123": {
+    "gpt-5.2": "D"
+  },
+  "security_studies-test-38": {
+    "gpt-5.2": "D"
+  },
+  "electrical_engineering-test-63": {
+    "gpt-5.2": "C"
+  },
+  "professional_psychology-test-608": {
+    "gpt-5.2": "D"
+  },
+  "moral_scenarios-test-759": {
+    "gpt-5.2": "C"
+  },
+  "professional_psychology-test-385": {
+    "gpt-5.2": "C"
+  },
+  "clinical_knowledge-test-185": {
+    "gpt-5.2": "D"
+  },
+  "high_school_us_history-test-40": {
+    "gpt-5.2": "A"
+  },
+  "moral_scenarios-test-215": {
+    "gpt-5.2": "B"
+  },
+  "management-test-71": {
+    "gpt-5.2": "C"
+  },
+  "professional_law-test-207": {
+    "gpt-5.2": "D"
+  },
+  "high_school_world_history-test-219": {
+    "gpt-5.2": "C"
+  },
+  "college_mathematics-test-33": {
+    "gpt-5.2": "C"
+  },
+  "moral_disputes-test-122": {
+    "gpt-5.2": "A"
+  },
+  "professional_accounting-test-260": {
+    "gpt-5.2": "B"
+  },
+  "high_school_statistics-test-158": {
+    "gpt-5.2": "B"
+  },
+  "anatomy-test-107": {
+    "gpt-5.2": "C"
+  },
+  "world_religions-test-48": {
+    "gpt-5.2": "A"
+  },
+  "machine_learning-test-47": {
+    "gpt-5.2": "A"
+  },
+  "sociology-test-69": {
+    "gpt-5.2": "A"
+  },
+  "miscellaneous-test-647": {
+    "gpt-5.2": "A"
+  },
+  "conceptual_physics-test-158": {
+    "gpt-5.2": "C"
+  },
+  "marketing-test-52": {
+    "gpt-5.2": "B"
+  },
+  "high_school_world_history-test-82": {
+    "gpt-5.2": "A"
+  },
+  "professional_accounting-test-64": {
+    "gpt-5.2": "B"
+  },
+  "sociology-test-173": {
+    "gpt-5.2": "B"
+  },
+  "miscellaneous-test-148": {
+    "gpt-5.2": "D"
+  },
+  "professional_law-test-957": {
+    "gpt-5.2": "C"
+  },
+  "formal_logic-test-63": {
+    "gpt-5.2": "A"
+  },
+  "marketing-test-85": {
+    "gpt-5.2": "B"
+  },
+  "high_school_biology-test-216": {
+    "gpt-5.2": "C"
+  },
+  "professional_law-test-1391": {
+    "gpt-5.2": "C"
+  },
+  "moral_scenarios-test-35": {
+    "gpt-5.2": "B"
+  },
+  "professional_law-test-26": {
+    "gpt-5.2": "D"
+  },
+  "high_school_mathematics-test-197": {
+    "gpt-5.2": "B"
+  },
+  "prehistory-test-66": {
+    "gpt-5.2": "B"
+  },
+  "security_studies-test-82": {
+    "gpt-5.2": "D"
+  },
+  "moral_scenarios-test-304": {
+    "gpt-5.2": "C"
+  },
+  "professional_psychology-test-254": {
+    "gpt-5.2": "C"
+  },
+  "miscellaneous-test-537": {
+    "gpt-5.2": "C"
+  },
+  "miscellaneous-test-232": {
+    "gpt-5.2": "B"
+  },
+  "marketing-test-86": {
+    "gpt-5.2": "C"
+  },
+  "sociology-test-124": {
+    "gpt-5.2": "A"
+  },
+  "professional_law-test-1346": {
+    "gpt-5.2": "D"
+  },
+  "nutrition-test-299": {
+    "gpt-5.2": "A"
+  },
+  "high_school_mathematics-test-169": {
+    "gpt-5.2": "B"
+  },
+  "high_school_psychology-test-393": {
+    "gpt-5.2": "D"
+  },
+  "world_religions-test-83": {
+    "gpt-5.2": "C"
+  },
+  "high_school_macroeconomics-test-184": {
+    "gpt-5.2": "D"
+  },
+  "us_foreign_policy-test-5": {
+    "gpt-5.2": "D"
+  },
+  "college_physics-test-50": {
+    "gpt-5.2": "C"
+  },
+  "high_school_microeconomics-test-71": {
+    "gpt-5.2": "D"
+  },
+  "miscellaneous-test-1": {
+    "gpt-5.2": "B"
+  },
+  "high_school_macroeconomics-test-157": {
+    "gpt-5.2": "D"
+  },
+  "professional_medicine-test-130": {
+    "gpt-5.2": "D"
+  },
+  "miscellaneous-test-229": {
+    "gpt-5.2": "B"
+  },
+  "moral_scenarios-test-823": {
+    "gpt-5.2": "C"
+  },
+  "philosophy-test-285": {
+    "gpt-5.2": "A"
+  },
+  "professional_law-test-316": {
+    "gpt-5.2": "C"
+  },
+  "high_school_statistics-test-79": {
+    "gpt-5.2": "C"
+  },
+  "business_ethics-test-83": {
+    "gpt-5.2": "D"
+  },
+  "miscellaneous-test-714": {
+    "gpt-5.2": "C"
+  },
+  "world_religions-test-71": {
+    "gpt-5.2": "C"
+  },
+  "high_school_psychology-test-438": {
+    "gpt-5.2": "A"
+  },
+  "high_school_chemistry-test-0": {
+    "gpt-5.2": "A"
+  },
+  "miscellaneous-test-604": {
+    "gpt-5.2": "D"
+  },
+  "high_school_geography-test-28": {
+    "gpt-5.2": "C"
+  },
+  "high_school_us_history-test-165": {
+    "gpt-5.2": "C"
+  },
+  "public_relations-test-22": {
+    "gpt-5.2": "B"
+  },
+  "high_school_mathematics-test-4": {
+    "gpt-5.2": "D"
+  },
+  "high_school_statistics-test-144": {
+    "gpt-5.2": "D"
+  },
+  "high_school_microeconomics-test-83": {
+    "gpt-5.2": "D"
+  },
+  "philosophy-test-53": {
+    "gpt-5.2": "C"
+  },
+  "professional_law-test-857": {
+    "gpt-5.2": "C"
+  },
+  "high_school_microeconomics-test-28": {
+    "gpt-5.2": "C"
+  },
+  "moral_scenarios-test-593": {
+    "gpt-5.2": "B"
+  },
+  "anatomy-test-66": {
+    "gpt-5.2": "D"
+  },
+  "moral_disputes-test-297": {
+    "gpt-5.2": "D"
+  },
+  "high_school_chemistry-test-151": {
+    "gpt-5.2": "B"
+  },
+  "college_physics-test-33": {
+    "gpt-5.2": "C"
+  },
+  "high_school_macroeconomics-test-116": {
+    "gpt-5.2": "D"
+  },
+  "professional_law-test-1166": {
+    "gpt-5.2": "D"
+  },
+  "moral_scenarios-test-583": {
+    "gpt-5.2": "B"
+  },
+  "professional_medicine-test-256": {
+    "gpt-5.2": "D"
+  },
+  "high_school_macroeconomics-test-99": {
+    "gpt-5.2": "D"
+  },
+  "professional_law-test-683": {
+    "gpt-5.2": "D"
+  },
+  "miscellaneous-test-416": {
+    "gpt-5.2": "C"
+  },
+  "professional_accounting-test-233": {
+    "gpt-5.2": "C"
+  },
+  "professional_law-test-1031": {
+    "gpt-5.2": "C"
+  },
+  "miscellaneous-test-657": {
+    "gpt-5.2": "B"
+  },
+  "medical_genetics-test-58": {
+    "gpt-5.2": "A"
+  }
+}

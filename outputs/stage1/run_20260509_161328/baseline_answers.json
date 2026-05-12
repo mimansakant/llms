@@ -1,0 +1,3002 @@
+{
+  "professional_accounting-test-127": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "econometrics-test-18": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "business_ethics-test-22": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_law-test-1518": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_microeconomics-test-8": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_macroeconomics-test-174": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_government_and_politics-test-12": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "elementary_mathematics-test-221": {
+    "llama3.1-8b-bedrock": ""
+  },
+  "professional_law-test-1435": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "conceptual_physics-test-108": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_law-test-456": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "professional_law-test-1504": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "moral_scenarios-test-422": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "college_physics-test-55": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "nutrition-test-266": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "machine_learning-test-77": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "clinical_knowledge-test-33": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "clinical_knowledge-test-1": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "computer_security-test-64": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_geography-test-135": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "high_school_government_and_politics-test-166": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "moral_disputes-test-112": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "philosophy-test-149": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "business_ethics-test-47": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "moral_scenarios-test-682": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_computer_science-test-75": {
+    "llama3.1-8b-bedrock": ""
+  },
+  "professional_law-test-1100": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-16": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_law-test-859": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "moral_scenarios-test-415": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "machine_learning-test-38": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_geography-test-164": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "medical_genetics-test-75": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "nutrition-test-246": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_microeconomics-test-59": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "security_studies-test-102": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "anatomy-test-6": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_medicine-test-267": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "security_studies-test-43": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "global_facts-test-46": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "professional_law-test-807": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "machine_learning-test-89": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_statistics-test-142": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_microeconomics-test-54": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "formal_logic-test-104": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_geography-test-80": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_psychology-test-72": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_statistics-test-82": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "conceptual_physics-test-103": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "computer_security-test-48": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "human_aging-test-135": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "conceptual_physics-test-13": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_world_history-test-29": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "world_religions-test-14": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "high_school_statistics-test-203": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "philosophy-test-177": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_mathematics-test-105": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "security_studies-test-64": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "clinical_knowledge-test-224": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-1324": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "miscellaneous-test-143": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "moral_scenarios-test-272": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "electrical_engineering-test-125": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "human_aging-test-112": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "college_medicine-test-95": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "moral_scenarios-test-531": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_physics-test-67": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "sociology-test-184": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "prehistory-test-274": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "prehistory-test-108": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "high_school_world_history-test-73": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "nutrition-test-51": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_chemistry-test-171": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-912": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "college_mathematics-test-43": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "clinical_knowledge-test-263": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "professional_law-test-203": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_government_and_politics-test-88": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_psychology-test-228": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_physics-test-5": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "college_medicine-test-111": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "world_religions-test-142": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_government_and_politics-test-169": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "conceptual_physics-test-83": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "human_aging-test-138": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_microeconomics-test-56": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "miscellaneous-test-44": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "professional_accounting-test-66": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "us_foreign_policy-test-61": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_world_history-test-125": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "global_facts-test-95": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "high_school_world_history-test-213": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_us_history-test-172": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_european_history-test-150": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "professional_law-test-349": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_mathematics-test-146": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-867": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "professional_law-test-568": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_accounting-test-268": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "college_mathematics-test-73": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "philosophy-test-266": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "professional_accounting-test-54": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_biology-test-134": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "moral_scenarios-test-238": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-1315": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "high_school_macroeconomics-test-172": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_biology-test-8": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "miscellaneous-test-189": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "human_aging-test-127": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_mathematics-test-194": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_accounting-test-136": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "professional_law-test-643": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "moral_scenarios-test-612": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_geography-test-151": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "professional_law-test-585": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_psychology-test-426": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "virology-test-104": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "professional_psychology-test-151": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_psychology-test-276": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "college_chemistry-test-20": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_government_and_politics-test-107": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "sociology-test-60": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "clinical_knowledge-test-38": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "security_studies-test-30": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_psychology-test-281": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "jurisprudence-test-8": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "high_school_mathematics-test-158": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "college_computer_science-test-88": {
+    "llama3.1-8b-bedrock": ""
+  },
+  "high_school_geography-test-9": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "moral_scenarios-test-779": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-1131": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_psychology-test-268": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_geography-test-36": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "professional_law-test-107": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "moral_disputes-test-12": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "international_law-test-39": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_accounting-test-183": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "miscellaneous-test-133": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "elementary_mathematics-test-275": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_mathematics-test-111": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "elementary_mathematics-test-222": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_macroeconomics-test-202": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_medicine-test-40": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "moral_scenarios-test-684": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "moral_scenarios-test-317": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_mathematics-test-76": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_medicine-test-74": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "nutrition-test-169": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "management-test-72": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "nutrition-test-152": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "international_law-test-100": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_world_history-test-78": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_geography-test-146": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "elementary_mathematics-test-201": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "moral_disputes-test-181": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "miscellaneous-test-701": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "computer_security-test-18": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_medicine-test-217": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "college_biology-test-19": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "conceptual_physics-test-225": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "formal_logic-test-61": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "prehistory-test-255": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "global_facts-test-52": {
+    "llama3.1-8b-bedrock": ""
+  },
+  "professional_psychology-test-540": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "professional_law-test-518": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "machine_learning-test-81": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "philosophy-test-57": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "college_computer_science-test-44": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "human_aging-test-215": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "human_aging-test-163": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "philosophy-test-49": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "miscellaneous-test-284": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "moral_scenarios-test-156": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_macroeconomics-test-281": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "moral_scenarios-test-551": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "anatomy-test-88": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-514": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "professional_law-test-1177": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "econometrics-test-70": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-538": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "moral_scenarios-test-284": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_medicine-test-137": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_mathematics-test-143": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_psychology-test-155": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_accounting-test-152": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_statistics-test-141": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "econometrics-test-21": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_physics-test-72": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "marketing-test-73": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "global_facts-test-22": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "miscellaneous-test-49": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "abstract_algebra-test-53": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_law-test-1199": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "professional_law-test-1160": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_mathematics-test-87": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "moral_disputes-test-34": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "professional_psychology-test-46": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_biology-test-258": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "moral_disputes-test-150": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "conceptual_physics-test-172": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "prehistory-test-219": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_psychology-test-2": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "virology-test-84": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_accounting-test-119": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "philosophy-test-263": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_computer_science-test-76": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "human_aging-test-37": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_psychology-test-55": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "global_facts-test-77": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "moral_scenarios-test-324": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_psychology-test-320": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "moral_scenarios-test-176": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "abstract_algebra-test-9": {
+    "llama3.1-8b-bedrock": ""
+  },
+  "philosophy-test-99": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_psychology-test-423": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "miscellaneous-test-621": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "astronomy-test-84": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "econometrics-test-26": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "high_school_world_history-test-95": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "us_foreign_policy-test-21": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "security_studies-test-59": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_psychology-test-151": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_macroeconomics-test-85": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "college_chemistry-test-53": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_macroeconomics-test-108": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "moral_scenarios-test-782": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "college_medicine-test-94": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "college_physics-test-34": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-1360": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "miscellaneous-test-578": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "security_studies-test-210": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "college_mathematics-test-37": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_psychology-test-24": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "moral_scenarios-test-214": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_psychology-test-110": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "electrical_engineering-test-140": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "elementary_mathematics-test-38": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-178": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "miscellaneous-test-403": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "moral_scenarios-test-494": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_biology-test-36": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_mathematics-test-114": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "moral_scenarios-test-132": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "philosophy-test-224": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "machine_learning-test-97": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_geography-test-23": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "moral_scenarios-test-322": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_medicine-test-209": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-1328": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-671": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_european_history-test-13": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_law-test-1049": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "high_school_psychology-test-220": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "international_law-test-94": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-373": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "human_aging-test-29": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "marketing-test-127": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "moral_disputes-test-312": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "miscellaneous-test-13": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "electrical_engineering-test-62": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_macroeconomics-test-223": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_government_and_politics-test-36": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "college_computer_science-test-53": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_statistics-test-107": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "astronomy-test-109": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "nutrition-test-230": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "moral_scenarios-test-562": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_government_and_politics-test-125": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "nutrition-test-233": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_geography-test-161": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "anatomy-test-17": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "college_mathematics-test-67": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-966": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "prehistory-test-314": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "college_chemistry-test-68": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_government_and_politics-test-105": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "college_mathematics-test-8": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "clinical_knowledge-test-27": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "high_school_psychology-test-526": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "college_mathematics-test-64": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "moral_disputes-test-256": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "high_school_macroeconomics-test-61": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_microeconomics-test-64": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-329": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "miscellaneous-test-569": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "high_school_geography-test-63": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "moral_scenarios-test-321": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "elementary_mathematics-test-102": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-1220": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "moral_scenarios-test-842": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "nutrition-test-32": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "miscellaneous-test-360": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_macroeconomics-test-143": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_psychology-test-418": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "miscellaneous-test-365": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "security_studies-test-71": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "jurisprudence-test-105": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_chemistry-test-140": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "computer_security-test-74": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "conceptual_physics-test-17": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "professional_law-test-165": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "marketing-test-12": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_us_history-test-156": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "machine_learning-test-104": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "logical_fallacies-test-63": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "miscellaneous-test-267": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "professional_law-test-1314": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "college_biology-test-135": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "professional_law-test-401": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-75": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_accounting-test-238": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "conceptual_physics-test-41": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "college_chemistry-test-97": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "jurisprudence-test-32": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-1300": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_statistics-test-127": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "public_relations-test-67": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "conceptual_physics-test-219": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_macroeconomics-test-235": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "high_school_chemistry-test-160": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_chemistry-test-137": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "moral_scenarios-test-273": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "medical_genetics-test-66": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "elementary_mathematics-test-231": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_chemistry-test-27": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_microeconomics-test-65": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "miscellaneous-test-195": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_macroeconomics-test-254": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "college_medicine-test-39": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "marketing-test-210": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "security_studies-test-79": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "world_religions-test-153": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "moral_scenarios-test-503": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "conceptual_physics-test-33": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "college_biology-test-76": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_law-test-53": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "moral_scenarios-test-343": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "us_foreign_policy-test-92": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "astronomy-test-6": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "computer_security-test-57": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_medicine-test-181": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "world_religions-test-34": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_macroeconomics-test-34": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_biology-test-55": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "jurisprudence-test-94": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "miscellaneous-test-572": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "miscellaneous-test-502": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_geography-test-55": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "jurisprudence-test-6": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "college_chemistry-test-64": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_biology-test-28": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "human_aging-test-120": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "abstract_algebra-test-35": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "human_sexuality-test-84": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_mathematics-test-117": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_psychology-test-409": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_psychology-test-426": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "miscellaneous-test-70": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_microeconomics-test-175": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "machine_learning-test-95": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-781": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_law-test-1337": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "professional_psychology-test-397": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "moral_scenarios-test-592": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-213": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_law-test-1139": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "miscellaneous-test-589": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "formal_logic-test-93": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_chemistry-test-132": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_physics-test-125": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_geography-test-119": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "college_chemistry-test-62": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "nutrition-test-81": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "professional_law-test-1423": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "moral_scenarios-test-370": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "college_computer_science-test-2": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_medicine-test-89": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_psychology-test-251": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "college_chemistry-test-40": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "college_biology-test-69": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "nutrition-test-163": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "miscellaneous-test-427": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "moral_disputes-test-71": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "world_religions-test-99": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "moral_scenarios-test-188": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "global_facts-test-10": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "college_chemistry-test-35": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "moral_disputes-test-153": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "college_medicine-test-116": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "world_religions-test-77": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_chemistry-test-65": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "college_mathematics-test-26": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "philosophy-test-35": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "college_mathematics-test-17": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-431": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_macroeconomics-test-15": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "jurisprudence-test-51": {
+    "llama3.1-8b-bedrock": ""
+  },
+  "electrical_engineering-test-44": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "moral_scenarios-test-820": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_macroeconomics-test-195": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "nutrition-test-77": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "philosophy-test-26": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "clinical_knowledge-test-164": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "prehistory-test-122": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "college_medicine-test-147": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "machine_learning-test-33": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-139": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "nutrition-test-154": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "moral_scenarios-test-747": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "moral_scenarios-test-52": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_psychology-test-296": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_mathematics-test-44": {
+    "llama3.1-8b-bedrock": ""
+  },
+  "high_school_european_history-test-64": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "professional_law-test-341": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_law-test-1103": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_psychology-test-260": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_macroeconomics-test-72": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_mathematics-test-123": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "international_law-test-41": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "elementary_mathematics-test-79": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_accounting-test-226": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "high_school_psychology-test-28": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "miscellaneous-test-107": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_psychology-test-293": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "professional_medicine-test-153": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "college_mathematics-test-92": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "anatomy-test-52": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "miscellaneous-test-124": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "prehistory-test-152": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "moral_scenarios-test-711": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "conceptual_physics-test-67": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "college_medicine-test-4": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "moral_scenarios-test-295": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_geography-test-45": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "moral_disputes-test-121": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "elementary_mathematics-test-105": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_us_history-test-70": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "college_mathematics-test-31": {
+    "llama3.1-8b-bedrock": ""
+  },
+  "high_school_macroeconomics-test-164": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_world_history-test-202": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_microeconomics-test-171": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "global_facts-test-15": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "marketing-test-129": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "us_foreign_policy-test-55": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "moral_scenarios-test-387": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_law-test-895": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "high_school_psychology-test-69": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "philosophy-test-307": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "professional_law-test-83": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "moral_scenarios-test-153": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "anatomy-test-28": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_law-test-311": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "security_studies-test-228": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "moral_scenarios-test-573": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_psychology-test-18": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "professional_law-test-237": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "conceptual_physics-test-126": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "elementary_mathematics-test-135": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "econometrics-test-85": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "conceptual_physics-test-182": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-1532": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "formal_logic-test-103": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_mathematics-test-234": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_microeconomics-test-118": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "philosophy-test-195": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "high_school_geography-test-3": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_law-test-1126": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_statistics-test-185": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_european_history-test-53": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "professional_law-test-632": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_accounting-test-42": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "world_religions-test-103": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "high_school_mathematics-test-97": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "moral_disputes-test-113": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "miscellaneous-test-620": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_macroeconomics-test-276": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "virology-test-157": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "college_biology-test-80": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "computer_security-test-41": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "professional_accounting-test-43": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_microeconomics-test-35": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "clinical_knowledge-test-235": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "abstract_algebra-test-58": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_statistics-test-32": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_psychology-test-197": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "elementary_mathematics-test-78": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "professional_accounting-test-89": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_mathematics-test-63": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "global_facts-test-78": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "professional_law-test-1513": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "marketing-test-189": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "moral_scenarios-test-525": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_law-test-930": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "management-test-60": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "moral_scenarios-test-676": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "anatomy-test-58": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "college_medicine-test-36": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "professional_law-test-690": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "elementary_mathematics-test-377": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "moral_scenarios-test-425": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "clinical_knowledge-test-103": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "us_foreign_policy-test-69": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_world_history-test-197": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "nutrition-test-135": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "moral_scenarios-test-539": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "elementary_mathematics-test-361": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "management-test-94": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "elementary_mathematics-test-23": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "clinical_knowledge-test-198": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_psychology-test-163": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_world_history-test-122": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "professional_psychology-test-606": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "clinical_knowledge-test-166": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_world_history-test-10": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "high_school_european_history-test-159": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_law-test-543": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_macroeconomics-test-250": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "professional_law-test-296": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "conceptual_physics-test-113": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_us_history-test-146": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "professional_psychology-test-344": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "moral_scenarios-test-660": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "prehistory-test-143": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_medicine-test-114": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "formal_logic-test-89": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_macroeconomics-test-40": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "global_facts-test-93": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "public_relations-test-56": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "security_studies-test-124": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_biology-test-231": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "logical_fallacies-test-83": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "business_ethics-test-19": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_biology-test-269": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_law-test-1436": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_statistics-test-10": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "professional_psychology-test-381": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "logical_fallacies-test-73": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "public_relations-test-94": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-344": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-1412": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_macroeconomics-test-227": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "global_facts-test-39": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_psychology-test-463": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_law-test-858": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "conceptual_physics-test-200": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "human_aging-test-178": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "clinical_knowledge-test-147": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "miscellaneous-test-327": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "high_school_geography-test-197": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "high_school_computer_science-test-87": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "security_studies-test-219": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "miscellaneous-test-157": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "high_school_us_history-test-80": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "high_school_psychology-test-113": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "sociology-test-39": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_psychology-test-593": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_government_and_politics-test-83": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_government_and_politics-test-7": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "business_ethics-test-0": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-182": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_chemistry-test-185": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "international_law-test-85": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_psychology-test-491": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_microeconomics-test-66": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "college_mathematics-test-41": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "professional_psychology-test-233": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_microeconomics-test-75": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_us_history-test-105": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_accounting-test-161": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "moral_disputes-test-179": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "international_law-test-105": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-502": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "virology-test-117": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "high_school_psychology-test-538": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "business_ethics-test-65": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "econometrics-test-83": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_mathematics-test-51": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_biology-test-256": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "nutrition-test-104": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_mathematics-test-121": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "clinical_knowledge-test-139": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "conceptual_physics-test-205": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "philosophy-test-60": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "marketing-test-69": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_us_history-test-15": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_law-test-1305": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_psychology-test-447": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_psychology-test-252": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "marketing-test-99": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "philosophy-test-218": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "moral_disputes-test-212": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "econometrics-test-88": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "human_aging-test-222": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "nutrition-test-38": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_chemistry-test-135": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "high_school_macroeconomics-test-335": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "clinical_knowledge-test-240": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_law-test-981": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "marketing-test-94": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "abstract_algebra-test-27": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "moral_scenarios-test-5": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "security_studies-test-54": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "moral_scenarios-test-308": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_law-test-622": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_law-test-1156": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-1525": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_law-test-1444": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-356": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_computer_science-test-46": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_world_history-test-115": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "marketing-test-16": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "college_mathematics-test-50": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "professional_law-test-251": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "high_school_psychology-test-522": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "prehistory-test-184": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_psychology-test-256": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "world_religions-test-22": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "electrical_engineering-test-121": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "professional_law-test-1161": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_psychology-test-33": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "moral_disputes-test-141": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_psychology-test-180": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-295": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "logical_fallacies-test-19": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_psychology-test-457": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "jurisprudence-test-28": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "professional_law-test-792": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_physics-test-108": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "moral_scenarios-test-570": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "elementary_mathematics-test-20": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "high_school_chemistry-test-164": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "machine_learning-test-53": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_law-test-263": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "human_aging-test-122": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-466": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_medicine-test-92": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "high_school_biology-test-182": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "prehistory-test-59": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "moral_scenarios-test-811": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_psychology-test-43": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "jurisprudence-test-89": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "moral_scenarios-test-464": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "us_foreign_policy-test-54": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "abstract_algebra-test-6": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_psychology-test-91": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "high_school_microeconomics-test-202": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_european_history-test-161": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "management-test-96": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "professional_psychology-test-436": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "nutrition-test-94": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "philosophy-test-225": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_law-test-95": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_psychology-test-392": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "miscellaneous-test-234": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "marketing-test-188": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "marketing-test-194": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "professional_law-test-438": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "high_school_geography-test-54": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "moral_disputes-test-208": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "miscellaneous-test-368": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "professional_psychology-test-567": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "professional_psychology-test-605": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-1426": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_biology-test-111": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-163": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "college_physics-test-20": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_microeconomics-test-151": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "moral_disputes-test-278": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-245": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "professional_accounting-test-21": {
+    "llama3.1-8b-bedrock": ""
+  },
+  "prehistory-test-120": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_statistics-test-59": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "computer_security-test-59": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "sociology-test-5": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "professional_medicine-test-141": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_macroeconomics-test-10": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "professional_law-test-392": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_psychology-test-198": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_government_and_politics-test-35": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "security_studies-test-55": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_computer_science-test-80": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "elementary_mathematics-test-349": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "business_ethics-test-13": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "college_biology-test-5": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_macroeconomics-test-173": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "miscellaneous-test-400": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "philosophy-test-301": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "world_religions-test-51": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "professional_psychology-test-153": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "college_mathematics-test-97": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "miscellaneous-test-77": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "logical_fallacies-test-118": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "prehistory-test-293": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "nutrition-test-23": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_computer_science-test-3": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-1138": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "professional_law-test-778": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "human_aging-test-202": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "miscellaneous-test-715": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "international_law-test-104": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_macroeconomics-test-159": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "elementary_mathematics-test-352": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_law-test-117": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-635": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "abstract_algebra-test-90": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_medicine-test-138": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "professional_psychology-test-179": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "conceptual_physics-test-175": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_psychology-test-316": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "management-test-18": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "high_school_geography-test-138": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "high_school_biology-test-212": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "security_studies-test-15": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-770": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "moral_disputes-test-319": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "miscellaneous-test-227": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "college_biology-test-70": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "moral_scenarios-test-619": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_macroeconomics-test-244": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "world_religions-test-28": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "electrical_engineering-test-68": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "miscellaneous-test-94": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "elementary_mathematics-test-119": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "public_relations-test-81": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "miscellaneous-test-228": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "professional_law-test-306": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "moral_scenarios-test-189": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "moral_scenarios-test-644": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "philosophy-test-41": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_psychology-test-311": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "marketing-test-201": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "prehistory-test-12": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "security_studies-test-194": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "professional_law-test-1153": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "moral_disputes-test-103": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "management-test-44": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "us_foreign_policy-test-3": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "moral_scenarios-test-463": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "medical_genetics-test-21": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "global_facts-test-38": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_medicine-test-19": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "miscellaneous-test-393": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "medical_genetics-test-89": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_mathematics-test-18": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_medicine-test-152": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_macroeconomics-test-212": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "virology-test-55": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "professional_accounting-test-98": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_microeconomics-test-45": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "professional_psychology-test-304": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "moral_scenarios-test-27": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "miscellaneous-test-555": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "prehistory-test-243": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_macroeconomics-test-81": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_microeconomics-test-1": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "marketing-test-156": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "college_medicine-test-73": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-1059": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_microeconomics-test-183": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_macroeconomics-test-3": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_mathematics-test-223": {
+    "llama3.1-8b-bedrock": ""
+  },
+  "high_school_statistics-test-70": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_psychology-test-351": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "moral_scenarios-test-336": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "college_medicine-test-124": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "elementary_mathematics-test-202": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "formal_logic-test-28": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_government_and_politics-test-143": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "human_aging-test-186": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "professional_law-test-738": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "formal_logic-test-60": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "professional_law-test-942": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_geography-test-58": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "college_computer_science-test-56": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "logical_fallacies-test-125": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "logical_fallacies-test-6": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_psychology-test-534": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "moral_scenarios-test-377": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "miscellaneous-test-249": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "logical_fallacies-test-140": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "college_computer_science-test-24": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_european_history-test-106": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "us_foreign_policy-test-41": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "machine_learning-test-48": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "human_sexuality-test-69": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_psychology-test-175": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "nutrition-test-161": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-764": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "astronomy-test-85": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "world_religions-test-165": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "professional_psychology-test-106": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "nutrition-test-24": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "human_aging-test-143": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "miscellaneous-test-430": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "abstract_algebra-test-96": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_us_history-test-115": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_psychology-test-5": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_medicine-test-179": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "human_sexuality-test-77": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "world_religions-test-111": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "us_foreign_policy-test-87": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "machine_learning-test-30": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "moral_scenarios-test-305": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_medicine-test-82": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-1405": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "moral_scenarios-test-434": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "philosophy-test-169": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_geography-test-166": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "miscellaneous-test-615": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "high_school_geography-test-148": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "high_school_mathematics-test-243": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "marketing-test-90": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "business_ethics-test-88": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "human_sexuality-test-59": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_statistics-test-75": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "professional_law-test-327": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "professional_law-test-496": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "public_relations-test-27": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "jurisprudence-test-60": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-1233": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_biology-test-35": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "virology-test-65": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "miscellaneous-test-273": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "elementary_mathematics-test-26": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "prehistory-test-170": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "business_ethics-test-54": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "international_law-test-12": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "nutrition-test-289": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "moral_scenarios-test-733": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "professional_law-test-231": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "business_ethics-test-57": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "college_physics-test-6": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_accounting-test-181": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "management-test-75": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "elementary_mathematics-test-158": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "miscellaneous-test-180": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_biology-test-308": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "college_biology-test-71": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_mathematics-test-34": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_psychology-test-476": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_geography-test-20": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "miscellaneous-test-65": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_psychology-test-468": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_statistics-test-97": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_psychology-test-34": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "high_school_microeconomics-test-60": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "professional_medicine-test-155": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "us_foreign_policy-test-25": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "machine_learning-test-71": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "high_school_macroeconomics-test-295": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "us_foreign_policy-test-74": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "college_medicine-test-145": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "miscellaneous-test-321": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "astronomy-test-82": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_medicine-test-107": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "college_biology-test-101": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_us_history-test-85": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_government_and_politics-test-28": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "professional_law-test-20": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "college_mathematics-test-28": {
+    "llama3.1-8b-bedrock": ""
+  },
+  "professional_psychology-test-362": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-47": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "clinical_knowledge-test-172": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "professional_medicine-test-192": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "clinical_knowledge-test-21": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_macroeconomics-test-213": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_computer_science-test-84": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "virology-test-44": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "astronomy-test-98": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "prehistory-test-154": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "formal_logic-test-53": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "high_school_macroeconomics-test-70": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "elementary_mathematics-test-3": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "miscellaneous-test-374": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "professional_law-test-337": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "econometrics-test-68": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "moral_scenarios-test-727": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_geography-test-124": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "miscellaneous-test-235": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "professional_law-test-829": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_macroeconomics-test-360": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "professional_psychology-test-127": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_world_history-test-191": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "high_school_biology-test-80": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "philosophy-test-212": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "philosophy-test-235": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_psychology-test-306": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "sociology-test-19": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_biology-test-14": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_psychology-test-209": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "nutrition-test-73": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "business_ethics-test-33": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_psychology-test-224": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "nutrition-test-25": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "human_aging-test-60": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "international_law-test-55": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-1083": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_computer_science-test-67": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "college_medicine-test-49": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "nutrition-test-292": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_law-test-684": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "prehistory-test-251": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_macroeconomics-test-140": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "conceptual_physics-test-98": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-791": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_psychology-test-219": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "high_school_psychology-test-54": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "world_religions-test-60": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "professional_law-test-579": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "philosophy-test-123": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "security_studies-test-38": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "electrical_engineering-test-63": {
+    "llama3.1-8b-bedrock": ""
+  },
+  "professional_psychology-test-608": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "moral_scenarios-test-759": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_psychology-test-385": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "clinical_knowledge-test-185": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_us_history-test-40": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "moral_scenarios-test-215": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "management-test-71": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-207": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_world_history-test-219": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "college_mathematics-test-33": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "moral_disputes-test-122": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_accounting-test-260": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_statistics-test-158": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "anatomy-test-107": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "world_religions-test-48": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "machine_learning-test-47": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "sociology-test-69": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "miscellaneous-test-647": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "conceptual_physics-test-158": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "marketing-test-52": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "high_school_world_history-test-82": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_accounting-test-64": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "sociology-test-173": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "miscellaneous-test-148": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "professional_law-test-957": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "formal_logic-test-63": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "marketing-test-85": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "high_school_biology-test-216": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_law-test-1391": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "moral_scenarios-test-35": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_law-test-26": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_mathematics-test-197": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "prehistory-test-66": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "security_studies-test-82": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "moral_scenarios-test-304": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_psychology-test-254": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "miscellaneous-test-537": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "miscellaneous-test-232": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "marketing-test-86": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "sociology-test-124": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "professional_law-test-1346": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "nutrition-test-299": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_mathematics-test-169": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_psychology-test-393": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "world_religions-test-83": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_macroeconomics-test-184": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "us_foreign_policy-test-5": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "college_physics-test-50": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_microeconomics-test-71": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "miscellaneous-test-1": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_macroeconomics-test-157": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "professional_medicine-test-130": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "miscellaneous-test-229": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "moral_scenarios-test-823": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "philosophy-test-285": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-316": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_statistics-test-79": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "business_ethics-test-83": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "miscellaneous-test-714": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "world_religions-test-71": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_psychology-test-438": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_chemistry-test-0": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "miscellaneous-test-604": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_geography-test-28": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "high_school_us_history-test-165": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "public_relations-test-22": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_mathematics-test-4": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_statistics-test-144": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "high_school_microeconomics-test-83": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "philosophy-test-53": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_law-test-857": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_microeconomics-test-28": {
+    "llama3.1-8b-bedrock": "B"
+  },
+  "moral_scenarios-test-593": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "anatomy-test-66": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "moral_disputes-test-297": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_chemistry-test-151": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "college_physics-test-33": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "high_school_macroeconomics-test-116": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "professional_law-test-1166": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "moral_scenarios-test-583": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "professional_medicine-test-256": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "high_school_macroeconomics-test-99": {
+    "llama3.1-8b-bedrock": "D"
+  },
+  "professional_law-test-683": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "miscellaneous-test-416": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_accounting-test-233": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "professional_law-test-1031": {
+    "llama3.1-8b-bedrock": "A"
+  },
+  "miscellaneous-test-657": {
+    "llama3.1-8b-bedrock": "C"
+  },
+  "medical_genetics-test-58": {
+    "llama3.1-8b-bedrock": "A"
+  }
+}

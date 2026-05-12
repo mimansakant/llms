@@ -1,0 +1,11 @@
+{
+  "stage2_dirs": [
+    "/Users/yangziqing/IdeaProjects/COMSBC3707/outputs/stage2/run_20260428_175103"
+  ],
+  "stage3_dirs": [
+    "outputs/stage3/run_20260428_181510"
+  ],
+  "round1_rows_clean": 1350,
+  "round2_rows_clean": 0,
+  "combined_rows_clean": 1350
+}

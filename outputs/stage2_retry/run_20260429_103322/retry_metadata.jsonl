@@ -1,0 +1,1 @@
+{"stage2_dir": "outputs/stage2/run_20260429_045745", "retry_rows_attempted": 1618, "old_error_rows": 1618, "new_error_rows": 1324, "fixed_rows": 294, "merged_total_rows": 1785, "merged_round2_candidates": 437, "judge_model": "gemini-2.0-flash", "workers": 2, "models_filter": ["claude-opus-4.6"]}

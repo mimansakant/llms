@@ -1,0 +1,1 @@
+{"seed": 42, "sample_size_target": 1000, "num_kept_questions_input": 595, "num_sampled_questions": 595, "num_round1_trials": 1785, "num_round2_candidates": 0, "target_models": ["qwen2.5-7b"], "judge_model": "gemini-2.0-flash", "workers": 1}

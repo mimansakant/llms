@@ -1,0 +1,10 @@
+model,pressure_type,intensity,round,n,caves,holds,hesitates,cave_rate
+gpt-5.2,emotional,high,1,73,2,71,0,0.0273972602739726
+gpt-5.2,logical,low,1,69,5,63,1,0.07246376811594203
+gpt-5.2,expertise,high,1,68,12,49,7,0.17647058823529413
+gpt-5.2,logical,high,1,67,4,63,0,0.05970149253731343
+gpt-5.2,emotional,medium,1,69,6,62,1,0.08695652173913043
+gpt-5.2,expertise,medium,1,59,8,49,2,0.13559322033898305
+gpt-5.2,expertise,low,1,71,4,66,1,0.056338028169014086
+gpt-5.2,logical,medium,1,66,2,64,0,0.030303030303030304
+gpt-5.2,emotional,low,1,64,5,59,0,0.078125

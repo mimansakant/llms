@@ -1,0 +1,1 @@
+{"deepseek_run_dir": "outputs/stage1/run_20260428_170423", "gpt_run_dir": "outputs/stage1/run_20260428_170525", "claude_run_dir": "outputs/stage1/run_20260428_170254", "num_common_questions": 3000, "num_kept_questions": 450, "num_question_bank_rows": 2740, "num_kept_with_missing_question_or_choices": 0}

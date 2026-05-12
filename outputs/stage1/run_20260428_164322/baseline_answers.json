@@ -1,0 +1,3002 @@
+{
+  "professional_accounting-test-127": {
+    "claude-opus-4.6": "A"
+  },
+  "econometrics-test-18": {
+    "claude-opus-4.6": "A"
+  },
+  "business_ethics-test-22": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_law-test-1518": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_microeconomics-test-8": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_macroeconomics-test-174": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_government_and_politics-test-12": {
+    "claude-opus-4.6": "B"
+  },
+  "elementary_mathematics-test-221": {
+    "claude-opus-4.6": "C"
+  },
+  "professional_law-test-1435": {
+    "claude-opus-4.6": "A"
+  },
+  "conceptual_physics-test-108": {
+    "claude-opus-4.6": "C"
+  },
+  "professional_law-test-456": {
+    "claude-opus-4.6": "D"
+  },
+  "professional_law-test-1504": {
+    "claude-opus-4.6": "B"
+  },
+  "moral_scenarios-test-422": {
+    "claude-opus-4.6": "A"
+  },
+  "college_physics-test-55": {
+    "claude-opus-4.6": "A"
+  },
+  "nutrition-test-266": {
+    "claude-opus-4.6": "D"
+  },
+  "machine_learning-test-77": {
+    "claude-opus-4.6": "A"
+  },
+  "clinical_knowledge-test-33": {
+    "claude-opus-4.6": "B"
+  },
+  "clinical_knowledge-test-1": {
+    "claude-opus-4.6": "D"
+  },
+  "computer_security-test-64": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_geography-test-135": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_government_and_politics-test-166": {
+    "claude-opus-4.6": "B"
+  },
+  "moral_disputes-test-112": {
+    "claude-opus-4.6": "A"
+  },
+  "philosophy-test-149": {
+    "claude-opus-4.6": "A"
+  },
+  "business_ethics-test-47": {
+    "claude-opus-4.6": "A"
+  },
+  "moral_scenarios-test-682": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_computer_science-test-75": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_law-test-1100": {
+    "claude-opus-4.6": "B"
+  },
+  "professional_law-test-16": {
+    "claude-opus-4.6": "C"
+  },
+  "professional_law-test-859": {
+    "claude-opus-4.6": "B"
+  },
+  "moral_scenarios-test-415": {
+    "claude-opus-4.6": "D"
+  },
+  "machine_learning-test-38": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_geography-test-164": {
+    "claude-opus-4.6": "A"
+  },
+  "medical_genetics-test-75": {
+    "claude-opus-4.6": "B"
+  },
+  "nutrition-test-246": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_microeconomics-test-59": {
+    "claude-opus-4.6": "B"
+  },
+  "security_studies-test-102": {
+    "claude-opus-4.6": "C"
+  },
+  "anatomy-test-6": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_medicine-test-267": {
+    "claude-opus-4.6": "A"
+  },
+  "security_studies-test-43": {
+    "claude-opus-4.6": "D"
+  },
+  "global_facts-test-46": {
+    "claude-opus-4.6": "B"
+  },
+  "professional_law-test-807": {
+    "claude-opus-4.6": "C"
+  },
+  "machine_learning-test-89": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_statistics-test-142": {
+    "claude-opus-4.6": ""
+  },
+  "high_school_microeconomics-test-54": {
+    "claude-opus-4.6": "A"
+  },
+  "formal_logic-test-104": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_geography-test-80": {
+    "claude-opus-4.6": "B"
+  },
+  "professional_psychology-test-72": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_statistics-test-82": {
+    "claude-opus-4.6": "C"
+  },
+  "conceptual_physics-test-103": {
+    "claude-opus-4.6": "B"
+  },
+  "computer_security-test-48": {
+    "claude-opus-4.6": "A"
+  },
+  "human_aging-test-135": {
+    "claude-opus-4.6": "B"
+  },
+  "conceptual_physics-test-13": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_world_history-test-29": {
+    "claude-opus-4.6": "D"
+  },
+  "world_religions-test-14": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_statistics-test-203": {
+    "claude-opus-4.6": "D"
+  },
+  "philosophy-test-177": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_mathematics-test-105": {
+    "claude-opus-4.6": "A"
+  },
+  "security_studies-test-64": {
+    "claude-opus-4.6": "D"
+  },
+  "clinical_knowledge-test-224": {
+    "claude-opus-4.6": "B"
+  },
+  "professional_law-test-1324": {
+    "claude-opus-4.6": "B"
+  },
+  "miscellaneous-test-143": {
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-272": {
+    "claude-opus-4.6": "B"
+  },
+  "electrical_engineering-test-125": {
+    "claude-opus-4.6": "A"
+  },
+  "human_aging-test-112": {
+    "claude-opus-4.6": "B"
+  },
+  "college_medicine-test-95": {
+    "claude-opus-4.6": "A"
+  },
+  "moral_scenarios-test-531": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_physics-test-67": {
+    "claude-opus-4.6": "A"
+  },
+  "sociology-test-184": {
+    "claude-opus-4.6": "C"
+  },
+  "prehistory-test-274": {
+    "claude-opus-4.6": "B"
+  },
+  "prehistory-test-108": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_world_history-test-73": {
+    "claude-opus-4.6": "A"
+  },
+  "nutrition-test-51": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_chemistry-test-171": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_law-test-912": {
+    "claude-opus-4.6": "B"
+  },
+  "college_mathematics-test-43": {
+    "claude-opus-4.6": "A"
+  },
+  "clinical_knowledge-test-263": {
+    "claude-opus-4.6": "D"
+  },
+  "professional_law-test-203": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_government_and_politics-test-88": {
+    "claude-opus-4.6": "C"
+  },
+  "professional_psychology-test-228": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_physics-test-5": {
+    "claude-opus-4.6": "C"
+  },
+  "college_medicine-test-111": {
+    "claude-opus-4.6": ""
+  },
+  "world_religions-test-142": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_government_and_politics-test-169": {
+    "claude-opus-4.6": "B"
+  },
+  "conceptual_physics-test-83": {
+    "claude-opus-4.6": "A"
+  },
+  "human_aging-test-138": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_microeconomics-test-56": {
+    "claude-opus-4.6": "A"
+  },
+  "miscellaneous-test-44": {
+    "claude-opus-4.6": "D"
+  },
+  "professional_accounting-test-66": {
+    "claude-opus-4.6": "C"
+  },
+  "us_foreign_policy-test-61": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_world_history-test-125": {
+    "claude-opus-4.6": "A"
+  },
+  "global_facts-test-95": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_world_history-test-213": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_us_history-test-172": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_european_history-test-150": {
+    "claude-opus-4.6": "D"
+  },
+  "professional_law-test-349": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_mathematics-test-146": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_law-test-867": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_law-test-568": {
+    "claude-opus-4.6": "B"
+  },
+  "professional_accounting-test-268": {
+    "claude-opus-4.6": ""
+  },
+  "college_mathematics-test-73": {
+    "claude-opus-4.6": "A"
+  },
+  "philosophy-test-266": {
+    "claude-opus-4.6": "C"
+  },
+  "professional_accounting-test-54": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_biology-test-134": {
+    "claude-opus-4.6": "A"
+  },
+  "moral_scenarios-test-238": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_law-test-1315": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_macroeconomics-test-172": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_biology-test-8": {
+    "claude-opus-4.6": "A"
+  },
+  "miscellaneous-test-189": {
+    "claude-opus-4.6": "D"
+  },
+  "human_aging-test-127": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_mathematics-test-194": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_accounting-test-136": {
+    "claude-opus-4.6": "C"
+  },
+  "professional_law-test-643": {
+    "claude-opus-4.6": "D"
+  },
+  "moral_scenarios-test-612": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_geography-test-151": {
+    "claude-opus-4.6": "D"
+  },
+  "professional_law-test-585": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_psychology-test-426": {
+    "claude-opus-4.6": "B"
+  },
+  "virology-test-104": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_psychology-test-151": {
+    "claude-opus-4.6": "B"
+  },
+  "professional_psychology-test-276": {
+    "claude-opus-4.6": "D"
+  },
+  "college_chemistry-test-20": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_government_and_politics-test-107": {
+    "claude-opus-4.6": "D"
+  },
+  "sociology-test-60": {
+    "claude-opus-4.6": "B"
+  },
+  "clinical_knowledge-test-38": {
+    "claude-opus-4.6": "B"
+  },
+  "security_studies-test-30": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_psychology-test-281": {
+    "claude-opus-4.6": "D"
+  },
+  "jurisprudence-test-8": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_mathematics-test-158": {
+    "claude-opus-4.6": "B"
+  },
+  "college_computer_science-test-88": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_geography-test-9": {
+    "claude-opus-4.6": "D"
+  },
+  "moral_scenarios-test-779": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_law-test-1131": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_psychology-test-268": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_geography-test-36": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_law-test-107": {
+    "claude-opus-4.6": "B"
+  },
+  "moral_disputes-test-12": {
+    "claude-opus-4.6": "B"
+  },
+  "international_law-test-39": {
+    "claude-opus-4.6": "B"
+  },
+  "professional_accounting-test-183": {
+    "claude-opus-4.6": "C"
+  },
+  "miscellaneous-test-133": {
+    "claude-opus-4.6": "C"
+  },
+  "elementary_mathematics-test-275": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_mathematics-test-111": {
+    "claude-opus-4.6": "A"
+  },
+  "elementary_mathematics-test-222": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_macroeconomics-test-202": {
+    "claude-opus-4.6": "D"
+  },
+  "professional_medicine-test-40": {
+    "claude-opus-4.6": "C"
+  },
+  "moral_scenarios-test-684": {
+    "claude-opus-4.6": "D"
+  },
+  "moral_scenarios-test-317": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_mathematics-test-76": {
+    "claude-opus-4.6": "D"
+  },
+  "professional_medicine-test-74": {
+    "claude-opus-4.6": "D"
+  },
+  "nutrition-test-169": {
+    "claude-opus-4.6": "A"
+  },
+  "management-test-72": {
+    "claude-opus-4.6": "A"
+  },
+  "nutrition-test-152": {
+    "claude-opus-4.6": "A"
+  },
+  "international_law-test-100": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_world_history-test-78": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_geography-test-146": {
+    "claude-opus-4.6": "C"
+  },
+  "elementary_mathematics-test-201": {
+    "claude-opus-4.6": "C"
+  },
+  "moral_disputes-test-181": {
+    "claude-opus-4.6": "B"
+  },
+  "miscellaneous-test-701": {
+    "claude-opus-4.6": "A"
+  },
+  "computer_security-test-18": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_medicine-test-217": {
+    "claude-opus-4.6": "D"
+  },
+  "college_biology-test-19": {
+    "claude-opus-4.6": "A"
+  },
+  "conceptual_physics-test-225": {
+    "claude-opus-4.6": "B"
+  },
+  "formal_logic-test-61": {
+    "claude-opus-4.6": "D"
+  },
+  "prehistory-test-255": {
+    "claude-opus-4.6": "D"
+  },
+  "global_facts-test-52": {
+    "claude-opus-4.6": "B"
+  },
+  "professional_psychology-test-540": {
+    "claude-opus-4.6": "B"
+  },
+  "professional_law-test-518": {
+    "claude-opus-4.6": "A"
+  },
+  "machine_learning-test-81": {
+    "claude-opus-4.6": "C"
+  },
+  "philosophy-test-57": {
+    "claude-opus-4.6": "C"
+  },
+  "college_computer_science-test-44": {
+    "claude-opus-4.6": "D"
+  },
+  "human_aging-test-215": {
+    "claude-opus-4.6": "C"
+  },
+  "human_aging-test-163": {
+    "claude-opus-4.6": "D"
+  },
+  "philosophy-test-49": {
+    "claude-opus-4.6": "D"
+  },
+  "miscellaneous-test-284": {
+    "claude-opus-4.6": "B"
+  },
+  "moral_scenarios-test-156": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_macroeconomics-test-281": {
+    "claude-opus-4.6": "A"
+  },
+  "moral_scenarios-test-551": {
+    "claude-opus-4.6": "C"
+  },
+  "anatomy-test-88": {
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-514": {
+    "claude-opus-4.6": "D"
+  },
+  "professional_law-test-1177": {
+    "claude-opus-4.6": "C"
+  },
+  "econometrics-test-70": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_law-test-538": {
+    "claude-opus-4.6": "A"
+  },
+  "moral_scenarios-test-284": {
+    "claude-opus-4.6": "B"
+  },
+  "professional_medicine-test-137": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_mathematics-test-143": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_psychology-test-155": {
+    "claude-opus-4.6": "B"
+  },
+  "professional_accounting-test-152": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_statistics-test-141": {
+    "claude-opus-4.6": "D"
+  },
+  "econometrics-test-21": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_physics-test-72": {
+    "claude-opus-4.6": "C"
+  },
+  "marketing-test-73": {
+    "claude-opus-4.6": "A"
+  },
+  "global_facts-test-22": {
+    "claude-opus-4.6": "D"
+  },
+  "miscellaneous-test-49": {
+    "claude-opus-4.6": "C"
+  },
+  "abstract_algebra-test-53": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_law-test-1199": {
+    "claude-opus-4.6": "B"
+  },
+  "professional_law-test-1160": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_mathematics-test-87": {
+    "claude-opus-4.6": "A"
+  },
+  "moral_disputes-test-34": {
+    "claude-opus-4.6": "B"
+  },
+  "professional_psychology-test-46": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_biology-test-258": {
+    "claude-opus-4.6": "C"
+  },
+  "moral_disputes-test-150": {
+    "claude-opus-4.6": "B"
+  },
+  "conceptual_physics-test-172": {
+    "claude-opus-4.6": "B"
+  },
+  "prehistory-test-219": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_psychology-test-2": {
+    "claude-opus-4.6": "D"
+  },
+  "virology-test-84": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_accounting-test-119": {
+    "claude-opus-4.6": "D"
+  },
+  "philosophy-test-263": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_computer_science-test-76": {
+    "claude-opus-4.6": "C"
+  },
+  "human_aging-test-37": {
+    "claude-opus-4.6": "B"
+  },
+  "professional_psychology-test-55": {
+    "claude-opus-4.6": "C"
+  },
+  "global_facts-test-77": {
+    "claude-opus-4.6": "A"
+  },
+  "moral_scenarios-test-324": {
+    "claude-opus-4.6": "B"
+  },
+  "professional_psychology-test-320": {
+    "claude-opus-4.6": "A"
+  },
+  "moral_scenarios-test-176": {
+    "claude-opus-4.6": "D"
+  },
+  "abstract_algebra-test-9": {
+    "claude-opus-4.6": ""
+  },
+  "philosophy-test-99": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_psychology-test-423": {
+    "claude-opus-4.6": "C"
+  },
+  "miscellaneous-test-621": {
+    "claude-opus-4.6": "D"
+  },
+  "astronomy-test-84": {
+    "claude-opus-4.6": "A"
+  },
+  "econometrics-test-26": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_world_history-test-95": {
+    "claude-opus-4.6": "A"
+  },
+  "us_foreign_policy-test-21": {
+    "claude-opus-4.6": "C"
+  },
+  "security_studies-test-59": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_psychology-test-151": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_macroeconomics-test-85": {
+    "claude-opus-4.6": "B"
+  },
+  "college_chemistry-test-53": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_macroeconomics-test-108": {
+    "claude-opus-4.6": "D"
+  },
+  "moral_scenarios-test-782": {
+    "claude-opus-4.6": "D"
+  },
+  "college_medicine-test-94": {
+    "claude-opus-4.6": "D"
+  },
+  "college_physics-test-34": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_law-test-1360": {
+    "claude-opus-4.6": "C"
+  },
+  "miscellaneous-test-578": {
+    "claude-opus-4.6": "D"
+  },
+  "security_studies-test-210": {
+    "claude-opus-4.6": "D"
+  },
+  "college_mathematics-test-37": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_psychology-test-24": {
+    "claude-opus-4.6": "B"
+  },
+  "moral_scenarios-test-214": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_psychology-test-110": {
+    "claude-opus-4.6": "B"
+  },
+  "electrical_engineering-test-140": {
+    "claude-opus-4.6": "A"
+  },
+  "elementary_mathematics-test-38": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_law-test-178": {
+    "claude-opus-4.6": "B"
+  },
+  "miscellaneous-test-403": {
+    "claude-opus-4.6": "D"
+  },
+  "moral_scenarios-test-494": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_biology-test-36": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_mathematics-test-114": {
+    "claude-opus-4.6": ""
+  },
+  "moral_scenarios-test-132": {
+    "claude-opus-4.6": "A"
+  },
+  "philosophy-test-224": {
+    "claude-opus-4.6": "D"
+  },
+  "machine_learning-test-97": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_geography-test-23": {
+    "claude-opus-4.6": "D"
+  },
+  "moral_scenarios-test-322": {
+    "claude-opus-4.6": "C"
+  },
+  "professional_medicine-test-209": {
+    "claude-opus-4.6": "D"
+  },
+  "professional_law-test-1328": {
+    "claude-opus-4.6": "D"
+  },
+  "professional_law-test-671": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_european_history-test-13": {
+    "claude-opus-4.6": "B"
+  },
+  "professional_law-test-1049": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_psychology-test-220": {
+    "claude-opus-4.6": "D"
+  },
+  "international_law-test-94": {
+    "claude-opus-4.6": "B"
+  },
+  "professional_law-test-373": {
+    "claude-opus-4.6": "B"
+  },
+  "human_aging-test-29": {
+    "claude-opus-4.6": "D"
+  },
+  "marketing-test-127": {
+    "claude-opus-4.6": "C"
+  },
+  "moral_disputes-test-312": {
+    "claude-opus-4.6": "C"
+  },
+  "miscellaneous-test-13": {
+    "claude-opus-4.6": "B"
+  },
+  "electrical_engineering-test-62": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_macroeconomics-test-223": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_government_and_politics-test-36": {
+    "claude-opus-4.6": "C"
+  },
+  "college_computer_science-test-53": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_statistics-test-107": {
+    "claude-opus-4.6": ""
+  },
+  "astronomy-test-109": {
+    "claude-opus-4.6": "B"
+  },
+  "nutrition-test-230": {
+    "claude-opus-4.6": "D"
+  },
+  "moral_scenarios-test-562": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_government_and_politics-test-125": {
+    "claude-opus-4.6": "A"
+  },
+  "nutrition-test-233": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_geography-test-161": {
+    "claude-opus-4.6": "A"
+  },
+  "anatomy-test-17": {
+    "claude-opus-4.6": "D"
+  },
+  "college_mathematics-test-67": {
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-966": {
+    "claude-opus-4.6": "A"
+  },
+  "prehistory-test-314": {
+    "claude-opus-4.6": "C"
+  },
+  "college_chemistry-test-68": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_government_and_politics-test-105": {
+    "claude-opus-4.6": "C"
+  },
+  "college_mathematics-test-8": {
+    "claude-opus-4.6": "C"
+  },
+  "clinical_knowledge-test-27": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_psychology-test-526": {
+    "claude-opus-4.6": "B"
+  },
+  "college_mathematics-test-64": {
+    "claude-opus-4.6": "A"
+  },
+  "moral_disputes-test-256": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_macroeconomics-test-61": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_microeconomics-test-64": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_law-test-329": {
+    "claude-opus-4.6": "D"
+  },
+  "miscellaneous-test-569": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_geography-test-63": {
+    "claude-opus-4.6": "D"
+  },
+  "moral_scenarios-test-321": {
+    "claude-opus-4.6": "D"
+  },
+  "elementary_mathematics-test-102": {
+    "claude-opus-4.6": "B"
+  },
+  "professional_law-test-1220": {
+    "claude-opus-4.6": "A"
+  },
+  "moral_scenarios-test-842": {
+    "claude-opus-4.6": "B"
+  },
+  "nutrition-test-32": {
+    "claude-opus-4.6": "C"
+  },
+  "miscellaneous-test-360": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_macroeconomics-test-143": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_psychology-test-418": {
+    "claude-opus-4.6": "D"
+  },
+  "miscellaneous-test-365": {
+    "claude-opus-4.6": "A"
+  },
+  "security_studies-test-71": {
+    "claude-opus-4.6": "D"
+  },
+  "jurisprudence-test-105": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_chemistry-test-140": {
+    "claude-opus-4.6": "A"
+  },
+  "computer_security-test-74": {
+    "claude-opus-4.6": "B"
+  },
+  "conceptual_physics-test-17": {
+    "claude-opus-4.6": "B"
+  },
+  "professional_law-test-165": {
+    "claude-opus-4.6": "A"
+  },
+  "marketing-test-12": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_us_history-test-156": {
+    "claude-opus-4.6": "A"
+  },
+  "machine_learning-test-104": {
+    "claude-opus-4.6": "A"
+  },
+  "logical_fallacies-test-63": {
+    "claude-opus-4.6": "C"
+  },
+  "miscellaneous-test-267": {
+    "claude-opus-4.6": "D"
+  },
+  "professional_law-test-1314": {
+    "claude-opus-4.6": "B"
+  },
+  "college_biology-test-135": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_law-test-401": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_law-test-75": {
+    "claude-opus-4.6": "B"
+  },
+  "professional_accounting-test-238": {
+    "claude-opus-4.6": "B"
+  },
+  "conceptual_physics-test-41": {
+    "claude-opus-4.6": "A"
+  },
+  "college_chemistry-test-97": {
+    "claude-opus-4.6": "A"
+  },
+  "jurisprudence-test-32": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_law-test-1300": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_statistics-test-127": {
+    "claude-opus-4.6": ""
+  },
+  "public_relations-test-67": {
+    "claude-opus-4.6": "A"
+  },
+  "conceptual_physics-test-219": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_macroeconomics-test-235": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_chemistry-test-160": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_chemistry-test-137": {
+    "claude-opus-4.6": "A"
+  },
+  "moral_scenarios-test-273": {
+    "claude-opus-4.6": "D"
+  },
+  "medical_genetics-test-66": {
+    "claude-opus-4.6": "A"
+  },
+  "elementary_mathematics-test-231": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_chemistry-test-27": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_microeconomics-test-65": {
+    "claude-opus-4.6": "A"
+  },
+  "miscellaneous-test-195": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_macroeconomics-test-254": {
+    "claude-opus-4.6": "C"
+  },
+  "college_medicine-test-39": {
+    "claude-opus-4.6": "A"
+  },
+  "marketing-test-210": {
+    "claude-opus-4.6": "B"
+  },
+  "security_studies-test-79": {
+    "claude-opus-4.6": "D"
+  },
+  "world_religions-test-153": {
+    "claude-opus-4.6": "B"
+  },
+  "moral_scenarios-test-503": {
+    "claude-opus-4.6": "B"
+  },
+  "conceptual_physics-test-33": {
+    "claude-opus-4.6": "A"
+  },
+  "college_biology-test-76": {
+    "claude-opus-4.6": "C"
+  },
+  "professional_law-test-53": {
+    "claude-opus-4.6": "B"
+  },
+  "moral_scenarios-test-343": {
+    "claude-opus-4.6": "D"
+  },
+  "us_foreign_policy-test-92": {
+    "claude-opus-4.6": "C"
+  },
+  "astronomy-test-6": {
+    "claude-opus-4.6": "B"
+  },
+  "computer_security-test-57": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_medicine-test-181": {
+    "claude-opus-4.6": "D"
+  },
+  "world_religions-test-34": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_macroeconomics-test-34": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_biology-test-55": {
+    "claude-opus-4.6": "D"
+  },
+  "jurisprudence-test-94": {
+    "claude-opus-4.6": "B"
+  },
+  "miscellaneous-test-572": {
+    "claude-opus-4.6": "B"
+  },
+  "miscellaneous-test-502": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_geography-test-55": {
+    "claude-opus-4.6": ""
+  },
+  "jurisprudence-test-6": {
+    "claude-opus-4.6": "D"
+  },
+  "college_chemistry-test-64": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_biology-test-28": {
+    "claude-opus-4.6": "D"
+  },
+  "human_aging-test-120": {
+    "claude-opus-4.6": "B"
+  },
+  "abstract_algebra-test-35": {
+    "claude-opus-4.6": "B"
+  },
+  "human_sexuality-test-84": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_mathematics-test-117": {
+    "claude-opus-4.6": "C"
+  },
+  "professional_psychology-test-409": {
+    "claude-opus-4.6": "C"
+  },
+  "professional_psychology-test-426": {
+    "claude-opus-4.6": "A"
+  },
+  "miscellaneous-test-70": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_microeconomics-test-175": {
+    "claude-opus-4.6": "D"
+  },
+  "machine_learning-test-95": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_law-test-781": {
+    "claude-opus-4.6": "B"
+  },
+  "professional_law-test-1337": {
+    "claude-opus-4.6": "D"
+  },
+  "professional_psychology-test-397": {
+    "claude-opus-4.6": "C"
+  },
+  "moral_scenarios-test-592": {
+    "claude-opus-4.6": "C"
+  },
+  "professional_law-test-213": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_law-test-1139": {
+    "claude-opus-4.6": "B"
+  },
+  "miscellaneous-test-589": {
+    "claude-opus-4.6": "C"
+  },
+  "formal_logic-test-93": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_chemistry-test-132": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_physics-test-125": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_geography-test-119": {
+    "claude-opus-4.6": "C"
+  },
+  "college_chemistry-test-62": {
+    "claude-opus-4.6": "A"
+  },
+  "nutrition-test-81": {
+    "claude-opus-4.6": "B"
+  },
+  "professional_law-test-1423": {
+    "claude-opus-4.6": "C"
+  },
+  "moral_scenarios-test-370": {
+    "claude-opus-4.6": "B"
+  },
+  "college_computer_science-test-2": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_medicine-test-89": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_psychology-test-251": {
+    "claude-opus-4.6": "A"
+  },
+  "college_chemistry-test-40": {
+    "claude-opus-4.6": "B"
+  },
+  "college_biology-test-69": {
+    "claude-opus-4.6": "B"
+  },
+  "nutrition-test-163": {
+    "claude-opus-4.6": "C"
+  },
+  "miscellaneous-test-427": {
+    "claude-opus-4.6": "C"
+  },
+  "moral_disputes-test-71": {
+    "claude-opus-4.6": "B"
+  },
+  "world_religions-test-99": {
+    "claude-opus-4.6": "A"
+  },
+  "moral_scenarios-test-188": {
+    "claude-opus-4.6": "C"
+  },
+  "global_facts-test-10": {
+    "claude-opus-4.6": "C"
+  },
+  "college_chemistry-test-35": {
+    "claude-opus-4.6": ""
+  },
+  "moral_disputes-test-153": {
+    "claude-opus-4.6": "C"
+  },
+  "college_medicine-test-116": {
+    "claude-opus-4.6": "A"
+  },
+  "world_religions-test-77": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_chemistry-test-65": {
+    "claude-opus-4.6": "A"
+  },
+  "college_mathematics-test-26": {
+    "claude-opus-4.6": ""
+  },
+  "philosophy-test-35": {
+    "claude-opus-4.6": "B"
+  },
+  "college_mathematics-test-17": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_law-test-431": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_macroeconomics-test-15": {
+    "claude-opus-4.6": "A"
+  },
+  "jurisprudence-test-51": {
+    "claude-opus-4.6": "A"
+  },
+  "electrical_engineering-test-44": {
+    "claude-opus-4.6": "A"
+  },
+  "moral_scenarios-test-820": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_macroeconomics-test-195": {
+    "claude-opus-4.6": "D"
+  },
+  "nutrition-test-77": {
+    "claude-opus-4.6": "D"
+  },
+  "philosophy-test-26": {
+    "claude-opus-4.6": "A"
+  },
+  "clinical_knowledge-test-164": {
+    "claude-opus-4.6": "B"
+  },
+  "prehistory-test-122": {
+    "claude-opus-4.6": "D"
+  },
+  "college_medicine-test-147": {
+    "claude-opus-4.6": "A"
+  },
+  "machine_learning-test-33": {
+    "claude-opus-4.6": "D"
+  },
+  "professional_law-test-139": {
+    "claude-opus-4.6": "D"
+  },
+  "nutrition-test-154": {
+    "claude-opus-4.6": "A"
+  },
+  "moral_scenarios-test-747": {
+    "claude-opus-4.6": "C"
+  },
+  "moral_scenarios-test-52": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_psychology-test-296": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_mathematics-test-44": {
+    "claude-opus-4.6": ""
+  },
+  "high_school_european_history-test-64": {
+    "claude-opus-4.6": "D"
+  },
+  "professional_law-test-341": {
+    "claude-opus-4.6": "B"
+  },
+  "professional_law-test-1103": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_psychology-test-260": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_macroeconomics-test-72": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_mathematics-test-123": {
+    "claude-opus-4.6": ""
+  },
+  "international_law-test-41": {
+    "claude-opus-4.6": "D"
+  },
+  "elementary_mathematics-test-79": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_accounting-test-226": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_psychology-test-28": {
+    "claude-opus-4.6": "D"
+  },
+  "miscellaneous-test-107": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_psychology-test-293": {
+    "claude-opus-4.6": "B"
+  },
+  "professional_medicine-test-153": {
+    "claude-opus-4.6": "D"
+  },
+  "college_mathematics-test-92": {
+    "claude-opus-4.6": "A"
+  },
+  "anatomy-test-52": {
+    "claude-opus-4.6": "B"
+  },
+  "miscellaneous-test-124": {
+    "claude-opus-4.6": "C"
+  },
+  "prehistory-test-152": {
+    "claude-opus-4.6": "C"
+  },
+  "moral_scenarios-test-711": {
+    "claude-opus-4.6": "A"
+  },
+  "conceptual_physics-test-67": {
+    "claude-opus-4.6": "A"
+  },
+  "college_medicine-test-4": {
+    "claude-opus-4.6": "D"
+  },
+  "moral_scenarios-test-295": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_geography-test-45": {
+    "claude-opus-4.6": "D"
+  },
+  "moral_disputes-test-121": {
+    "claude-opus-4.6": "B"
+  },
+  "elementary_mathematics-test-105": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_us_history-test-70": {
+    "claude-opus-4.6": "C"
+  },
+  "college_mathematics-test-31": {
+    "claude-opus-4.6": ""
+  },
+  "high_school_macroeconomics-test-164": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_world_history-test-202": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_microeconomics-test-171": {
+    "claude-opus-4.6": "D"
+  },
+  "global_facts-test-15": {
+    "claude-opus-4.6": "B"
+  },
+  "marketing-test-129": {
+    "claude-opus-4.6": "A"
+  },
+  "us_foreign_policy-test-55": {
+    "claude-opus-4.6": "A"
+  },
+  "moral_scenarios-test-387": {
+    "claude-opus-4.6": "C"
+  },
+  "professional_law-test-895": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_psychology-test-69": {
+    "claude-opus-4.6": "A"
+  },
+  "philosophy-test-307": {
+    "claude-opus-4.6": "D"
+  },
+  "professional_law-test-83": {
+    "claude-opus-4.6": "C"
+  },
+  "moral_scenarios-test-153": {
+    "claude-opus-4.6": "C"
+  },
+  "anatomy-test-28": {
+    "claude-opus-4.6": "C"
+  },
+  "professional_law-test-311": {
+    "claude-opus-4.6": "D"
+  },
+  "security_studies-test-228": {
+    "claude-opus-4.6": "C"
+  },
+  "moral_scenarios-test-573": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_psychology-test-18": {
+    "claude-opus-4.6": "D"
+  },
+  "professional_law-test-237": {
+    "claude-opus-4.6": "A"
+  },
+  "conceptual_physics-test-126": {
+    "claude-opus-4.6": "D"
+  },
+  "elementary_mathematics-test-135": {
+    "claude-opus-4.6": "C"
+  },
+  "econometrics-test-85": {
+    "claude-opus-4.6": "A"
+  },
+  "conceptual_physics-test-182": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_law-test-1532": {
+    "claude-opus-4.6": "A"
+  },
+  "formal_logic-test-103": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_mathematics-test-234": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_microeconomics-test-118": {
+    "claude-opus-4.6": "A"
+  },
+  "philosophy-test-195": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_geography-test-3": {
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1126": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_statistics-test-185": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_european_history-test-53": {
+    "claude-opus-4.6": "D"
+  },
+  "professional_law-test-632": {
+    "claude-opus-4.6": "C"
+  },
+  "professional_accounting-test-42": {
+    "claude-opus-4.6": "A"
+  },
+  "world_religions-test-103": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_mathematics-test-97": {
+    "claude-opus-4.6": "B"
+  },
+  "moral_disputes-test-113": {
+    "claude-opus-4.6": "A"
+  },
+  "miscellaneous-test-620": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_macroeconomics-test-276": {
+    "claude-opus-4.6": "A"
+  },
+  "virology-test-157": {
+    "claude-opus-4.6": "A"
+  },
+  "college_biology-test-80": {
+    "claude-opus-4.6": "C"
+  },
+  "computer_security-test-41": {
+    "claude-opus-4.6": "B"
+  },
+  "professional_accounting-test-43": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_microeconomics-test-35": {
+    "claude-opus-4.6": "A"
+  },
+  "clinical_knowledge-test-235": {
+    "claude-opus-4.6": ""
+  },
+  "abstract_algebra-test-58": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_statistics-test-32": {
+    "claude-opus-4.6": "D"
+  },
+  "professional_psychology-test-197": {
+    "claude-opus-4.6": "B"
+  },
+  "elementary_mathematics-test-78": {
+    "claude-opus-4.6": "D"
+  },
+  "professional_accounting-test-89": {
+    "claude-opus-4.6": ""
+  },
+  "high_school_mathematics-test-63": {
+    "claude-opus-4.6": "A"
+  },
+  "global_facts-test-78": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_law-test-1513": {
+    "claude-opus-4.6": "A"
+  },
+  "marketing-test-189": {
+    "claude-opus-4.6": "B"
+  },
+  "moral_scenarios-test-525": {
+    "claude-opus-4.6": "C"
+  },
+  "professional_law-test-930": {
+    "claude-opus-4.6": "D"
+  },
+  "management-test-60": {
+    "claude-opus-4.6": "D"
+  },
+  "moral_scenarios-test-676": {
+    "claude-opus-4.6": "A"
+  },
+  "anatomy-test-58": {
+    "claude-opus-4.6": "D"
+  },
+  "college_medicine-test-36": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_law-test-690": {
+    "claude-opus-4.6": "B"
+  },
+  "elementary_mathematics-test-377": {
+    "claude-opus-4.6": "B"
+  },
+  "moral_scenarios-test-425": {
+    "claude-opus-4.6": "B"
+  },
+  "clinical_knowledge-test-103": {
+    "claude-opus-4.6": "B"
+  },
+  "us_foreign_policy-test-69": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_world_history-test-197": {
+    "claude-opus-4.6": "B"
+  },
+  "nutrition-test-135": {
+    "claude-opus-4.6": "C"
+  },
+  "moral_scenarios-test-539": {
+    "claude-opus-4.6": "B"
+  },
+  "elementary_mathematics-test-361": {
+    "claude-opus-4.6": "C"
+  },
+  "management-test-94": {
+    "claude-opus-4.6": "C"
+  },
+  "elementary_mathematics-test-23": {
+    "claude-opus-4.6": "C"
+  },
+  "clinical_knowledge-test-198": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_psychology-test-163": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_world_history-test-122": {
+    "claude-opus-4.6": "C"
+  },
+  "professional_psychology-test-606": {
+    "claude-opus-4.6": "B"
+  },
+  "clinical_knowledge-test-166": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_world_history-test-10": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_european_history-test-159": {
+    "claude-opus-4.6": "C"
+  },
+  "professional_law-test-543": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_macroeconomics-test-250": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_law-test-296": {
+    "claude-opus-4.6": "C"
+  },
+  "conceptual_physics-test-113": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_us_history-test-146": {
+    "claude-opus-4.6": "B"
+  },
+  "professional_psychology-test-344": {
+    "claude-opus-4.6": "B"
+  },
+  "moral_scenarios-test-660": {
+    "claude-opus-4.6": "C"
+  },
+  "prehistory-test-143": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_medicine-test-114": {
+    "claude-opus-4.6": "B"
+  },
+  "formal_logic-test-89": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_macroeconomics-test-40": {
+    "claude-opus-4.6": "D"
+  },
+  "global_facts-test-93": {
+    "claude-opus-4.6": "A"
+  },
+  "public_relations-test-56": {
+    "claude-opus-4.6": "D"
+  },
+  "security_studies-test-124": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_biology-test-231": {
+    "claude-opus-4.6": "B"
+  },
+  "logical_fallacies-test-83": {
+    "claude-opus-4.6": "D"
+  },
+  "business_ethics-test-19": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_biology-test-269": {
+    "claude-opus-4.6": "C"
+  },
+  "professional_law-test-1436": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_statistics-test-10": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_psychology-test-381": {
+    "claude-opus-4.6": "D"
+  },
+  "logical_fallacies-test-73": {
+    "claude-opus-4.6": "A"
+  },
+  "public_relations-test-94": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_law-test-344": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_law-test-1412": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_macroeconomics-test-227": {
+    "claude-opus-4.6": "A"
+  },
+  "global_facts-test-39": {
+    "claude-opus-4.6": "B"
+  },
+  "professional_psychology-test-463": {
+    "claude-opus-4.6": "C"
+  },
+  "professional_law-test-858": {
+    "claude-opus-4.6": "D"
+  },
+  "conceptual_physics-test-200": {
+    "claude-opus-4.6": "A"
+  },
+  "human_aging-test-178": {
+    "claude-opus-4.6": "A"
+  },
+  "clinical_knowledge-test-147": {
+    "claude-opus-4.6": "B"
+  },
+  "miscellaneous-test-327": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_geography-test-197": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_computer_science-test-87": {
+    "claude-opus-4.6": "A"
+  },
+  "security_studies-test-219": {
+    "claude-opus-4.6": "C"
+  },
+  "miscellaneous-test-157": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_us_history-test-80": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_psychology-test-113": {
+    "claude-opus-4.6": "C"
+  },
+  "sociology-test-39": {
+    "claude-opus-4.6": "D"
+  },
+  "professional_psychology-test-593": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_government_and_politics-test-83": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_government_and_politics-test-7": {
+    "claude-opus-4.6": "D"
+  },
+  "business_ethics-test-0": {
+    "claude-opus-4.6": "C"
+  },
+  "professional_law-test-182": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_chemistry-test-185": {
+    "claude-opus-4.6": "A"
+  },
+  "international_law-test-85": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_psychology-test-491": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_microeconomics-test-66": {
+    "claude-opus-4.6": "A"
+  },
+  "college_mathematics-test-41": {
+    "claude-opus-4.6": "D"
+  },
+  "professional_psychology-test-233": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_microeconomics-test-75": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_us_history-test-105": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_accounting-test-161": {
+    "claude-opus-4.6": "A"
+  },
+  "moral_disputes-test-179": {
+    "claude-opus-4.6": "A"
+  },
+  "international_law-test-105": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_law-test-502": {
+    "claude-opus-4.6": "D"
+  },
+  "virology-test-117": {
+    "claude-opus-4.6": ""
+  },
+  "high_school_psychology-test-538": {
+    "claude-opus-4.6": "B"
+  },
+  "business_ethics-test-65": {
+    "claude-opus-4.6": "A"
+  },
+  "econometrics-test-83": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_mathematics-test-51": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_biology-test-256": {
+    "claude-opus-4.6": "D"
+  },
+  "nutrition-test-104": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_mathematics-test-121": {
+    "claude-opus-4.6": "A"
+  },
+  "clinical_knowledge-test-139": {
+    "claude-opus-4.6": "B"
+  },
+  "conceptual_physics-test-205": {
+    "claude-opus-4.6": "A"
+  },
+  "philosophy-test-60": {
+    "claude-opus-4.6": "A"
+  },
+  "marketing-test-69": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_us_history-test-15": {
+    "claude-opus-4.6": "C"
+  },
+  "professional_law-test-1305": {
+    "claude-opus-4.6": "C"
+  },
+  "professional_psychology-test-447": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_psychology-test-252": {
+    "claude-opus-4.6": "A"
+  },
+  "marketing-test-99": {
+    "claude-opus-4.6": "A"
+  },
+  "philosophy-test-218": {
+    "claude-opus-4.6": "B"
+  },
+  "moral_disputes-test-212": {
+    "claude-opus-4.6": "D"
+  },
+  "econometrics-test-88": {
+    "claude-opus-4.6": "D"
+  },
+  "human_aging-test-222": {
+    "claude-opus-4.6": "B"
+  },
+  "nutrition-test-38": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_chemistry-test-135": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_macroeconomics-test-335": {
+    "claude-opus-4.6": "A"
+  },
+  "clinical_knowledge-test-240": {
+    "claude-opus-4.6": "C"
+  },
+  "professional_law-test-981": {
+    "claude-opus-4.6": "C"
+  },
+  "marketing-test-94": {
+    "claude-opus-4.6": "D"
+  },
+  "abstract_algebra-test-27": {
+    "claude-opus-4.6": "A"
+  },
+  "moral_scenarios-test-5": {
+    "claude-opus-4.6": "C"
+  },
+  "security_studies-test-54": {
+    "claude-opus-4.6": "D"
+  },
+  "moral_scenarios-test-308": {
+    "claude-opus-4.6": "D"
+  },
+  "professional_law-test-622": {
+    "claude-opus-4.6": "D"
+  },
+  "professional_law-test-1156": {
+    "claude-opus-4.6": "B"
+  },
+  "professional_law-test-1525": {
+    "claude-opus-4.6": "D"
+  },
+  "professional_law-test-1444": {
+    "claude-opus-4.6": "D"
+  },
+  "professional_law-test-356": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_computer_science-test-46": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_world_history-test-115": {
+    "claude-opus-4.6": "A"
+  },
+  "marketing-test-16": {
+    "claude-opus-4.6": "D"
+  },
+  "college_mathematics-test-50": {
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-251": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_psychology-test-522": {
+    "claude-opus-4.6": "B"
+  },
+  "prehistory-test-184": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_psychology-test-256": {
+    "claude-opus-4.6": "D"
+  },
+  "world_religions-test-22": {
+    "claude-opus-4.6": "A"
+  },
+  "electrical_engineering-test-121": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_law-test-1161": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_psychology-test-33": {
+    "claude-opus-4.6": "D"
+  },
+  "moral_disputes-test-141": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_psychology-test-180": {
+    "claude-opus-4.6": "B"
+  },
+  "professional_law-test-295": {
+    "claude-opus-4.6": "D"
+  },
+  "logical_fallacies-test-19": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_psychology-test-457": {
+    "claude-opus-4.6": "D"
+  },
+  "jurisprudence-test-28": {
+    "claude-opus-4.6": "D"
+  },
+  "professional_law-test-792": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_physics-test-108": {
+    "claude-opus-4.6": "C"
+  },
+  "moral_scenarios-test-570": {
+    "claude-opus-4.6": "A"
+  },
+  "elementary_mathematics-test-20": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_chemistry-test-164": {
+    "claude-opus-4.6": "A"
+  },
+  "machine_learning-test-53": {
+    "claude-opus-4.6": "C"
+  },
+  "professional_law-test-263": {
+    "claude-opus-4.6": "C"
+  },
+  "human_aging-test-122": {
+    "claude-opus-4.6": "C"
+  },
+  "professional_law-test-466": {
+    "claude-opus-4.6": "C"
+  },
+  "professional_medicine-test-92": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_biology-test-182": {
+    "claude-opus-4.6": "C"
+  },
+  "prehistory-test-59": {
+    "claude-opus-4.6": "B"
+  },
+  "moral_scenarios-test-811": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_psychology-test-43": {
+    "claude-opus-4.6": "B"
+  },
+  "jurisprudence-test-89": {
+    "claude-opus-4.6": "C"
+  },
+  "moral_scenarios-test-464": {
+    "claude-opus-4.6": "D"
+  },
+  "us_foreign_policy-test-54": {
+    "claude-opus-4.6": "A"
+  },
+  "abstract_algebra-test-6": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_psychology-test-91": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_microeconomics-test-202": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_european_history-test-161": {
+    "claude-opus-4.6": "A"
+  },
+  "management-test-96": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_psychology-test-436": {
+    "claude-opus-4.6": "B"
+  },
+  "nutrition-test-94": {
+    "claude-opus-4.6": "A"
+  },
+  "philosophy-test-225": {
+    "claude-opus-4.6": "C"
+  },
+  "professional_law-test-95": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_psychology-test-392": {
+    "claude-opus-4.6": "D"
+  },
+  "miscellaneous-test-234": {
+    "claude-opus-4.6": "B"
+  },
+  "marketing-test-188": {
+    "claude-opus-4.6": "B"
+  },
+  "marketing-test-194": {
+    "claude-opus-4.6": "D"
+  },
+  "professional_law-test-438": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_geography-test-54": {
+    "claude-opus-4.6": "D"
+  },
+  "moral_disputes-test-208": {
+    "claude-opus-4.6": "B"
+  },
+  "miscellaneous-test-368": {
+    "claude-opus-4.6": "D"
+  },
+  "professional_psychology-test-567": {
+    "claude-opus-4.6": "C"
+  },
+  "professional_psychology-test-605": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_law-test-1426": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_biology-test-111": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_law-test-163": {
+    "claude-opus-4.6": "D"
+  },
+  "college_physics-test-20": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_microeconomics-test-151": {
+    "claude-opus-4.6": "A"
+  },
+  "moral_disputes-test-278": {
+    "claude-opus-4.6": "C"
+  },
+  "professional_law-test-245": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_accounting-test-21": {
+    "claude-opus-4.6": ""
+  },
+  "prehistory-test-120": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_statistics-test-59": {
+    "claude-opus-4.6": "D"
+  },
+  "computer_security-test-59": {
+    "claude-opus-4.6": "D"
+  },
+  "sociology-test-5": {
+    "claude-opus-4.6": "B"
+  },
+  "professional_medicine-test-141": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_macroeconomics-test-10": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_law-test-392": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_psychology-test-198": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_government_and_politics-test-35": {
+    "claude-opus-4.6": "D"
+  },
+  "security_studies-test-55": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_computer_science-test-80": {
+    "claude-opus-4.6": "A"
+  },
+  "elementary_mathematics-test-349": {
+    "claude-opus-4.6": "A"
+  },
+  "business_ethics-test-13": {
+    "claude-opus-4.6": "B"
+  },
+  "college_biology-test-5": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_macroeconomics-test-173": {
+    "claude-opus-4.6": "A"
+  },
+  "miscellaneous-test-400": {
+    "claude-opus-4.6": "B"
+  },
+  "philosophy-test-301": {
+    "claude-opus-4.6": "D"
+  },
+  "world_religions-test-51": {
+    "claude-opus-4.6": "B"
+  },
+  "professional_psychology-test-153": {
+    "claude-opus-4.6": "A"
+  },
+  "college_mathematics-test-97": {
+    "claude-opus-4.6": ""
+  },
+  "miscellaneous-test-77": {
+    "claude-opus-4.6": "C"
+  },
+  "logical_fallacies-test-118": {
+    "claude-opus-4.6": "A"
+  },
+  "prehistory-test-293": {
+    "claude-opus-4.6": "D"
+  },
+  "nutrition-test-23": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_computer_science-test-3": {
+    "claude-opus-4.6": "C"
+  },
+  "professional_law-test-1138": {
+    "claude-opus-4.6": "B"
+  },
+  "professional_law-test-778": {
+    "claude-opus-4.6": "D"
+  },
+  "human_aging-test-202": {
+    "claude-opus-4.6": "C"
+  },
+  "miscellaneous-test-715": {
+    "claude-opus-4.6": "B"
+  },
+  "international_law-test-104": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_macroeconomics-test-159": {
+    "claude-opus-4.6": "A"
+  },
+  "elementary_mathematics-test-352": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_law-test-117": {
+    "claude-opus-4.6": "C"
+  },
+  "professional_law-test-635": {
+    "claude-opus-4.6": "D"
+  },
+  "abstract_algebra-test-90": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_medicine-test-138": {
+    "claude-opus-4.6": "D"
+  },
+  "professional_psychology-test-179": {
+    "claude-opus-4.6": "A"
+  },
+  "conceptual_physics-test-175": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_psychology-test-316": {
+    "claude-opus-4.6": "B"
+  },
+  "management-test-18": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_geography-test-138": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_biology-test-212": {
+    "claude-opus-4.6": "C"
+  },
+  "security_studies-test-15": {
+    "claude-opus-4.6": "C"
+  },
+  "professional_law-test-770": {
+    "claude-opus-4.6": "B"
+  },
+  "moral_disputes-test-319": {
+    "claude-opus-4.6": "A"
+  },
+  "miscellaneous-test-227": {
+    "claude-opus-4.6": "C"
+  },
+  "college_biology-test-70": {
+    "claude-opus-4.6": "A"
+  },
+  "moral_scenarios-test-619": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_macroeconomics-test-244": {
+    "claude-opus-4.6": "D"
+  },
+  "world_religions-test-28": {
+    "claude-opus-4.6": "C"
+  },
+  "electrical_engineering-test-68": {
+    "claude-opus-4.6": "C"
+  },
+  "miscellaneous-test-94": {
+    "claude-opus-4.6": "A"
+  },
+  "elementary_mathematics-test-119": {
+    "claude-opus-4.6": "B"
+  },
+  "public_relations-test-81": {
+    "claude-opus-4.6": "A"
+  },
+  "miscellaneous-test-228": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_law-test-306": {
+    "claude-opus-4.6": "C"
+  },
+  "moral_scenarios-test-189": {
+    "claude-opus-4.6": "A"
+  },
+  "moral_scenarios-test-644": {
+    "claude-opus-4.6": "B"
+  },
+  "philosophy-test-41": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_psychology-test-311": {
+    "claude-opus-4.6": "D"
+  },
+  "marketing-test-201": {
+    "claude-opus-4.6": "C"
+  },
+  "prehistory-test-12": {
+    "claude-opus-4.6": "C"
+  },
+  "security_studies-test-194": {
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1153": {
+    "claude-opus-4.6": "A"
+  },
+  "moral_disputes-test-103": {
+    "claude-opus-4.6": "D"
+  },
+  "management-test-44": {
+    "claude-opus-4.6": "A"
+  },
+  "us_foreign_policy-test-3": {
+    "claude-opus-4.6": "A"
+  },
+  "moral_scenarios-test-463": {
+    "claude-opus-4.6": "D"
+  },
+  "medical_genetics-test-21": {
+    "claude-opus-4.6": "A"
+  },
+  "global_facts-test-38": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_medicine-test-19": {
+    "claude-opus-4.6": "C"
+  },
+  "miscellaneous-test-393": {
+    "claude-opus-4.6": "D"
+  },
+  "medical_genetics-test-89": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_mathematics-test-18": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_medicine-test-152": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_macroeconomics-test-212": {
+    "claude-opus-4.6": "C"
+  },
+  "virology-test-55": {
+    "claude-opus-4.6": "D"
+  },
+  "professional_accounting-test-98": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_microeconomics-test-45": {
+    "claude-opus-4.6": "D"
+  },
+  "professional_psychology-test-304": {
+    "claude-opus-4.6": "A"
+  },
+  "moral_scenarios-test-27": {
+    "claude-opus-4.6": "C"
+  },
+  "miscellaneous-test-555": {
+    "claude-opus-4.6": "C"
+  },
+  "prehistory-test-243": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_macroeconomics-test-81": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_microeconomics-test-1": {
+    "claude-opus-4.6": ""
+  },
+  "marketing-test-156": {
+    "claude-opus-4.6": "B"
+  },
+  "college_medicine-test-73": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_law-test-1059": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_microeconomics-test-183": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_macroeconomics-test-3": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_mathematics-test-223": {
+    "claude-opus-4.6": ""
+  },
+  "high_school_statistics-test-70": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_psychology-test-351": {
+    "claude-opus-4.6": "D"
+  },
+  "moral_scenarios-test-336": {
+    "claude-opus-4.6": "B"
+  },
+  "college_medicine-test-124": {
+    "claude-opus-4.6": "A"
+  },
+  "elementary_mathematics-test-202": {
+    "claude-opus-4.6": "A"
+  },
+  "formal_logic-test-28": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_government_and_politics-test-143": {
+    "claude-opus-4.6": "A"
+  },
+  "human_aging-test-186": {
+    "claude-opus-4.6": "C"
+  },
+  "professional_law-test-738": {
+    "claude-opus-4.6": "A"
+  },
+  "formal_logic-test-60": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_law-test-942": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_geography-test-58": {
+    "claude-opus-4.6": "D"
+  },
+  "college_computer_science-test-56": {
+    "claude-opus-4.6": ""
+  },
+  "logical_fallacies-test-125": {
+    "claude-opus-4.6": "B"
+  },
+  "logical_fallacies-test-6": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_psychology-test-534": {
+    "claude-opus-4.6": "D"
+  },
+  "moral_scenarios-test-377": {
+    "claude-opus-4.6": "C"
+  },
+  "miscellaneous-test-249": {
+    "claude-opus-4.6": "A"
+  },
+  "logical_fallacies-test-140": {
+    "claude-opus-4.6": "D"
+  },
+  "college_computer_science-test-24": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_european_history-test-106": {
+    "claude-opus-4.6": "B"
+  },
+  "us_foreign_policy-test-41": {
+    "claude-opus-4.6": "A"
+  },
+  "machine_learning-test-48": {
+    "claude-opus-4.6": "A"
+  },
+  "human_sexuality-test-69": {
+    "claude-opus-4.6": "C"
+  },
+  "professional_psychology-test-175": {
+    "claude-opus-4.6": "C"
+  },
+  "nutrition-test-161": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_law-test-764": {
+    "claude-opus-4.6": "B"
+  },
+  "astronomy-test-85": {
+    "claude-opus-4.6": "A"
+  },
+  "world_religions-test-165": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_psychology-test-106": {
+    "claude-opus-4.6": "B"
+  },
+  "nutrition-test-24": {
+    "claude-opus-4.6": "C"
+  },
+  "human_aging-test-143": {
+    "claude-opus-4.6": "B"
+  },
+  "miscellaneous-test-430": {
+    "claude-opus-4.6": "D"
+  },
+  "abstract_algebra-test-96": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_us_history-test-115": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_psychology-test-5": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_medicine-test-179": {
+    "claude-opus-4.6": "D"
+  },
+  "human_sexuality-test-77": {
+    "claude-opus-4.6": "B"
+  },
+  "world_religions-test-111": {
+    "claude-opus-4.6": "A"
+  },
+  "us_foreign_policy-test-87": {
+    "claude-opus-4.6": "C"
+  },
+  "machine_learning-test-30": {
+    "claude-opus-4.6": "C"
+  },
+  "moral_scenarios-test-305": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_medicine-test-82": {
+    "claude-opus-4.6": ""
+  },
+  "professional_law-test-1405": {
+    "claude-opus-4.6": "C"
+  },
+  "moral_scenarios-test-434": {
+    "claude-opus-4.6": "C"
+  },
+  "philosophy-test-169": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_geography-test-166": {
+    "claude-opus-4.6": "C"
+  },
+  "miscellaneous-test-615": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_geography-test-148": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_mathematics-test-243": {
+    "claude-opus-4.6": "A"
+  },
+  "marketing-test-90": {
+    "claude-opus-4.6": "A"
+  },
+  "business_ethics-test-88": {
+    "claude-opus-4.6": "B"
+  },
+  "human_sexuality-test-59": {
+    "claude-opus-4.6": ""
+  },
+  "high_school_statistics-test-75": {
+    "claude-opus-4.6": "B"
+  },
+  "professional_law-test-327": {
+    "claude-opus-4.6": "D"
+  },
+  "professional_law-test-496": {
+    "claude-opus-4.6": "B"
+  },
+  "public_relations-test-27": {
+    "claude-opus-4.6": "A"
+  },
+  "jurisprudence-test-60": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_law-test-1233": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_biology-test-35": {
+    "claude-opus-4.6": "C"
+  },
+  "virology-test-65": {
+    "claude-opus-4.6": "A"
+  },
+  "miscellaneous-test-273": {
+    "claude-opus-4.6": "A"
+  },
+  "elementary_mathematics-test-26": {
+    "claude-opus-4.6": "D"
+  },
+  "prehistory-test-170": {
+    "claude-opus-4.6": "C"
+  },
+  "business_ethics-test-54": {
+    "claude-opus-4.6": "A"
+  },
+  "international_law-test-12": {
+    "claude-opus-4.6": "C"
+  },
+  "nutrition-test-289": {
+    "claude-opus-4.6": "A"
+  },
+  "moral_scenarios-test-733": {
+    "claude-opus-4.6": "D"
+  },
+  "professional_law-test-231": {
+    "claude-opus-4.6": "B"
+  },
+  "business_ethics-test-57": {
+    "claude-opus-4.6": "A"
+  },
+  "college_physics-test-6": {
+    "claude-opus-4.6": "C"
+  },
+  "professional_accounting-test-181": {
+    "claude-opus-4.6": "D"
+  },
+  "management-test-75": {
+    "claude-opus-4.6": "C"
+  },
+  "elementary_mathematics-test-158": {
+    "claude-opus-4.6": "A"
+  },
+  "miscellaneous-test-180": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_biology-test-308": {
+    "claude-opus-4.6": "B"
+  },
+  "college_biology-test-71": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_mathematics-test-34": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_psychology-test-476": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_geography-test-20": {
+    "claude-opus-4.6": "C"
+  },
+  "miscellaneous-test-65": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_psychology-test-468": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_statistics-test-97": {
+    "claude-opus-4.6": "B"
+  },
+  "professional_psychology-test-34": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_microeconomics-test-60": {
+    "claude-opus-4.6": "B"
+  },
+  "professional_medicine-test-155": {
+    "claude-opus-4.6": "D"
+  },
+  "us_foreign_policy-test-25": {
+    "claude-opus-4.6": "C"
+  },
+  "machine_learning-test-71": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_macroeconomics-test-295": {
+    "claude-opus-4.6": "A"
+  },
+  "us_foreign_policy-test-74": {
+    "claude-opus-4.6": "A"
+  },
+  "college_medicine-test-145": {
+    "claude-opus-4.6": "A"
+  },
+  "miscellaneous-test-321": {
+    "claude-opus-4.6": "D"
+  },
+  "astronomy-test-82": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_medicine-test-107": {
+    "claude-opus-4.6": "B"
+  },
+  "college_biology-test-101": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_us_history-test-85": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_government_and_politics-test-28": {
+    "claude-opus-4.6": "D"
+  },
+  "professional_law-test-20": {
+    "claude-opus-4.6": "C"
+  },
+  "college_mathematics-test-28": {
+    "claude-opus-4.6": ""
+  },
+  "professional_psychology-test-362": {
+    "claude-opus-4.6": "B"
+  },
+  "professional_law-test-47": {
+    "claude-opus-4.6": "B"
+  },
+  "clinical_knowledge-test-172": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_medicine-test-192": {
+    "claude-opus-4.6": "A"
+  },
+  "clinical_knowledge-test-21": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_macroeconomics-test-213": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_computer_science-test-84": {
+    "claude-opus-4.6": "C"
+  },
+  "virology-test-44": {
+    "claude-opus-4.6": "A"
+  },
+  "astronomy-test-98": {
+    "claude-opus-4.6": "A"
+  },
+  "prehistory-test-154": {
+    "claude-opus-4.6": "D"
+  },
+  "formal_logic-test-53": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_macroeconomics-test-70": {
+    "claude-opus-4.6": "A"
+  },
+  "elementary_mathematics-test-3": {
+    "claude-opus-4.6": "B"
+  },
+  "miscellaneous-test-374": {
+    "claude-opus-4.6": "B"
+  },
+  "professional_law-test-337": {
+    "claude-opus-4.6": "A"
+  },
+  "econometrics-test-68": {
+    "claude-opus-4.6": "B"
+  },
+  "moral_scenarios-test-727": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_geography-test-124": {
+    "claude-opus-4.6": "B"
+  },
+  "miscellaneous-test-235": {
+    "claude-opus-4.6": "B"
+  },
+  "professional_law-test-829": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_macroeconomics-test-360": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_psychology-test-127": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_world_history-test-191": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_biology-test-80": {
+    "claude-opus-4.6": "C"
+  },
+  "philosophy-test-212": {
+    "claude-opus-4.6": "A"
+  },
+  "philosophy-test-235": {
+    "claude-opus-4.6": "C"
+  },
+  "professional_psychology-test-306": {
+    "claude-opus-4.6": "A"
+  },
+  "sociology-test-19": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_biology-test-14": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_psychology-test-209": {
+    "claude-opus-4.6": "A"
+  },
+  "nutrition-test-73": {
+    "claude-opus-4.6": "A"
+  },
+  "business_ethics-test-33": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_psychology-test-224": {
+    "claude-opus-4.6": "C"
+  },
+  "nutrition-test-25": {
+    "claude-opus-4.6": "D"
+  },
+  "human_aging-test-60": {
+    "claude-opus-4.6": "B"
+  },
+  "international_law-test-55": {
+    "claude-opus-4.6": "B"
+  },
+  "professional_law-test-1083": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_computer_science-test-67": {
+    "claude-opus-4.6": ""
+  },
+  "college_medicine-test-49": {
+    "claude-opus-4.6": ""
+  },
+  "nutrition-test-292": {
+    "claude-opus-4.6": "C"
+  },
+  "professional_law-test-684": {
+    "claude-opus-4.6": "C"
+  },
+  "prehistory-test-251": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_macroeconomics-test-140": {
+    "claude-opus-4.6": "A"
+  },
+  "conceptual_physics-test-98": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_law-test-791": {
+    "claude-opus-4.6": "B"
+  },
+  "professional_psychology-test-219": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_psychology-test-54": {
+    "claude-opus-4.6": "C"
+  },
+  "world_religions-test-60": {
+    "claude-opus-4.6": "B"
+  },
+  "professional_law-test-579": {
+    "claude-opus-4.6": "A"
+  },
+  "philosophy-test-123": {
+    "claude-opus-4.6": "D"
+  },
+  "security_studies-test-38": {
+    "claude-opus-4.6": "D"
+  },
+  "electrical_engineering-test-63": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_psychology-test-608": {
+    "claude-opus-4.6": "D"
+  },
+  "moral_scenarios-test-759": {
+    "claude-opus-4.6": "C"
+  },
+  "professional_psychology-test-385": {
+    "claude-opus-4.6": "C"
+  },
+  "clinical_knowledge-test-185": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_us_history-test-40": {
+    "claude-opus-4.6": "A"
+  },
+  "moral_scenarios-test-215": {
+    "claude-opus-4.6": "B"
+  },
+  "management-test-71": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_law-test-207": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_world_history-test-219": {
+    "claude-opus-4.6": "C"
+  },
+  "college_mathematics-test-33": {
+    "claude-opus-4.6": "A"
+  },
+  "moral_disputes-test-122": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_accounting-test-260": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_statistics-test-158": {
+    "claude-opus-4.6": "A"
+  },
+  "anatomy-test-107": {
+    "claude-opus-4.6": "C"
+  },
+  "world_religions-test-48": {
+    "claude-opus-4.6": "A"
+  },
+  "machine_learning-test-47": {
+    "claude-opus-4.6": "A"
+  },
+  "sociology-test-69": {
+    "claude-opus-4.6": "A"
+  },
+  "miscellaneous-test-647": {
+    "claude-opus-4.6": "A"
+  },
+  "conceptual_physics-test-158": {
+    "claude-opus-4.6": "C"
+  },
+  "marketing-test-52": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_world_history-test-82": {
+    "claude-opus-4.6": "D"
+  },
+  "professional_accounting-test-64": {
+    "claude-opus-4.6": "B"
+  },
+  "sociology-test-173": {
+    "claude-opus-4.6": "B"
+  },
+  "miscellaneous-test-148": {
+    "claude-opus-4.6": "D"
+  },
+  "professional_law-test-957": {
+    "claude-opus-4.6": "C"
+  },
+  "formal_logic-test-63": {
+    "claude-opus-4.6": "A"
+  },
+  "marketing-test-85": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_biology-test-216": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_law-test-1391": {
+    "claude-opus-4.6": "C"
+  },
+  "moral_scenarios-test-35": {
+    "claude-opus-4.6": "B"
+  },
+  "professional_law-test-26": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_mathematics-test-197": {
+    "claude-opus-4.6": "B"
+  },
+  "prehistory-test-66": {
+    "claude-opus-4.6": "B"
+  },
+  "security_studies-test-82": {
+    "claude-opus-4.6": "D"
+  },
+  "moral_scenarios-test-304": {
+    "claude-opus-4.6": "C"
+  },
+  "professional_psychology-test-254": {
+    "claude-opus-4.6": "C"
+  },
+  "miscellaneous-test-537": {
+    "claude-opus-4.6": "C"
+  },
+  "miscellaneous-test-232": {
+    "claude-opus-4.6": "B"
+  },
+  "marketing-test-86": {
+    "claude-opus-4.6": "C"
+  },
+  "sociology-test-124": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_law-test-1346": {
+    "claude-opus-4.6": "A"
+  },
+  "nutrition-test-299": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_mathematics-test-169": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_psychology-test-393": {
+    "claude-opus-4.6": "D"
+  },
+  "world_religions-test-83": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_macroeconomics-test-184": {
+    "claude-opus-4.6": "D"
+  },
+  "us_foreign_policy-test-5": {
+    "claude-opus-4.6": "D"
+  },
+  "college_physics-test-50": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_microeconomics-test-71": {
+    "claude-opus-4.6": "D"
+  },
+  "miscellaneous-test-1": {
+    "claude-opus-4.6": "B"
+  },
+  "high_school_macroeconomics-test-157": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_medicine-test-130": {
+    "claude-opus-4.6": "D"
+  },
+  "miscellaneous-test-229": {
+    "claude-opus-4.6": "B"
+  },
+  "moral_scenarios-test-823": {
+    "claude-opus-4.6": "C"
+  },
+  "philosophy-test-285": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_law-test-316": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_statistics-test-79": {
+    "claude-opus-4.6": "C"
+  },
+  "business_ethics-test-83": {
+    "claude-opus-4.6": "D"
+  },
+  "miscellaneous-test-714": {
+    "claude-opus-4.6": "C"
+  },
+  "world_religions-test-71": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_psychology-test-438": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_chemistry-test-0": {
+    "claude-opus-4.6": "A"
+  },
+  "miscellaneous-test-604": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_geography-test-28": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_us_history-test-165": {
+    "claude-opus-4.6": "C"
+  },
+  "public_relations-test-22": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_mathematics-test-4": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_statistics-test-144": {
+    "claude-opus-4.6": ""
+  },
+  "high_school_microeconomics-test-83": {
+    "claude-opus-4.6": "D"
+  },
+  "philosophy-test-53": {
+    "claude-opus-4.6": "C"
+  },
+  "professional_law-test-857": {
+    "claude-opus-4.6": "C"
+  },
+  "high_school_microeconomics-test-28": {
+    "claude-opus-4.6": "A"
+  },
+  "moral_scenarios-test-593": {
+    "claude-opus-4.6": "B"
+  },
+  "anatomy-test-66": {
+    "claude-opus-4.6": "D"
+  },
+  "moral_disputes-test-297": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_chemistry-test-151": {
+    "claude-opus-4.6": "A"
+  },
+  "college_physics-test-33": {
+    "claude-opus-4.6": "A"
+  },
+  "high_school_macroeconomics-test-116": {
+    "claude-opus-4.6": "D"
+  },
+  "professional_law-test-1166": {
+    "claude-opus-4.6": "A"
+  },
+  "moral_scenarios-test-583": {
+    "claude-opus-4.6": "B"
+  },
+  "professional_medicine-test-256": {
+    "claude-opus-4.6": "D"
+  },
+  "high_school_macroeconomics-test-99": {
+    "claude-opus-4.6": "D"
+  },
+  "professional_law-test-683": {
+    "claude-opus-4.6": "D"
+  },
+  "miscellaneous-test-416": {
+    "claude-opus-4.6": "C"
+  },
+  "professional_accounting-test-233": {
+    "claude-opus-4.6": "A"
+  },
+  "professional_law-test-1031": {
+    "claude-opus-4.6": "C"
+  },
+  "miscellaneous-test-657": {
+    "claude-opus-4.6": "B"
+  },
+  "medical_genetics-test-58": {
+    "claude-opus-4.6": "A"
+  }
+}

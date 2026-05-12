@@ -1,0 +1,1 @@
+{"stage2_dir": "outputs/stage2/run_20260429_045750", "retry_rows_attempted": 1179, "old_error_rows": 1179, "new_error_rows": 0, "fixed_rows": 1179, "merged_total_rows": 1785, "merged_round2_candidates": 1546, "judge_model": "gemini-2.0-flash", "workers": 4, "models_filter": ["gpt-5.2"]}

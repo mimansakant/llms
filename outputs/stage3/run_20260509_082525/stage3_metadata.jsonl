@@ -1,0 +1,1 @@
+{"seed": 42, "num_round1_rows": 1785, "num_round2_candidates": 1690, "num_round2_rows": 1690, "num_combined_rows": 3475, "target_models_filter": ["claude-opus-4.6"], "judge_model": "gemini-2.0-flash", "workers": 4}
